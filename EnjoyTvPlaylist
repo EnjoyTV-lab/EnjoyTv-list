@@ -77,7 +77,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=salamhd
 
 
-#EXTINF:-1 group-logo="" channel-id="118" tvg-name="Inspirasi" tvg-logo="https://get.perfecttv.net/logo/inspirasi.png" group-title="MALAYSIA",111 Inspirasi 
+##EXTINF:-1 group-logo="" channel-id="118" tvg-name="Inspirasi" tvg-logo="https://get.perfecttv.net/logo/inspirasi.png" group-title="MALAYSIA",111 Inspirasi 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
