@@ -371,7 +371,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.imgur.com/bRgrQGI.png",GTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 group-title="Indonesia"  tvg-logo="https://i.imgur.com/QWeAZ6j.png",ANTV
+#EXTINF:-1 group-title="Indonesia"  tvg-logo="https://get.perfecttv.net/logo/antv.png",ANTV
 https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
 
 #EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/37TyIbE.png" group-title="Indonesia", RTV
