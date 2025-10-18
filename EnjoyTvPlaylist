@@ -498,7 +498,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #EXTINF:-1 tvg-id="IMC" tvg-logo="https://www.visionplus.id/images/repository/342/10342-LOGO-m.png" group-title="Indonesia",IMC
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg" group-title="Indonesia", GARUDA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Logo_GarudaTV_3D_Putih_Silver_Merah.png" group-title="Indonesia", GARUDA TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
