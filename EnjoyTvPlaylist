@@ -1164,41 +1164,6 @@ http://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/mutv.png",800 MUTV
 https://get.perfecttv.net/mutv.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/champions1.png",816 Champions 1 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
-https://get.perfecttv.net/vidio_live.mpd?username=vip_99cc537p&password=9J0jteen&id=17938
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/champions2.png",816 Champions 2 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8810a06df6e5437aa378be1aef6a3d9:f9e0f84b886f7402738c2e201af9f4db
-https://get.perfecttv.net/vidio_live.mpd?username=vip_99cc537p&password=9J0jteen&id=6686
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/champions3.png",816 Champions 3 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
-https://get.perfecttv.net/vidio_live.mpd?username=vip_99cc537p&password=9J0jteen&id=6786
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/champions5.png",816 Champions 5 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
-https://get.perfecttv.net/vidio_live.mpd?username=vip_99cc537p&password=9J0jteen&id=9182
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/champions6.png",816 Champions 6 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
-https://get.perfecttv.net/vidio_live.mpd?username=vip_99cc537p&password=9J0jteen&id=9183
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/arenafhd.png",801 Arena FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1421,17 +1386,9 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/13132.ts
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://astro.com.my
 http://cool365.xyz:900/live/4160189881/DB4ACD54/13131.ts
 
-#EXTINF:-1 tvg-id="BEIN SPORTS 1 FRANCE FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/bein1fhd.png", BEIN SPORTS 1 FRANCE FHD
-#EXTVLCOPT:http-user-agent=IPTVPROPlayer
-http://cool365.xyz:900/live/4160189881/DB4ACD54/615.ts
-
 #EXTINF:-1 tvg-id="BEIN SPORTS 2 FRANCE FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/bein2fhd.png", BEIN SPORTS 2 FRANCE FHD
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 http://cool365.xyz:900/live/4160189881/DB4ACD54/616.ts
-
-#EXTINF:-1 tvg-id="BEIN SPORTS FRANCE 3 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/bein3fhd.png", BEIN SPORTS 3 FRANCE FHD
-#EXTVLCOPT:http-user-agent=IPTVPROPlayer
-http://cool365.xyz:900/live/4160189881/DB4ACD54/617.ts
 
 #EXTINF:-1 tvg-id="F1 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_F1_GB_logo.png?1734014987", F1 FHD
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400229036.ts|user-agent=IPTVPROPlayer
