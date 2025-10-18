@@ -402,14 +402,14 @@ https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=203388a3ab9b4e0b99552f6669c4eea9:e43bc84dc73ee0e78b533dec7cd7b715
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://i.imgur.com/g50Vt1H.png" group-title="Indonesia",TRANS TV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_Trans_TV.png" group-title="Indonesia",TRANS TV
 https://atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
 
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://i.imgur.com/irQoFrd.png" group-title="Indonesia",TVRI NASIONAL
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://ms.wikipedia.org/wiki/Fail:TVRILogo2019.svg" group-title="Indonesia",TVRI NASIONAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.164 Mobile Safari/537.36
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8|Referer=https://klik.tvri.go.id/
 
-#EXTINF:-1 group-title="Indonesia" tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/wWvZ5in.png" group-title="Indonesia",TRANS 7
+#EXTINF:-1 group-title="Indonesia" tvg-id="Trans7.id" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/70/Trans_7.png" group-title="Indonesia",TRANS 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
