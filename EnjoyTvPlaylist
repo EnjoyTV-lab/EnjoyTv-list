@@ -402,7 +402,7 @@ https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=203388a3ab9b4e0b99552f6669c4eea9:e43bc84dc73ee0e78b533dec7cd7b715
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_Trans_TV.png" group-title="Indonesia",TRANS TV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://get.perfecttv.net/logo/transtv.png" group-title="Indonesia",TRANS TV
 https://atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
 
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-logo="https://ms.wikipedia.org/wiki/Fail:TVRILogo2019.svg" group-title="Indonesia",TVRI NASIONAL
