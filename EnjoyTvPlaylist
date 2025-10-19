@@ -1214,14 +1214,14 @@ https://get.perfecttv.net/rwt.mpd?username=vip_99cc537p&password=9J0jteen&channe
 #KODIPROP:inputstream.adaptive.license_key=f166a88a7f1b40bba2e399bf2f972365:abf14067e089861730f4c6ff24b52dba
 https://get.perfecttv.net/rwt.mpd?username=vip_99cc537p&password=9J0jteen&channel=bola2fhd
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽ SPORTS FHD"  tvg-logo="https://get.perfecttv.net/logo/premierleague.png",811 Astro Premier League HD
+#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽ SPORTS FHD"  tvg-logo="https://get.perfecttv.net/logo/premierleague.png",812 Astro Premier League HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1090bef3275b45d188200b828fe30527:43eff6a8da896a34056f339ec9562045
 https://get.perfecttv.net/rwt.mpd?username=vip_99cc537p&password=9J0jteen&channel=epl1hd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/premierleaguefhd.png",812 Astro Premier League FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/premierleaguefhd.png",811 Astro Premier League FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
