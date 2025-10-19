@@ -1078,7 +1078,7 @@ https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/o
 #EXTINF:-1 tvg-id="GBBC4000017F" tvg-name="Toon Goggles" tvg-logo="https://www.angrybirds.com/wp-content/uploads/2022/06/RELOADED_202105_1520x1120_Characters-800x589.png" group-title="KIDS",216 Angry Bird
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=547
 
-#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Tiny POP" tvg-logo="https://githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/baby%20shark%20tv.png" group-title="KIDS",215 Baby Shark Tv
+#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Tiny POP" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/baby%20shark%20tv.png" group-title="KIDS",215 Baby Shark Tv
 https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/yWqNWZf5/Mr-Bean.png",217 Mr. Bean Cartoon
