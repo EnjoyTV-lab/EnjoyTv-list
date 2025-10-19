@@ -1221,7 +1221,7 @@ https://get.perfecttv.net/rwt.mpd?username=vip_99cc537p&password=9J0jteen&channe
 #KODIPROP:inputstream.adaptive.license_key=1090bef3275b45d188200b828fe30527:43eff6a8da896a34056f339ec9562045
 https://get.perfecttv.net/rwt.mpd?username=vip_99cc537p&password=9J0jteen&channel=epl1hd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/premierleaguefhd.png",811 Astro Premier League FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/premierleaguefhd.png",812 Astro Premier League FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1230,7 +1230,7 @@ https://get.perfecttv.net/rwt.mpd?username=vip_99cc537p&password=9J0jteen&channe
 #https://get.perfecttv.net/dash2.mpd?username=vip_99cc537p&password=9J0jteen&channel=epl1fhd 
 https://get.perfecttv.net/rwt.mpd?username=vip_99cc537p&password=9J0jteen&channel=epl1fhd
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽ SPORTS FHD"  tvg-logo="https://get.perfecttv.net/logo/premierleague2.png",812 Astro Premier League 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽ SPORTS FHD"  tvg-logo="https://get.perfecttv.net/logo/premierleague2.png",813 Astro Premier League 2 HD
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1239,25 +1239,17 @@ https://get.perfecttv.net/rwt.mpd?username=vip_99cc537p&password=9J0jteen&channe
 https://get.perfecttv.net/rwt.mpd?username=vip_99cc537p&password=9J0jteen&channel=epl2hd
 
 
-#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://get.perfecttv.net/logo/premierleague3fhd.png",813 Astro Premier League 3 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
-http://206.189.80.218:8080/live/Erny112/Jtv0987/175.m3u8?token=GEYOU0ZZQVsaBQEBD1AHBlVTVAECX1JaBgQFBwRfDQ9aU1ICBVdSWAEQGhJLEUQBUFo5UQVECVMBBh9DRUpRSzwNAhAPE1RUCAUAEhRHQg1cUkQCUUoREl9XEVsSCAQOUVZEHhdUGxVdQFhRVDpSAUdeBV1DXF0XWl8fQ19Xa10GCQdcURNZQwgQGhJRFkZGCxUrWRkPQEJ0QVwAVFtVVwdENVZbHyEJXBAaEloMQhZQQwMaW0QBUgIGEU0SWltMDRAUSxcLQSxhEBoSXR1CAV9ED1cPRAlAWwBGWRIVFlAQOxRXRkURBFlfU0IaXxRUExtEVQAebAFZXV0EU01dVg0XRAgXAEFNGl9ZXlERWRZuRw9cQ1wRUAYFBVcSRA==
-
 #EXTINF:-1 tvg-id="ASTRO GRANDSTAND" tvg-name="ASTRO GRANSTAND FHD" ch-number="810" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="⚽ SPORTS FHD",810 Astro Grandstand
 https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://get.perfecttv.net/logo/premierleague3fhd.png",806 Astro Premier League 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://get.perfecttv.net/logo/premierleague3fhd.png",815 Astro Premier League 3 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl3
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽ SPORTS FHD"  tvg-logo="https://get.perfecttv.net/logo/premierleague4.png",814 Astro Premier League 4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽ SPORTS FHD"  tvg-logo="https://get.perfecttv.net/logo/premierleague4.png",816 Astro Premier League 4 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1280,7 +1272,7 @@ https://get.perfecttv.net/jwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channe
 #KODIPROP:inputstream.adaptive.license_key=72ad6eaa1904540138487fffa3ad6510:17c19ad670a557e6882419d6923fad27
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badminton2
 
-#EXTINF:-1 tvg-id="817.astro" tvg-logo="https://get.perfecttv.net/logo/sportplusfhd.png" group-title="⚽ SPORTS FHD",815 SPORT PLUS
+#EXTINF:-1 tvg-id="817.astro" tvg-logo="https://get.perfecttv.net/logo/sportplusfhd.png" group-title="⚽ SPORTS FHD",817 SPORT PLUS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
