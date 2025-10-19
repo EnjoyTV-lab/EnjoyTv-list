@@ -873,7 +873,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd?channel=imc
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 https://get.perfecttv.net/dashVision2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=studiouniversal
 
-#====entertainment=====
+#==============entertainment======================
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="ENTERTAINMENT" group-logo="" tvg-logo="https://get.perfecttv.net/logo/axn.png",168 AXN
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -1270,16 +1270,19 @@ http://128.199.154.18:8080/live/Erny112/Jtv0987/171.m3u8?token=GEYOU0ZZQVsaBgIBC
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="AstroPremierLeague2" ch-number="812" group-title="⚽ SPORTS FHD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png",812 Astro Premier League 2
 http://jomtv.vip:2082/live/Erny112/Jtv0987/179.ts
 
-#EXTINF:-1 tvg-id="818.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/568_144.png" group-title="⚽ SPORTS FHD",Premier League 4
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=3225f837a4b95d6e46683c53818c1710:3e1b57c06699c7e408e7aa49ff57d4f4
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd
-
-#EXTINF:-1 tvg-id="819.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/570_144.png" group-title="⚽ SPORTS FHD",Premier League 5
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://get.perfecttv.net/logo/premierleague3fhd.png",806 EPL3 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=229670469469aa6f78bc5bbe10071810:3b3ede68e8bb9d0d4e3b4517c422cccf
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl3
 
+#EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽ SPORTS FHD"  tvg-logo="https://get.perfecttv.net/logo/premierleague4.png",806 EPL4 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=75418b717d0b42db9654375c8508e660:5c3ef8664e8c7a1c8dd18f6de1ab4515
+https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl4fhd
 #EXTINF:-1 group-logo="" group-title="⚽ SPORTS FHD" tvg-id="814.astro" tvg-logo="https://get.perfecttv.net/logo/footballfhd.png" group-logo="",809 Astro Football
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
@@ -1292,12 +1295,12 @@ https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=1bca05447d354cb4913a66e125fb75ef:45253aa554c444961fb6a4432abb6b1c
 https://get.perfecttv.net/jwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=badmintonfhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 
+#EXTINF:-1 group-logo="" group-title="⚽ SPORTS FHD" tvg-id="814.astro" tvg-logo="https://get.perfecttv.net/logo/badminton2.png" group-logo="",810 Badminton 2 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=72ad6eaa1904540138487fffa3ad6510:17c19ad670a557e6882419d6923fad27
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badminton2
 
-#EXTINF:-1 tvg-id="ASTRO BADMINTON 2" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/34738728_ico.png?ts=1746332765", ASTRO BADMINTON 2 FHD
-https://ktpremium.shop/live/FAQRUKHAIRI/01155094696/1010679.ts|user-agent=IPTVPROPlayer
-
-
-#EXTINF:-1 tvg-id="817.astro" tvg-logo="https://get.perfecttv.net/logo/sportplusfhd.png" group-title="⚽ SPORTS FHD",Sports Plus
+#EXTINF:-1 tvg-id="817.astro" tvg-logo="https://get.perfecttv.net/logo/sportplusfhd.png" group-title="⚽ SPORTS FHD",813 SPORT PLUS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
@@ -1325,21 +1328,6 @@ https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 
-
-#EXTINF:-1 tvg-id="SONY TEN SPORTS 4" tvg-name="SONY TEN SPORTS 4" group-title="⚽ SPORTS FHD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png", SONY TEN SPORTS 4 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-
-
-#EXTINF:-1 tvg-id="SONY TEN SPORTS 5" tvg-name="SONY TEN SPORTS 5" group-title="⚽ SPORTS FHD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png", SONY TEN SPORTS 5 FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 tvg-id="PEACOCOK|WWE FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQDMycJCPt4e-fUkJwWX_Ny-5JuexSH8bkA&s", PEACOCK|WWE FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
