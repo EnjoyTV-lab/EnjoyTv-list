@@ -1063,7 +1063,7 @@ https://get.perfecttv.net/1080ceria.mpd?username=vip_0new9imx&password=Wm75SsLs&
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="DreamWorks.id" tvg-name="Dreamworks HD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/dreamworks.png" group-title="KIDS",206 DREAMWORKS
 https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
+
 
 #EXTINF:-1 tvg-id="MoonbugKids" group-title="KIDS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" ch-number="618",207 Moonbug Kids
 #KODIPROP:inputstreamaddon=inputstream.adaptive
