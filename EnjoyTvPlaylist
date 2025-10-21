@@ -84,7 +84,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 #EXTINF:-1 tvg-id="111 TV6" tvg-name=" 111 TV6" tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/tv6_Trans.png" group-title="MALAYSIA",111 TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=1
 
-#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="112.unifi" ch-number="112" tvg-logo="https://get.perfecttv.net/logo/salamhd.png" group-logo="",112 Salam HD
+#EXTINF:-1 tvg-id="okey" ch-number="" tvg-name="Enjoy TV5" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/enjoytv5.png", 112 Enjoy TV5
+https://get.perfecttv.net/mytv.m3u8?channel=tv5
+
+
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="112.unifi" ch-number="112" tvg-logo="https://get.perfecttv.net/logo/salamhd.png" group-logo="",113 Salam HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cd0f33db5a826c850e0ef6ca9331a82:207f3ac36c8d5c85395c147154d41581
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -92,7 +96,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 
 
 
-#EXTINF:-1 group-logo="" channel-id="118" tvg-name=" 113 Inspirasi" tvg-logo="https://get.perfecttv.net/logo/inspirasi.png" group-title="MALAYSIA",113 Inspirasi 
+#EXTINF:-1 group-logo="" channel-id="118" tvg-name=" 114 Inspirasi" tvg-logo="https://get.perfecttv.net/logo/inspirasi.png" group-title="MALAYSIA",113 Inspirasi 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -101,7 +105,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=inspirasi
 
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/ria.png" ,118 Ria
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/ria.png" ,119 Ria
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d5249cb40505495494828f42c37087cb:d59f6a7bed00bd5348355ab5b3ee6aa0
@@ -109,13 +113,13 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 https://get.perfecttv.net/rwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=riahd
 
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/prima.png" ,119 Prima
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/prima.png" ,120 Prima
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=21759e73f142452aa01acc6d08a86e50:fc9eaf659647c675315f65747c2553da
 #https://get.perfecttv.net/vod_jwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=primachd|authorization=Bearer 
 https://get.perfecttv.net/rwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=primahd
 
-#EXTINF:-1 tvg-id="Awani" tvg-name="Awani" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/awani.png",132 Awani
+#EXTINF:-1 tvg-id="Awani" tvg-name="Awani" group-title="MALAYSIA" group-logo="" tvg-logo="https://get.perfecttv.net/logo/awani.png",133 Awani
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -123,7 +127,7 @@ https://get.perfecttv.net/rwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channe
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=awani
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/citra.png" ,121 Citra
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/citra.png" ,122 Citra
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -132,7 +136,7 @@ http://jomtv.vip:2082/live/Erny112/Jtv0987/27.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="AstroOasis" ch-number="106" tvg-id=" 122 Astro Oasis" tvg-logo="https://get.perfecttv.net/logo/oasis.png" group-title="MALAYSIA",122 Astro Oasis
+#EXTINF:-1 tvg-id="AstroOasis" ch-number="106" tvg-id=" 123 Astro Oasis" tvg-logo="https://get.perfecttv.net/logo/oasis.png" group-title="MALAYSIA",122 Astro Oasis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
@@ -140,7 +144,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
-#EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Aura HD" tvg-logo="https://get.perfecttv.net/logo/aura.png" group-title="MALAYSIA", 123 Astro Aura 
+#EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Aura HD" tvg-logo="https://get.perfecttv.net/logo/aura.png" group-title="MALAYSIA", 124 Astro Aura 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 
@@ -148,36 +152,36 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Rania HD" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/rania.png",124 Astro Rania
+#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Rania HD" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/rania.png",125 Astro Rania
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
-#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="113" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/jomngaji.png" ,125 Jom Ngaji
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="113" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/jomngaji.png" ,126 Jom Ngaji
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=10062fbd-3f7d-49e1-8f2b-95cd04543d7d
 
-#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="114" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/lawaksentral.png" ,126 Lawak Sentral
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="114" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/lawaksentral.png" ,127 Lawak Sentral
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 https://1938ecee77d844ba8727487421f36e44.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH3_LAWAK/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=440ab476-481d-4d09-b7b0-3664e8652ede
 
-#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="115" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/ohmyceria.png" ,127 Oh My Ceria
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="115" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/ohmyceria.png" ,128 Oh My Ceria
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH7_CERIA/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=653a17be-4813-4757-8724-ae68ab7a34b7
 
 
-#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="116" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/dramahebat.png" ,128 Drama Hebat
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="116" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/dramahebat.png" ,129 Drama Hebat
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH1_DRAMAHEBAT/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=449fab5e-19fb-4843-9cc5-8209e03a725d
 
-#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="117" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/filemmantap.png" ,129 Filem Mantap
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="117" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/filemmantap.png" ,130 Filem Mantap
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
 
-#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="118" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/dramahotpot.png" ,130 Drama Hotpot
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="118" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/dramahotpot.png" ,131 Drama Hotpot
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH4_DRAMAHOTPOT/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=556d7c21-4b5b-4d9b-8021-014923e53be9
 
-#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/traveltaste.png", 131 TRAVEL & TASTE
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/traveltaste.png", 132 TRAVEL & TASTE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -185,7 +189,7 @@ https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab3362
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH5_TRAVEL/dash.mpd
 
-#EXTINF:-1 tvg-id="AstroCh100.my" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png" group-title="MALAYSIA",133 TV Ikim 
+#EXTINF:-1 tvg-id="AstroCh100.my" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png" group-title="MALAYSIA",134 TV Ikim 
 #https://asmfreeview.short.gy/tv_ikim_120.m3u8
 https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8
 
@@ -202,31 +206,31 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
 ############# RTM KLIK BARU ####################
-#EXTINF:-1 tvg-id="rtm_snap" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/snap.png" group-title="MALAYSIA",134 RTM Snap
+#EXTINF:-1 tvg-id="rtm_snap" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/snap.png" group-title="MALAYSIA",135 RTM Snap
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/playlist.m3u8?id=24099
 
-#EXTINF:-1 tvg-id="rtm_lead" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/lead.png" group-title="MALAYSIA",136 RTM Lead
+#EXTINF:-1 tvg-id="rtm_lead" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/lead.png" group-title="MALAYSIA",137 RTM Lead
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/playlist.m3u8?id=24101
 
-#EXTINF:-1 tvg-id="rtm_apetito" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/apetito.png" group-title="MALAYSIA", 135 RTM Apetito
+#EXTINF:-1 tvg-id="rtm_apetito" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/apetito.png" group-title="MALAYSIA", 136 RTM Apetito
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/playlist.m3u8?id=24100
 
-#EXTINF:-1 tvg-id="rtm_fitrah" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/fitrah.png" group-title="MALAYSIA", 137 RTM Fitrah
+#EXTINF:-1 tvg-id="rtm_fitrah" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/fitrah.png" group-title="MALAYSIA", 138 RTM Fitrah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/playlist.m3u8?id=24103
 
-#EXTINF:-1 tvg-id="rtm_junior" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/jr.png" group-title="MALAYSIA",138 RTM Junior
+#EXTINF:-1 tvg-id="rtm_junior" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/jr.png" group-title="MALAYSIA",139 RTM Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
 
-#EXTINF:-1 tvg-id="rtm_roll" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/roll.png" group-title="MALAYSIA", 139 RTM Roll
+#EXTINF:-1 tvg-id="rtm_roll" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/roll.png" group-title="MALAYSIA", 140 RTM Roll
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/playlist.m3u8?id=24095
 
-#EXTINF:-1 tvg-id="rtm_borak" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/aura.png" group-title="MALAYSIA", 140 RTM Aura
+#EXTINF:-1 tvg-id="rtm_borak" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/aura.png" group-title="MALAYSIA", 141 RTM Aura
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/playlist.m3u8?id=24102
 
