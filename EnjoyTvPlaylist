@@ -1,4 +1,5 @@
-d# EnjoyTVOFFICIAL
+EnjoyTVOFFICIAL
+not for sale.. free for all
 
 
 #=======MALAYSIA======
@@ -195,31 +196,31 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
 ############# RTM KLIK BARU ####################
-#EXTINF:-1 tvg-id="rtm_snap" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title=MALAYSIA",134 RTM Snap
+#EXTINF:-1 tvg-id="rtm_snap" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/snap.png" group-title="MALAYSIA",134 RTM Snap
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/playlist.m3u8?id=24099
 
-#EXTINF:-1 tvg-id="rtm_lead" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg" group-title="MALAYSIA",136 RTM Lead
+#EXTINF:-1 tvg-id="rtm_lead" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/lead.png" group-title="MALAYSIA",136 RTM Lead
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/playlist.m3u8?id=24101
 
-#EXTINF:-1 tvg-id="rtm_apetito" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg" group-title="MALAYSIA", 135 RTM Apetito
+#EXTINF:-1 tvg-id="rtm_apetito" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/apetito.png" group-title="MALAYSIA", 135 RTM Apetito
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/playlist.m3u8?id=24100
 
-#EXTINF:-1 tvg-id="rtm_fitrah" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg" group-title="MALAYSIA", 137 RTM Fitrah
+#EXTINF:-1 tvg-id="rtm_fitrah" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/fitrah.png" group-title="MALAYSIA", 137 RTM Fitrah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/playlist.m3u8?id=24103
 
-#EXTINF:-1 tvg-id="rtm_junior" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg" group-title="MALAYSIA",138 RTM Junior
+#EXTINF:-1 tvg-id="rtm_junior" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/junior.png" group-title="MALAYSIA",138 RTM Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
 
-#EXTINF:-1 tvg-id="rtm_roll" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg" group-title="MALAYSIA", 139 RTM Roll
+#EXTINF:-1 tvg-id="rtm_roll" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/roll.png" group-title="MALAYSIA", 139 RTM Roll
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/playlist.m3u8?id=24095
 
-#EXTINF:-1 tvg-id="rtm_borak" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg" group-title="MALAYSIA", 140 RTM Aura
+#EXTINF:-1 tvg-id="rtm_borak" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/roll.png" group-title="MALAYSIA", 140 RTM Aura
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/playlist.m3u8?id=24102
 
