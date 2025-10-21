@@ -1306,11 +1306,9 @@ https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=footballfhd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/badmintonfhd.png",806 Badminton FHD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1bca05447d354cb4913a66e125fb75ef:45253aa554c444961fb6a4432abb6b1c
-https://get.perfecttv.net/jwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=badmintonfhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#KODIPROP:inputstream.adaptive.license_key=0bbb23a5ad81427fa6817864b2383402:81e055a8d6ddf6392ae9033f0f037b98
+https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badmintonhd
 
 #EXTINF:-1 group-logo="" group-title="⚽ SPORTS FHD" tvg-id="814.astro" tvg-logo="https://get.perfecttv.net/logo/badminton2.png" group-logo="",807 Badminton 2 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
