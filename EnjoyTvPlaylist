@@ -65,7 +65,7 @@ https://get.perfecttv.net/astro_10802.mpd?username=vip_0new9imx&password=Wm75SsL
 https://get.perfecttv.net/dash2.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=okey
 
 
-#EXTINF:-1 tvg-id="" tvg-name="109 Awesome" tvg-logo="https://get.perfecttv.net/logo/awesome.png" group-title="MALAYSIA",109 Awesome
+#EXTINF:-1 tvg-id="" tvg-name="109 Awesome TV" tvg-logo="https://get.perfecttv.net/logo/awesome.png" group-title="MALAYSIA",109 Awesome
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts?channel=awesome
 
 #EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-name=" 110 Al-Hijrah" tvg-logo="https://get.perfecttv.net/logo/alhijrah.png" group-title="MALAYSIA",110 TV Alhijrah
