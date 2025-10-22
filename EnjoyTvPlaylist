@@ -769,7 +769,7 @@ https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
 #EXTINF:-1 group-title="Indian" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/bott/content/channels/tvguide/isai-1708094091902.png" ,ISAIARUVI
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VaanavilTV.in" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/93bcade1-46a5-4307-8f1c-95d40f09e517/3482326871/vaanavil-tv-logo"  group-title="Indian",VAANAVIL TV
+#EXTINF:-1 tvg-id="VaanavilTV.in" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/vaanavil.png"  group-title="Indian",VAANAVIL TV
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vywwqq1476660757.png",9XM Bollywood
