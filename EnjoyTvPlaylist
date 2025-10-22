@@ -65,11 +65,8 @@ https://get.perfecttv.net/astro_10802.mpd?username=vip_0new9imx&password=Wm75SsL
 https://get.perfecttv.net/dash2.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=okey
 
 
-#EXTINF:-1 tvg-id="awesome" ch-number="109" tvg-name="AwesomeTV" group-title="MALAYSIA"  tvg-logo="https://get.perfecttv.net/logo/awesome.png",109 AWESOME TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
+#EXTINF:-1 tvg-id="" tvg-name="109 Awesome" tvg-logo="https://get.perfecttv.net/logo/awesome.png" group-title="MALAYSIA",109 Awesome
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts?channel=awesome
 
 #EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-name=" 110 Al-Hijrah" tvg-logo="https://get.perfecttv.net/logo/alhijrah.png" group-title="MALAYSIA",110 TV Alhijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
