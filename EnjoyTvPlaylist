@@ -1314,7 +1314,7 @@ https://get.perfecttv.net/rwt.mpd?username=vip_99cc537p&password=9J0jteen&channe
 #EXTINF:-1 tvg-id="ASTRO GRANDSTAND" tvg-name="ASTRO GRANSTAND FHD" ch-number="810" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/grandstandfhd3.png" group-title="⚽ SPORTS FHD",810 Grandstand FHD
 https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/epl3fhd3",815 Premier League 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/epl3fhd3.png",815 Premier League 3 FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
