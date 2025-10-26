@@ -1138,9 +1138,9 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCMe.au" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/abc%20me%20tv.png" tvg-chno="323" group-title="🧸 KIDS" ,222 ABC ME
 https://c.mjh.nz/abc-me.m3u8
 
-#==== NEWS====≠================================
+#==== 🌏 NEWS ====≠============================
 
-#EXTINF:-1 tvg-id="Awani" tvg-name="Awani" group-title="NEWS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/awani.png",501 Awani
+#EXTINF:-1 tvg-id="Awani" tvg-name="Awani" group-title="🌏 NEWS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/awani.png",501 Awani
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1148,13 +1148,13 @@ https://c.mjh.nz/abc-me.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=awani
 
-#EXTINF:-1 tvg-id="631.unifi" ch-number="502" group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/bernama.png",502 Bernama
+#EXTINF:-1 tvg-id="631.unifi" ch-number="502" group-title="🌏 NEWS" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/bernama.png",502 Bernama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
 
-#EXTINF:-1 tvg-id="601.unifi" ch-number="601" tvg-name="BBC News" tvg-logo="https://get.perfecttv.net/logo/bbcnews.png" group-title="NEWS",601 BBC Newsᶠʰᵈ
+#EXTINF:-1 tvg-id="601.unifi" ch-number="601" tvg-name="BBC News" tvg-logo="https://get.perfecttv.net/logo/bbcnews.png" group-title="🌏 NEWS",601 BBC Newsᶠʰᵈ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1162,46 +1162,46 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
 
-#EXTINF:-1 tvg-id="602.unifi" ch-number="602" group-title="NEWS" tvg-name="AL JAZEERA HD" tvg-logo="https://get.perfecttv.net/logo/aljazeera.png",602 Al-Jazeera English 
+#EXTINF:-1 tvg-id="602.unifi" ch-number="602" group-title="🌏 NEWS" tvg-name="AL JAZEERA HD" tvg-logo="https://get.perfecttv.net/logo/aljazeera.png",602 Al-Jazeera English 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1fbd0874e7923f5b05929a042aa0610:6c3c498113abffdf454dc935319a794d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
 
-#EXTINF:-1 tvg-id="603.unifi" ch-number="603" tvg-name="CGTN HD" group-title="NEWS" tvg-logo="https://get.perfecttv.net/logo/cgtn.png",603 CGTN
+#EXTINF:-1 tvg-id="603.unifi" ch-number="603" tvg-name="CGTN HD" group-title="🌏 NEWS" tvg-logo="https://get.perfecttv.net/logo/cgtn.png",603 CGTN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc66ef0ee35b5ba639dc0e13c5f8a910:9e706161f02fb99cb692d2965470494e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_ott.mpd
 
-#EXTINF:-1 group-logo="" group-title="NEWS" tvg-id="CNN" ch-number="511" tvg-logo="https://get.perfecttv.net/logo/cnn.png", 604 CNN
+#EXTINF:-1 group-logo="" group-title="🌏 NEWS" tvg-id="CNN" ch-number="511" tvg-logo="https://get.perfecttv.net/logo/cnn.png", 604 CNN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b618a291cece44c9845dddfc4fd9b10:bf7e1b97555c4acb7455f711b2a9ff16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
 
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA HD" group-title="NEWS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/cna.png", 605 CNA
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA HD" group-title="🌏 NEWS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/cna.png", 605 CNA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f812aeae6be5b924a8181b512d5d7910:44275884ee394d05081fde395ff6e415
 http://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
 
-#EXTINF:-1 tvg-id="CNBCAsia" tvg-name="CNBC Asia HD" group-title="NEWS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/cnbc.png",606 CNBC Asia
+#EXTINF:-1 tvg-id="CNBCAsia" tvg-name="CNBC Asia HD" group-title="🌏 NEWS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/cnbc.png",606 CNBC Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3a38f1340531759a1ca97bc5d80c810:602827a870d49862d1a23f2912957b4c
 http://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
 
-#EXTINF:-1 tvg-id="SkyNews" tvg-name="Sky News HD" group-title="NEWS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/skynews.png",607 Sky News HD
+#EXTINF:-1 tvg-id="SkyNews" tvg-name="Sky News HD" group-title="🌏 NEWS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/skynews.png",607 Sky News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bef7fc1bcb6bd7f287def940e38cb10:b0dadd74b713e4b29fd27e147cae7133
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
 
-#EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV HD" group-title="NEWS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/bloombergtv.png", 608 Bloomberg Tv
+#EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV HD" group-title="🌏 NEWS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/bloombergtv.png", 608 Bloomberg Tv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1209,7 +1209,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="ABCAustralia" tvg-name="ABC Australia" group-title="NEWS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/abcaustralia.png", 609 ABC Australia
+#EXTINF:-1 tvg-id="ABCAustralia" tvg-name="ABC Australia" group-title="🌏 NEWS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/abcaustralia.png", 609 ABC Australia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
