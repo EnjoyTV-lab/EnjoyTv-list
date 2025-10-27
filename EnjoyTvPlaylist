@@ -98,7 +98,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=inspirasi
 
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/riafhd3.png" ,119 Ria FHD
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/riafhd3.png" ,119 Ria ᶠʰᵈ
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
@@ -113,7 +113,7 @@ https://get.perfecttv.net/rwt.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channe
 #https://get.perfecttv.net/vod_jwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=riachd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIwNDQzMDgsImlzcyI6IlZSIiwiZXhwIjoxNzUyMTAwMjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMmQ5YmEyYTgtNTY5Ni00MjE4LTg1NDgtZDc3OGRjMzNmMDliIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwNCJ9.TozvE-Z4oIJMqpE4EcZvtKn56xzn5Ic_orhW95Du3t4
 https://get.perfecttv.net/rwt.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=riahd
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/primafhd3.png" ,120 Prima FHD
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/primafhd3.png" ,120 Prima ᶠʰᵈ
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6613bc303647468c974c3c839d5201e9:5422811c83996a25f51229219b41c410
 #https://get.perfecttv.net/1080.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=primafhd|authorization=Bearer 
@@ -1220,7 +1220,7 @@ http://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 https://get.perfecttv.net/mutv.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenafhd3.png",801 Arena FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenafhd3.png",801 Arena ᶠʰᵈ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1229,7 +1229,7 @@ https://get.perfecttv.net/mutv.mpd
 #https://get.perfecttv.net/1080.mpd?username=vip_99cc537p&password=9J0jteen&channel=arenafhd|authorization=Bearer 
 https://get.perfecttv.net/dash2.mpd?username=vip_99cc537p&password=9J0jteen&channel=arena
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arena2fhd3.png",802 Arena 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arena2fhd3.png",802 Arena 2 ᶠʰᵈ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1246,7 +1246,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_99cc537p&password=9J0jteen&chan
 #https://get.perfecttv.net/jwt.mpd?username=vip_99cc537p&password=9J0jteen&channel=bola1hd
 https://get.perfecttv.net/rwt.mpd?username=vip_99cc537p&password=9J0jteen&channel=bola1hd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenabolafhd3.png",803 Arena Bola FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenabolafhd3.png",803 Arena Bola ᶠʰᵈ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1262,7 +1262,7 @@ https://get.perfecttv.net/rwt.mpd?username=vip_99cc537p&password=9J0jteen&channe
 #https://get.perfecttv.net/jwt.mpd?username=vip_99cc537p&password=9J0jteen&channel=bola2hd
 https://get.perfecttv.net/rwt.mpd?username=vip_99cc537p&password=9J0jteen&channel=bola2hd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenabola2fhd3.png",804 Arena Bola 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenabola2fhd3.png",804 Arena Bola 2 ᶠʰᵈ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1276,7 +1276,7 @@ https://get.perfecttv.net/rwt.mpd?username=vip_99cc537p&password=9J0jteen&channe
 #KODIPROP:inputstream.adaptive.license_key=1090bef3275b45d188200b828fe30527:43eff6a8da896a34056f339ec9562045
 https://get.perfecttv.net/rwt.mpd?username=vip_99cc537p&password=9J0jteen&channel=epl1hd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/eplfhd3.png",811 Premier League FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/eplfhd3.png",811 Premier League ᶠʰᵈ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1294,10 +1294,10 @@ https://get.perfecttv.net/rwt.mpd?username=vip_99cc537p&password=9J0jteen&channe
 https://get.perfecttv.net/rwt.mpd?username=vip_99cc537p&password=9J0jteen&channel=epl2hd
 
 
-#EXTINF:-1 tvg-id="ASTRO GRANDSTAND" tvg-name="ASTRO GRANSTAND FHD" ch-number="810" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/grandstandfhd3.png" group-title="⚽ SPORTS FHD",810 Grandstand FHD
+#EXTINF:-1 tvg-id="ASTRO GRANDSTAND" tvg-name="ASTRO GRANSTAND FHD" ch-number="810" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/grandstandfhd3.png" group-title="⚽ SPORTS FHD",810 Grandstand ᶠʰᵈ
 https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/epl3fhd3.png",815 Premier League 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/epl3fhd3.png",815 Premier League 3 ᶠʰᵈ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1305,7 +1305,7 @@ https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl3
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/footballfhd3.png",805 Football FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/footballfhd3.png",805 Football ᶠʰᵈ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1319,7 +1319,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_key=0bbb23a5ad81427fa6817864b2383402:81e055a8d6ddf6392ae9033f0f037b98
 https://get.perfecttv.net/rwt.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=badmintonhd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/badmintonfhd3.png",806 Badminton FHD
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/badmintonfhd3.png",806 Badminton ᶠʰᵈ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1331,12 +1331,12 @@ https://get.perfecttv.net/rwt.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channe
 #KODIPROP:inputstream.adaptive.license_key=72ad6eaa1904540138487fffa3ad6510:17c19ad670a557e6882419d6923fad27
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badminton2
 
-#EXTINF:-1 tvg-id="817.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/sportsplusfhd3.png" group-title="⚽ SPORTS FHD",817 Sport Plus FHD
+#EXTINF:-1 tvg-id="817.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/sportsplusfhd3.png" group-title="⚽ SPORTS FHD",817 Sport Plus ᶠʰᵈ
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
 
-#EXTINF:-1 tvg-id="SONY TEN SPORTS 1" tvg-name="SONY TEN SPORTS 1" group-title="⚽ SPORTS FHD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png", SONY TEN SPORTS 1 FHD
+#EXTINF:-1 tvg-id="SONY TEN SPORTS 1" tvg-name="SONY TEN SPORTS 1" group-title="⚽ SPORTS FHD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png", SONY TEN SPORTS 1 ᶠʰᵈ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1344,7 +1344,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 
 
-#EXTINF:-1 tvg-id="SONY TEN SPORTS 2" tvg-name="SONY TEN SPORTS 2" group-title="⚽ SPORTS FHD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png", SONY TEN SPORTS 2 FHD
+#EXTINF:-1 tvg-id="SONY TEN SPORTS 2" tvg-name="SONY TEN SPORTS 2" group-title="⚽ SPORTS FHD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png", SONY TEN SPORTS 2 ᶠʰᵈ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1352,7 +1352,7 @@ https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
 
-#EXTINF:-1 tvg-id="SONY TEN SPORTS 3" tvg-name="SONY TEN SPORTS 3" group-title="⚽ SPORTS FHD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png", SONY TEN SPORTS 3 FHD
+#EXTINF:-1 tvg-id="SONY TEN SPORTS 3" tvg-name="SONY TEN SPORTS 3" group-title="⚽ SPORTS FHD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png", SONY TEN SPORTS 3 ᶠʰᵈ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1360,7 +1360,7 @@ https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 
 
-#EXTINF:-1 tvg-id="PEACOCOK|WWE FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQDMycJCPt4e-fUkJwWX_Ny-5JuexSH8bkA&s", PEACOCK|WWE FHD
+#EXTINF:-1 tvg-id="PEACOCOK|WWE FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlQDMycJCPt4e-fUkJwWX_Ny-5JuexSH8bkA&s", PEACOCK|WWE ᶠʰᵈ
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1368,7 +1368,7 @@ https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1ece3ecb41699e855c6dc9a283908210:ba08be767e1a5e89777e68a6998a8c19
 http://cool365.xyz:900/live/4160189881/DB4ACD54/9106.ts
 
-#EXTINF:-1 tvg-id="WWE NETWORK FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg", WWE NETWORK FHD
+#EXTINF:-1 tvg-id="WWE NETWORK FHD" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg", WWE NETWORK ᶠʰᵈ
 https://2ejjcqijfmp.shop.top/AccessLog2/108085_SD/apache.m3u8
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 
@@ -1387,7 +1387,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 #EXTINF:-1 tvg-id="822.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="⚽ SPORTS FHD",beIN Sports 3
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
-#EXTINF:-1 tvg-id="SPOTV FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/spotvfhd.png", SPOTV FHD
+#EXTINF:-1 tvg-id="SPOTV FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/spotvfhd.png", SPOTV ᶠʰᵈ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
@@ -1396,7 +1396,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://astro.com.my
 http://cool365.xyz:900/live/4160189881/DB4ACD54/13132.ts
 
-#EXTINF:-1 tvg-id="SPOTV 2 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/spotv2fhd.png", SPOTV 2 FHD
+#EXTINF:-1 tvg-id="SPOTV 2 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/spotv2fhd.png", SPOTV 2 ᶠʰᵈ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
@@ -1405,22 +1405,22 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/13132.ts
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://astro.com.my
 http://cool365.xyz:900/live/4160189881/DB4ACD54/13131.ts
 
-#EXTINF:-1 tvg-id="F1 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_F1_GB_logo.png?1734014987", F1 FHD
+#EXTINF:-1 tvg-id="F1 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_F1_GB_logo.png?1734014987", F1 ᶠʰᵈ
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400229036.ts|user-agent=IPTVPROPlayer
 
-#EXTINF:-1 tvg-id="TNT SPORTS 1 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://media.info/l/o/1/1539.1689778027.png", TNT SPORTS 1 FHD
+#EXTINF:-1 tvg-id="TNT SPORTS 1 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://media.info/l/o/1/1539.1689778027.png", TNT SPORTS 1 ᶠʰᵈ
 http://wayforward.xyz/live/uugjnauw/zNtU7zdSk/53850.ts|user-agent=IPTVPROPlayer
 
-#EXTINF:-1 tvg-id="TNT SPORTS 2 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/TNT_Sports_2_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230717230828", TNT SPORTS 2 FHD
+#EXTINF:-1 tvg-id="TNT SPORTS 2 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/TNT_Sports_2_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230717230828", TNT SPORTS 2 ᶠʰᵈ
 http://wayforward.xyz/live/uugjnauw/zNtU7zdSk/53851.ts|user-agent=IPTVPROPlayer
 
-#EXTINF:-1 tvg-id="TNT SPORTS 3 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/TNT_Sports_3_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230717230836 ", TNT SPORTS 3 FHD
+#EXTINF:-1 tvg-id="TNT SPORTS 3 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/TNT_Sports_3_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230717230836 ", TNT SPORTS 3 ᶠʰᵈ
 http://wayforward.xyz/live/uugjnauw/zNtU7zdSk/53852.ts|user-agent=IPTVPROPlayer
 
-#EXTINF:-1 tvg-id="TNT SPORTS 4 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/TNT_Sports_4_2023.svg/revision/latest/scale-to-width-down/300?cb=20230407000218", TNT SPORTS 4 FHD
+#EXTINF:-1 tvg-id="TNT SPORTS 4 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/TNT_Sports_4_2023.svg/revision/latest/scale-to-width-down/300?cb=20230407000218", TNT SPORTS 4 ᶠʰᵈ
 http://wayforward.xyz/live/uugjnauw/zNtU7zdSk/53853.ts|user-agent=IPTVPROPlayer
 
-#EXTINF:-1 tvg-id="FUBO SPORTS NETWORK FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Fubo_Sports_Network.png/revision/latest?cb=20250117231918", FUBO SPORTS NETWORK FHD
+#EXTINF:-1 tvg-id="FUBO SPORTS NETWORK FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Fubo_Sports_Network.png/revision/latest?cb=20250117231918", FUBO SPORTS NETWORK ᶠʰᵈ
 #EXTVLCOPT:http-user-agent=IPTVPROPlayer
 http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/473384.ts
 
