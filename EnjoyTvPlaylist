@@ -465,9 +465,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 tvg-id="Thrill.hk" group-title="🇲🇨 INDONESIA" group-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/thrill.png" tvg-logo="https://pictr.com/images/2023/08/27/EA8Mxj.png",Thrill
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; 
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 #EXTINF:0 tvg-id="davinciasia.de" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/640" group-title="🇲🇨 INDONESIA",DA VINCI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
