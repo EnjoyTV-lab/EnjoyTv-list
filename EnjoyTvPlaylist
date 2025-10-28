@@ -463,12 +463,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/AllPlay_Entertainment.png" group-title="🇲🇨 INDONESIA",AllPlay Ent. INDI
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
-#EXTINF:-1 tvg-id="Thrill.hk" group-title="🇲🇨 INDONESIA" group-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/thrill.png" tvg-logo="https://pictr.com/images/2023/08/27/EA8Mxj.png",Thrill
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; 
-https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 #EXTINF:0 tvg-id="davinciasia.de" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/640" group-title="🇲🇨 INDONESIA",DA VINCI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -861,10 +855,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd?channel=imc
 
 
 #EXTINF:-1 group-logo="" group-title="🍿 MOVIES" tvg-id="" ch-number="19" tvg-logo="https://get.perfecttv.net/logo/thrill.png",714 Thrill
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/Thrill
-https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; 
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="321" ch-number="321" tvg-name="Celestial Classic" group-title="🍿 MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png",717 Celestial Classic Movies
