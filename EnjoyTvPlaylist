@@ -885,7 +885,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 
 #============== 🎸 LIFESTYLE ================
 
-#EXTINF:-1 tvg-id="BBCLifestyle" ch-number=" " tvg-name="BBC Lifestyle" ch-number="717" group-title=🎸 LIFESTYLE" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/BBCLife.png",167 BBC Lifestyle
+#EXTINF:-1 tvg-id="BBCLifestyle" ch-number=" " tvg-name="BBC Lifestyle" ch-number="717" group-title="🎸 LIFESTYLE" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/BBCLife.png",167 BBC Lifestyle
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
