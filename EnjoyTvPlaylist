@@ -759,7 +759,7 @@ https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66
 =======🍿 MOVIES ==============================
 
 
-#EXTINF:-1 group-logo="" group-title="🍿 MOVIES"  ch-number="128" tvg-id="128" ch-number="128" tvg-logo="https://get.perfecttv.net/logo/duniasenima.png",700 Dunia Sinema
+#EXTINF:-1 group-logo="" group-title="🍿 MOVIES"  ch-number="128" tvg-id="128" ch-number="128" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/duniasinema.png",700 Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=204b138b4cd494236687a016cf20a5a1:5f06d6e71333355eb4b891b4d5f50975
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
@@ -767,34 +767,11 @@ https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 
-#EXTINF:-1 tvg-id="121" tvg-name="SIAR" group-title="🍿 MOVIES" tvg-logo="https://get.perfecttv.net/logo/siar.png",701 Siar 
+#EXTINF:-1 tvg-id="121" tvg-name="SIAR" group-title="🍿 MOVIES" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/siar.png",701 Siar 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
-
-
-#EXTINF:-1 group-logo="" group-title="🍿 MOVIES" tvg-id="120.unifi" ch-number="120" tvg-logo="https://get.perfecttv.net/logo/degup.png" group-logo="" ,702 Degup 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGRkNTAwMWEtYTY5Yy0zZTVlLWI1YmUtNjc5OGNiYTQyNWMy
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://get.perfecttv.net/unifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=degup
-
-
-#EXTINF:-1 group-logo="" group-title="🍿 MOVIES" tvg-id="404.astro" tvg-logo="https://get.perfecttv.net/logo/boo.png" ,704 BOO  
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://get.perfecttv.net/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=boo
-
-
-#EXTINF:-1 group-logo="" group-title="🍿 MOVIES" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/hbohd.png" ,705 HBO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
-#https://get.perfecttv.net/astro_1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbo|User-Agent=Mozilla
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hboplus.png" group-title="🍿 MOVIES",706 HBO PLUS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -802,7 +779,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
 #EX
 
-#EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO Hits" group-title="🍿 MOVIES" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hbohits.png",707 HBO HITS
+#EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO Hits" group-title="🍿 MOVIES" group-logo="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hbohits.png",707 HBO HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -810,7 +787,7 @@ https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbohits
 
 
-#EXTINF:-1 group-logo="" group-title="🍿 MOVIES" tvg-id="414.astro" tvg-logo="https://get.perfecttv.net/logo/hbofamily.png" ,708 HBO Family  
+#EXTINF:-1 group-logo="" group-title="🍿 MOVIES" tvg-id="414.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hbofamily.png" ,708 HBO Family  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
