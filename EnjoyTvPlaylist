@@ -854,7 +854,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="CelestialMovies" ch-number="309" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/celestialmovies.png" group-title="🍿 MOVIES",716 Celestial Movies
+#EXTINF:-1 tvg-id="CelestialMovies" ch-number="309" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/celestialmovie.png" group-title="🍿 MOVIES",716 Celestial Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
