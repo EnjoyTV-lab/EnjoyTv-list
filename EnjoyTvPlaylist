@@ -808,7 +808,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=cinemax
 
 
-#EXTINF:-1 group-logo="" group-title="🍿 MOVIES" tvg-id="413.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/showcase.png" ,710 Showcase Movies 
+#EXTINF:-1 group-logo="" group-title="🍿 MOVIES" tvg-id="413.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/showcase.png" ,710 Astro Showcase
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
