@@ -945,66 +945,68 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd?chan
 
 #===== 📚 KNOWLEDGE =============================
 
-#EXTINF:-1 group-logo="" group-title="📚 KNOWLEDGE" tvg-logo="https://get.perfecttv.net/logo/dmax.png",178 DMAX HD 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
-https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dmax|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-#EXTINF:-1 group-logo="" group-title="📚 KNOWLEDGE" tvg-logo="https://get.perfecttv.net/logo/history.png",179 History HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=history
-
-#EXTINF:-1 tvg-id="" ch-number="502" tvg-name="Love Nature" group-title="📚 KNOWLEDGE" tvg-logo="https://get.perfecttv.net/logo/lovenature.png",180 Love Nature
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=168bd815468639fe4528b4bf0141f310:775a654c0610811ad022329a68884de1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=lovenature
-
-#EXTINF:-1 group-title="📚 KNOWLEDGE" group-logo="" tvg-logo="https://get.perfecttv.net/logo/afn.png",181 AFN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=afn
-
-#EXTINF:-1 group-logo="" group-title="📚 KNOWLEDGE" tvg-logo="https://get.perfecttv.net/logo/tlc.png",182 TLC
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd?channel=tlc
-
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US| NAT GEO WILD HD" tvg-logo="https://lo1.in/us/ntw.png" group-title="📚 KNOWLEDGE",183 NAT GEO WILD HD
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8
-
-#EXTINF:-1 group-logo="" group-title="📚 KNOWLEDGE" tvg-logo="https://get.perfecttv.net/logo/discovery.png",184 Discovery HD
+#EXTINF:-1 group-logo="" group-title="📚 KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/discovery.png",501 Discovery HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=discoveryhd
 
-#EXTINF:-1 group-logo="" group-title="📚 KNOWLEDGE" tvg-logo="https://get.perfecttv.net/logo/discoveryasia.png",185 Discovery Asia
+#EXTINF:-1 group-logo="" group-title="📚 KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/discoveryasia.png",502 Discovery Asia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=discoveryasia
 
-#EXTINF:-1 group-logo="" group-title="📚 KNOWLEDGE" tvg-logo="https://get.perfecttv.net/logo/globaltrekker.png",186 Global Trekker
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=globaltrekker
-
-#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="📚 KNOWLEDGE" tvg-logo="https://get.perfecttv.net/logo/animalplanet.png",187 ANIMAL PLANET
+#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="📚 KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/animalplanet.png",503 ANIMAL PLANET
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
 https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=animalplanet|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
-#EXTINF:-1 tvg-id="501.unifi" tvg-name="BBC Earth" group-title="📚 KNOWLEDGE" tvg-logo="https://get.perfecttv.net/logo/bbcearth.png" ch-number="501",188 BBC Earth
+#EXTINF:-1 group-logo="" group-title="📚 KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/history.png",504 History HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=history
+
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US| NAT GEO WILD HD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/wild.png" group-title="📚 KNOWLEDGE",505 NAT GEO WILD HD
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8
+
+#EXTINF:-1 tvg-id="501.unifi" tvg-name="BBC Earth" group-title="📚 KNOWLEDGE" tvg-logo="bbcearth.png" ch-number="501", 506 BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd?channel=bbcearth
+
+#EXTINF:-1 group-logo="" group-title="📚 KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/dmax.png",507 DMAX HD 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
+https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dmax|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+
+
+
+#EXTINF:-1 tvg-id="" ch-number="502" tvg-name="Love Nature" group-title="📚 KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/lovenature.png",508 Love Nature
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=168bd815468639fe4528b4bf0141f310:775a654c0610811ad022329a68884de1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=lovenature
+
+#EXTINF:-1 group-title="📚 KNOWLEDGE" group-logo="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/afn.png", 509 AFN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=afn
+
+#EXTINF:-1 group-logo="" group-title="📚 KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tlc.png",510 TLC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd?channel=tlc
+
+#EXTINF:-1 group-logo="" group-title="📚 KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/globaltrekker.png", 511 Global Trekker
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=globaltrekker
 
 
 #====🧸 KIDS===================================
