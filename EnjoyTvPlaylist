@@ -962,7 +962,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
 https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=animalplanet|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
-#EXTINF:-1 group-logo="" group-title="📚 KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/history.png",504 History HD
+#EXTINF:-1 group-logo="" group-title="📚 KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/historyhd.png",504 History HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -971,7 +971,7 @@ https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwE
 #EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US| NAT GEO WILD HD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/wild.png" group-title="📚 KNOWLEDGE",505 NAT GEO WILD HD
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8
 
-#EXTINF:-1 tvg-id="501.unifi" tvg-name="BBC Earth" group-title="📚 KNOWLEDGE" tvg-logo="bbcearth.png" ch-number="501", 506 BBC Earth
+#EXTINF:-1 tvg-id="501.unifi" tvg-name="BBC Earth" group-title="📚 KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/bbcearth.png" ch-number="501", 506 BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
