@@ -392,7 +392,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #EXTINF:-1 group-title="🇲🇨 INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png",GTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 group-title="🇲🇨 INDONESIA"  tvg-logo="https://get.perfecttv.net/logo/antv.png",ANTV
+#EXTINF:-1 group-title="🇲🇨 INDONESIA"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/antv.png",ANTV
 https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
 
 #EXTINF:-1 tvg-id="InspiraTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="🇲🇨 INDONESIA",Inspira TV
@@ -431,7 +431,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m0IINZfMbabHeHw7WwH1l5nU8CkC_qOA_Rj6IYX4cVzw=s900-c-k-c0x00ffffff-no-rj" group-title="🇲🇨 INDONESIA",FLIK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/flik.png" group-title="🇲🇨 INDONESIA",FLIK
 EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
 http://iptvtree.net:8080/live/F28312/cc1dc138/165095.ts
 
@@ -451,8 +451,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/AllPlay_Entertainment.png" group-title="🇲🇨 INDONESIA",AllPlay Ent. INDI
-https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 
 #EXTINF:0 tvg-id="davinciasia.de" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/640" group-title="🇲🇨 INDONESIA",DA VINCI
