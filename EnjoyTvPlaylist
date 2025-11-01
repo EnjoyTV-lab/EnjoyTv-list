@@ -399,7 +399,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #EXTINF:-1 group-title="🇲🇨 INDONESIA"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/antv.png",ANTV
 https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
 
-#EXTINF:-1 tvg-id="InspiraTV.id" group-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/inspiratv.png" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="🇲🇨 INDONESIA",Inspira TV
+#EXTINF:-1 tvg-id="InspiraTV.id" group-logo="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/inspiratv.png" group-title="🇲🇨 INDONESIA",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 
@@ -497,7 +497,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCINDONESIA.id" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/cnbcindo.png" group-title="🇲🇨 INDONESIA",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="CNNINDONESIA.id" group-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/cnnindo.png" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/cnnindo.png" group-title="🇲🇨 INDONESIA",CNN INDONESIA
+#EXTINF:-1 tvg-id="CNNINDONESIA.id" group-logo="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/cnnindo.png" group-title="🇲🇨 INDONESIA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="BandungTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/bandungtv.png" group-title="🇲🇨 INDONESIA",BANDUNG TV
@@ -549,7 +549,7 @@ KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
-#EXTINF:-1 group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/rodjatv.png/revision/latest?cb=20180922034039",Rodja TV 
+#EXTINF:-1 group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/rodjatv.png",Rodja TV 
 https://rodjatv.com/rodjatv/live.m3u8
 
 
