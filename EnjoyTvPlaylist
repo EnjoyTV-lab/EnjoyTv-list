@@ -5,9 +5,7 @@ not for sale.. free for all
 #=======MALAYSIA======
 
 #EXTINF:-1 tvg-id="" tvg-name="109 Awesome TV" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/awesometv.png" group-title="🇲🇾 MALAYSIA",1 test
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f885481fe053e544096532c1dcb9710:24a9b17859862887f28f63c7c29bcaa5
-http://51.89.166.17:3002/index.php?id=Sensasi
+http://51.89.166.17:3002/index.php?id=Sensasi&type=m3u8
 
 #EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv1.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
