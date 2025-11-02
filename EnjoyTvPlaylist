@@ -549,7 +549,7 @@ KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
-#EXTINF:-1 group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/rodjatv.png",Rodja TV 
+#EXTINF:-1 group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/ugtv.png", UGTV 
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
 
