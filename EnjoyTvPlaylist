@@ -1115,8 +1115,11 @@ https://streamer.derpy.tv/stream.m3u8
 #EXTINF:-1, group-title="🧸 KIDS" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/animax.png", 225 Animax
 http://122.53.222.9:9981/stream/channelid/870547344?profile=pass
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/aniplus.png" group-title="🧸 KIDS", 226 Aniplus https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#EXTINF:-1 tvg-id="494.mytv" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/aniplus.png" group-title="🧸 KIDS", 226 ANIPLUS
+#https://rocket-tv.online/aniplus.php
+https://slive.mana2.my/AniPlus/index.mpd
 
 #==== 🌏 NEWS ====≠============================
 
