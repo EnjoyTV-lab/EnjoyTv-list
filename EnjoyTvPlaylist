@@ -552,6 +552,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 #EXTINF:-1 group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/rodjatv.png",Rodja TV 
 https://rodjatv.com/rodjatv/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/ugtv.png" group-title="🇲🇨 INDONESIA" ,UGTV https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
 
 #===🇰🇷 KOREA==================================
@@ -1062,10 +1063,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
 
-#EXTINF:-1 group-title="🧸 KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/f0/Cartoonito_Logo_2017.png",214 Cartoonito
+#EXTINF:-1 group-title="🧸 KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/f0/Cartoonito_Logo_2017.png",215 Cartoonito
 https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
 
-#EXTINF:-1 tvg-id="BlippiandFriends" group-title="🧸 KIDS"  tvg-logo="https://astromedia.com.my/wp-content/uploads/2025/03/GenNext-Blippi.png" ch-number="619",219 Blippi&Friends
+#EXTINF:-1 tvg-id="BlippiandFriends" group-title="🧸 KIDS"  tvg-logo="https://astromedia.com.my/wp-content/uploads/2025/03/GenNext-Blippi.png" ch-number="619",220 Blippi&Friends
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1119e01b67a19a3eb37c41140c3fa10:5124996ebcfee077b4aacec307f38d0f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
@@ -1078,34 +1079,36 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
-#EXTINF:-1 tvg-id="GBBC4000017F" tvg-name="Toon Goggles" tvg-logo="https://www.angrybirds.com/wp-content/uploads/2022/06/RELOADED_202105_1520x1120_Characters-800x589.png" group-title="🧸 KIDS",216 Angry Bird
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/disneyxd.png" group-title="🧸 KIDS", 214 Disney XD http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/57420.ts
+
+#EXTINF:-1 tvg-id="GBBC4000017F" tvg-name="Toon Goggles" tvg-logo="https://www.angrybirds.com/wp-content/uploads/2022/06/RELOADED_202105_1520x1120_Characters-800x589.png" group-title="🧸 KIDS",217 Angry Bird
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=547
 
-#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Tiny POP" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/baby%20shark%20tv.png" group-title="🧸 KIDS",215 Baby Shark Tv
+#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Tiny POP" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/baby%20shark%20tv.png" group-title="🧸 KIDS",216 Baby Shark Tv
 https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
 
-#EXTINF:-1 group-title="🧸 KIDS" tvg-logo="https://i.postimg.cc/yWqNWZf5/Mr-Bean.png",217 Mr. Bean Cartoon
+#EXTINF:-1 group-title="🧸 KIDS" tvg-logo="https://i.postimg.cc/yWqNWZf5/Mr-Bean.png",218 Mr. Bean Cartoon
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LEGOKidsTV.us" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/lego%20tv.png" group-title="🧸 KIDS",220 LEGO Kids TV
+#EXTINF:-1 tvg-id="LEGOKidsTV.us" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/lego%20tv.png" group-title="🧸 KIDS",221 LEGO Kids TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536
 
-#EXTINF:-1 tvg-id="PBS Kids" tvg-name="PBS Kids" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/pbs%20kids.png" group-title="🧸 KIDS",218 PBS Kids
+#EXTINF:-1 tvg-id="PBS Kids" tvg-name="PBS Kids" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/pbs%20kids.png" group-title="🧸 KIDS",219 PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-name="MY: ZooMoo Kids HD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/zoo%20moo.png" group-title="🧸 KIDS",219 ZooMoo Kids 
+#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-name="MY: ZooMoo Kids HD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/zoo%20moo.png" group-title="🧸 KIDS",220 ZooMoo Kids 
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABCMe.au" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/abc%20me%20tv.png" tvg-chno="323" group-title="🧸 KIDS" ,224 ABC ME
+#EXTINF:-1 tvg-id="ABCMe.au" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/abc%20me%20tv.png" tvg-chno="323" group-title="🧸 KIDS" ,225 ABC ME
 https://c.mjh.nz/abc-me.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/kidsflix.png" group-title="🧸 KIDS", 222 KidsFlix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/kidsflix.png" group-title="🧸 KIDS", 223 KidsFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
-#EXTINF:-1, group-title="🧸 KIDS" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/derpytv.png", 223 Derpy TV
+#EXTINF:-1, group-title="🧸 KIDS" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/derpytv.png", 224 Derpy TV
 https://streamer.derpy.tv/stream.m3u8
 
-#EXTINF:-1, group-title="🧸 KIDS" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/animax.png", 224 Animax
+#EXTINF:-1, group-title="🧸 KIDS" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/animax.png", 225 Animax
 http://122.53.222.9:9981/stream/channelid/870547344?profile=pass
 
 #==== 🌏 NEWS ====≠============================
