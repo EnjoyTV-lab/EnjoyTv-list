@@ -1119,7 +1119,10 @@ http://122.53.222.9:9981/stream/channelid/870547344?profile=pass
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/aniplus.png" group-title="🧸 KIDS", 226 ANIPLUS
-https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8? 
+https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
+http://103.66.62.83:8000/play/a04l/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
+
 
 
 #==== 🌏 NEWS ====≠============================
