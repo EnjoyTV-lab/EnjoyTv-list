@@ -1115,7 +1115,7 @@ https://streamer.derpy.tv/stream.m3u8
 #EXTINF:-1, group-title="🧸 KIDS" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/animax.png", 225 Animax
 http://122.53.222.9:9981/stream/channelid/870547344?profile=pass
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/aniplus.png" group-title="🧸 KIDS"", 226 Aniplus https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8? 
+#EXTINF:-1, group-title="🧸 KIDS" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/aniplus.png", 226 Aniplus https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8? 
 
 #==== 🌏 NEWS ====≠============================
 
