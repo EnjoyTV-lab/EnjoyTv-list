@@ -555,6 +555,9 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 #EXTINF:-1 group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/rodjatv.png",Rodja TV 
 https://rodjatv.com/rodjatv/live.m3u8
 
+#EXTINF:-1 group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/metrotv.png",Metro TV 
+https://flv.intechmedia.net/live/ch101.m3u8|user-agent=Mozilla/5.0
+
 #===🇰🇷 KOREA==================================
 
 #EXTINF:-1 tvg-id="tvNMovies" ch-number="416" tvg-name="tvN Movies HD" group-title="🇰🇷 KOREA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",416 tvN Movies
@@ -1111,6 +1114,8 @@ https://streamer.derpy.tv/stream.m3u8
 
 #EXTINF:-1, group-title="🧸 KIDS" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/animax.png", 225 Animax
 http://122.53.222.9:9981/stream/channelid/870547344?profile=pass
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/aniplus.png" group-title="🧸 KIDS"", 226 Aniplus https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8? 
 
 #==== 🌏 NEWS ====≠============================
 
