@@ -1119,7 +1119,6 @@ http://122.53.222.9:9981/stream/channelid/870547344?profile=pass
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 #EXTINF:-1 tvg-id="494.mytv" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/aniplus.png" group-title="🧸 KIDS", 226 ANIPLUS
-#https://rocket-tv.online/aniplus.php
 https://slive.mana2.my/AniPlus/index.mpd
 
 #==== 🌏 NEWS ====≠============================
