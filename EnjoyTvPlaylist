@@ -5,6 +5,7 @@ not for sale.. free for all
 #=======MALAYSIA======
 
 #EXTINF:-1 tvg-id="" tvg-name="109 Awesome TV" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/awesometv.png" group-title="🇲🇾 MALAYSIA",1 test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://51.89.166.17:3002/index.php?id=Sensasi.mp4
 
 #EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv1.png",101 TV1
