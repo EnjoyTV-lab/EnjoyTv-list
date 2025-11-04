@@ -143,7 +143,7 @@ https://get.perfecttv.net/citra.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="AstroOasis" ch-number="106" tvg-id=" 123 Astro Oasis" tvg-logo="https://get.perfecttv.net/logo/oasis.png" group-title="🇲🇾 MALAYSIA",122 Oasis
+#EXTINF:-1 tvg-id="AstroOasis" ch-number="106" tvg-id=" 123 Astro Oasis" tvg-logo="https://get.perfecttv.net/logo/oasis.png" group-title="🇲🇾 MALAYSIA",122 Astro Oasis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
