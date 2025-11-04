@@ -911,9 +911,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
 https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=axn
 
 #EXTINF:-1 group-logo="" group-title="🎸 LIFESTYLE" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/kix.png",169 KIX 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
-https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=kix|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://viptwso.top:8080/VIP01545171425617373/ca75a1a2314d/34598
 
 #EXTINF:-1 group-logo="" group-title="🎸 LIFESTYLE" tvg-id="712.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/wbtv.png" group-logo="" ,170 Warner TV   
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
