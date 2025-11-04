@@ -1129,10 +1129,11 @@ https://streamer.derpy.tv/stream.m3u8
 #EXTINF:-1, group-title="🧸 KIDS" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/animax.png", 225 Animax
 http://122.53.222.9:9981/stream/channelid/870547344?profile=pass
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/aniplus.png" group-title="🧸 KIDS", 226 ANIPLUS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#EXTINF:-1 tvg-id="494.mytv" tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png/revision/latest/scale-to-width-down/300?cb=20200822104703" group-title="🧸 KIDS", 226 ANIPLUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
 https://slive.mana2.my/AniPlus/index.mpd
-
 
 
 
