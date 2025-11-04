@@ -90,7 +90,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 
 
 
-#EXTINF:-1 group-logo="" channel-id="118" tvg-name=" 114 Inspirasi" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/inspirasi.png" group-title="🇲🇾 MALAYSIA",113 Inspirasi 
+#EXTINF:-1 group-logo="" channel-id="118" tvg-name=" 114 Inspirasi" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/inspirasi.png" group-title="🇲🇾 MALAYSIA",114 Inspirasi 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -102,7 +102,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTI3ZjZiMWQtNDJhZi0zNDU4LTliODAtNTRiZDcwZWQyMjY0
-#EXTINF:-1 tvg-id="tv3" ch-number="103" tvg-name="" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/sensasi2.png",114 Sensasi
+#EXTINF:-1 tvg-id="115" ch-number="115" tvg-name="" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/sensasi2.png",115 Sensasi
 https://get.perfecttv.net/1080ceria.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sensasi
 
 
