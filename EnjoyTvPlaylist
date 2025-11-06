@@ -99,11 +99,8 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=inspirasi
 
 
-#EXTINF:-1 group-logo="" channel-id="118" tvg-name=" 115 Inspirasi" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/sensasi.png" group-title="🇲🇾 MALAYSIA",114 Inspirasi
+#EXTINF:-1 group-logo="" channel-id="118" tvg-name=" 115 Sensasi" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/sensasi2.png" group-title="🇲🇾 MALAYSIA",115 Sensasi
 https://get.perfecttv.net/1080ceria.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sensasi
-
-
-
 
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/riafhd3.png" ,119 Astro Ria 🅵🅷🅳
