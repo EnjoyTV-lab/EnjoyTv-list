@@ -422,9 +422,10 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8|Referer=http
  
 #EXTINF:-1 group-title="Indonesia" tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/trans7.png" group-title="🇲🇨 INDONESIA",TRANS7
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
-https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
+
 #EXTINF:-1 tvg-id="19" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/aaac4479a72f41e7f52ce35d3ad49e804c3b0631/file_000000004dc4622f848ecbc2a24a8ab6%20(1)%20(1).png" group-title="🇲🇨 INDONESIA", TVONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
