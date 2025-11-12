@@ -1282,8 +1282,8 @@ https://get.perfecttv.net/dash2.mpd?username=vip_99cc537p&password=9J0jteen&chan
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
-#https://get.perfecttv.net/jwt.mpd?username=vip_99cc537p&password=9J0jteen&channel=bola1fhd
-https://get.perfecttv.net/rwt.mpd?username=vip_99cc537p&password=9J0jteen&channel=bola1fhd
+#https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd
+https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/arenabola.png" group-title="⚽ SPORTS FHD",803b Arena Bola HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
