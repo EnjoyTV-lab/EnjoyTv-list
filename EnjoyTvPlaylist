@@ -1,6 +1,35 @@
 EnjoyTV@OFFICIAL
 not for sale.. free for all 
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hub1.png", 860 Hub Premier1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hub1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hub2.png", 861 Hub Premier2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
+https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hub2
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hub3.png", 862 Hub Premier3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
+https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hub3
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hub4.png", 863 Hub Premier4
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=624bceaf2e78422c8ee1b8f31c638fb4:5223fbfd77b228f2f01e20358972850b
+https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hub4
+
+
+
+
+
 
 #=======MALAYSIA======
 
