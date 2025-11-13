@@ -1445,6 +1445,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a
 
 #======Movie Malay======
 
+#EXTINF:-1 tvg-id="" tvg-name="891-Magik Rompak (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbTPVx1TtYpSGkaMBa5fnQC3utV.jpg" group-title="▶ VOD MALAY",891-Magik Rompak (2025)
+https://get.perfecttv.net/okayru.mpd?id=11161037441743
 
 #EXTINF:-1 tvg-id="" tvg-name="895-Martabat: Misi Berdarah (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgrRrDelt5BRYfNi454rbRK8wsP.jpg" group-title="▶ VOD MALAY",895-Martabat: Misi Berdarah (2025)
 http://83.142.30.171:8080/movie/vip_0new9imx/Wm75SsLs/4624.mp4
