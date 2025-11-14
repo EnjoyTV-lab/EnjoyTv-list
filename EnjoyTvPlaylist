@@ -77,7 +77,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts?channel=awesome
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=alhijrah
 
 #EXTINF:-1 tvg-id="111 TV6" tvg-name=" 111 TV6" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv6.png" group-title="🇲🇾 MALAYSIA",111 TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?channel=tv6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8&channel=tv6
 
 #EXTINF:-1 tvg-id="okey" ch-number="" tvg-name="Enjoy TV5" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/enjoytv5.png", 112 Enjoy TV5
 https://get.perfecttv.net/mytv.m3u8
