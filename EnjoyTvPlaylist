@@ -783,8 +783,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hboplus.png" group-title="🍿 MOVIES",706 HBO PLUS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
-https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
-#EX
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd?channel=hboplus
 
 #EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO Hits" group-title="🍿 MOVIES" group-logo="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hbohits.png",707 HBO HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -835,7 +834,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #EXTINF:-1 tvg-id="" group-title="🍿 MOVIES" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/cinemaworld.png", 715 CINEMAWORLD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd?channel=cinemaworld
 
 
 #EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="🍿 MOVIES" group-logo="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hitmovies.png",716 HITS Movies
@@ -866,7 +865,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd?channel=imc
 #KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; 
-https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd?channel=thrill
 
 
 #EXTINF:-1 tvg-id="321" ch-number="321" tvg-name="Celestial Classic" group-title="🍿 MOVIES" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/ccm.png",721 Celestial Classic Movies
