@@ -1037,13 +1037,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
-#EXTINF:-1 group-logo="" group-title="🚼 KIDS" tvg-id="611.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/ceria.png" group-logo="" ,205 Astro Ceria 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
-
-#EXTINF:-1 group-logo="" group-title="🚼 KIDS" tvg-id="611.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/ceria.png" group-logo="" ,205b Astro Ceria
+#EXTINF:-1 group-logo="" group-title="🚼 KIDS" tvg-id="611.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/ceria.png" group-logo="" ,205 Astro Ceria
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ceria
@@ -1444,17 +1439,65 @@ https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&
 https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9183
 
 
-#EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-1.png" group-title="⚽ SPORTS FHD",Hub Sports 1
-http://b1g.uk/200/230/625477
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hub1.png", 816 Hub Premier1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hub1
 
-#EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-2.png" group-title="⚽ SPORTS FHD",Hub Sports 2
-http://b1g.uk/200/230/625476
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hub2.png", 816 Hub Premier2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
+https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hub2
 
-#EXTINF:-1 tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-3.png" group-title="⚽ SPORTS FHD",Hub Sports 3
-http://b1g.uk/200/230/625475
 
-#EXTINF:-1 tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-4.png" group-title="⚽ SPORTS FHD",Hub Sports 4
-http://b1g.uk/200/230/625449
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hub3.png", 816 Hub Premier3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
+https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hub3
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hub4.png", 816 Hub Premier4
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=624bceaf2e78422c8ee1b8f31c638fb4:5223fbfd77b228f2f01e20358972850b
+https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hub4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hubsport1.png", 816 Hub Sport1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
+https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hubsport1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hubsport2.png", 816 Hub Sport2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d
+https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hubsport2
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hubsport3.png", 816 Hub Sport3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cfb926f22184132a35ebf76f19595f1:ef9c426de14abc376edc1656c47875e6
+https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hubsport3
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hubsport4.png", 816 Hub Sport4
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
+https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hubsport4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hubsport5.png", 816 Hub Sport5
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14d1d427e8144c7b80cd5a8a6b9aa5e3:b3992507b4df8956717e3d5d798b7ab0
+https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hubsport5
 
 
 #EXTINF:-1 channel-id="pluto-5a74b8e1e22a61737979c6bf" tvg-id="5a74b8e1e22a61737979c6bf" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" tvg-chno="2790" group-title="⚽ SPORTS FHD" , FOX Sports
@@ -1465,18 +1508,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hub1.png", 860 Hub Premier 1 🅵🅷🅳
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hub2.png", 861 Hub Premier 2 🅵🅷🅳
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL2.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hub3.png", 862 Hub Premier 3 🅵🅷🅳
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hub4.png", 863 Hub Premier 4 🅵🅷🅳
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL4.m3u8
 
 
 #======Movie Malay======
