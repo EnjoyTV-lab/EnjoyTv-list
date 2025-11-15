@@ -1092,9 +1092,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd?chan
 https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd?channel=cartoonito
 
 #EXTINF:-1 tvg-id="BlippiandFriends" group-title="🚼 KIDS"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/blippi.png" ch-number="619",220 Blippi&Friends
-KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1119e01b67a19a3eb37c41140c3fa10:5124996ebcfee077b4aacec307f38d0f
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd?channel=blippi|user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd?channel=blippi
 
 #EXTINF: -1 tvg-id="disneychannel.macan" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/disneychannel.png" group-title="🚼 KIDS",213 DISNEY CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
