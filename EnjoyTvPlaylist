@@ -982,7 +982,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=discoveryasia
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/sci.png" group-title="📚 KNOWLEDGE",502 DISCOVERY SCIENCE https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/discovery%20science.m3u8?channel=sci
+#EXTINF:-1 group-logo="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/sci.png" group-title="📚 KNOWLEDGE",502 DISCOVERY SCIENCE https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/discovery%20science.m3u8?channel=sci
 
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="📚 KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/animalplanet.png",503 Animal Planet
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
