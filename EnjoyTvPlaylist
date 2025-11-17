@@ -415,9 +415,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd?channel=sctv
 #EXTINF:-1 group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/gtv.png",GTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd?channel=gtv
 
-#EXTINF:-1 group-title="🇲🇨 INDONESIA"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/antv.png",ANTV
-###https://av-ch-cdn.mncnow.id/live/eds/ANTV/sa_dash/ANTV.mpd
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd?channel=antv
+#EXTINF:-1 tvg-id="ANTV.id" group-title="🇲🇨 INDONESIA"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/antv.png",ANTV
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=782
 
 #EXTINF:-1 tvg-id="InspiraTV.id" group-logo="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/inspira.png" group-title="🇲🇨 INDONESIA",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
@@ -437,9 +436,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd?channel=trans
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8|Referer=https://klik.tvri.go.id/
 
  
-#EXTINF:-1 group-title="Indonesia" tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/trans7.png" group-title="🇲🇨 INDONESIA",TRANS7
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 ###https://av-ch-cdn.mncnow.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd?channel=trans7
+#EXTINF:-1 group-title="Indonesia" tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/trans7.png" group-title="🇲🇨 INDONESIA",TRANS7
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
 
 #EXTINF:-1 tvg-id="19" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/aaac4479a72f41e7f52ce35d3ad49e804c3b0631/file_000000004dc4622f848ecbc2a24a8ab6%20(1)%20(1).png" group-title="🇲🇨 INDONESIA", TVONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -893,13 +891,12 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 
 #============== 🎸 LIFESTYLE ================
 
-#EXTINF:-1 tvg-id="BBCLifestyle" ch-number=" " tvg-name="BBC Lifestyle" ch-number="717" group-title="🎸 LIFESTYLE" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/bbclifestyle.png",167 BBC Lifestyle
+#EXTINF:-1 tvg-id="512.unifi" ch-number=" " tvg-name="BBC Lifestyle" ch-number="717" group-title="🎸 LIFESTYLE" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/bbclifestyle.png",167 BBC Lifestyle
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5050
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbclifestyle
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="🎸 LIFESTYLE" group-logo="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/axn.png",168 AXN
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
