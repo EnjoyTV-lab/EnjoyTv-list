@@ -912,7 +912,7 @@ https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwE
 #EXTINF:-1 group-logo="" group-title="🎸 LIFESTYLE" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/kix.png",169 KIX 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd?channel=kix
 
 #EXTINF:-1 group-logo="" group-title="🎸 LIFESTYLE" tvg-id="712.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/wbtv.png" group-logo="" ,170 Warner TV   
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
