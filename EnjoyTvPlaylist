@@ -1006,12 +1006,12 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd?channel=bbcearth
 
 
-#EXTINF:-1 group-logo="" group-title="📚 KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/dmax.png",508 DMAX HD 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
-https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dmax|User-Agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-
-
+#EXTINF:-1 tvg-id="DMAX" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/dmax.png"  group-title="📚 KNOWLEDGE",508 DMAX HD 
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mediampd/DMAXHD.mpd?channel=dmax
 
 #EXTINF:-1 tvg-id="" ch-number="502" tvg-name="Love Nature" group-title="📚 KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/lovenature.png",509 Love Nature
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
