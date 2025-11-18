@@ -174,42 +174,34 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="496.mytv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/DramaChannel.png" group-title="🇲🇾 126 Malaysia", DRAMA CHANNEL
+#EXTINF:-1 tvg-id="496.mytv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/DramaChannel.png" group-title="🇲🇾 126 Malaysia", 126 DRAMA CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 Chrome/76.0.3809.146 TV Safari/537.36
 https://slive.mana2.my/DramaChannel/index.mpd
 
 
-#EXTINF:-1 group-logo="" group-title="🇲🇾 MALAYSIA" tvg-id="113" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/jomngaji.png" ,126 Jom Ngaji 🅷🅳
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd?channel=jomngaji
+#EXTINF:-1 group-logo="" group-title="🇲🇾 MALAYSIA" tvg-id="113" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/jomngaji.png" ,127 Jom Ngaji 🅷🅳
+https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd?channel=jomngaji
 
-#EXTINF:-1 group-logo="" group-title="🇲🇾 MALAYSIA" tvg-id="114" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/lawaksentral.png" ,127 Lawak Sentral 🅷🅳
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
-https://1938ecee77d844ba8727487421f36e44.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH3_LAWAK/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=440ab476-481d-4d09-b7b0-3664e8652ede&channel=lawaksentral
+#EXTINF:-1 group-logo="" group-title="🇲🇾 MALAYSIA" tvg-id="114" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/lawaksentral.png" ,128 Lawak Sentral 🅷🅳
+https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH3_LAWAK/dash.mpd?channel=lawaksentral
 
-#EXTINF:-1 group-logo="" group-title="🇲🇾 MALAYSIA" tvg-id="115" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/ohmyceria.png" ,128 Oh My Ceria 🅷🅳
-KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
-https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH7_CERIA/dash.mpd?aws.sessionId=653a17be-4813-4757-8724-ae68ab7a34b7&channel=myceria
+#EXTINF:-1 group-logo="" group-title="🇲🇾 MALAYSIA" tvg-id="115" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/ohmyceria.png" ,129 Oh My Ceria 🅷🅳
+https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH7_CERIA/dash.mpd
+?channel=myceria
 
 
-#EXTINF:-1 group-logo="" group-title="🇲🇾 MALAYSIA" tvg-id="116" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/dramahebat.png" ,129 Drama Hebat 🅷🅳
-KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
-https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH1_DRAMAHEBAT/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=449fab5e-19fb-4843-9cc5-8209e03a725d&channel=dramahebat
+#EXTINF:-1 group-logo="" group-title="🇲🇾 MALAYSIA" tvg-id="116" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/dramahebat.png" ,130 Drama Hebat 🅷🅳
+https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH1_DRAMAHEBAT/dash.mpd
+?channel=dramahebat
 
-#EXTINF:-1 group-logo="" group-title="🇲🇾 MALAYSIA" tvg-id="117" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/filemmantap.png" ,130 Filem Mantap 🅷🅳
-KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
-https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH2_FILEMMANTAP/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=273a091c-2f5b-4571-bf71-269dbd89263e&channel=filemmantap
+#EXTINF:-1 group-logo="" group-title="🇲🇾 MALAYSIA" tvg-id="117" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/filemmantap.png" ,131 Filem Mantap 🅷🅳
+https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH2_FILEMMANTAP/dash.mpd?channel=filemmantap
 
-#EXTINF:-1 group-logo="" group-title="🇲🇾 MALAYSIA" tvg-id="118" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/dramahotpot.png" ,131 Drama Hotpot 🅷🅳
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
-https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH4_DRAMAHOTPOT/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=556d7c21-4b5b-4d9b-8021-014923e53be9&channel=dramahotpot
+#EXTINF:-1 group-logo="" group-title="🇲🇾 MALAYSIA" tvg-id="118" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/dramahotpot.png" ,132 Drama Hotpot 🅷🅳
+https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH4_DRAMAHOTPOT/dash.mpd?channel=dramahotpot
 
-#EXTINF:-1 group-logo="" group-title="🇲🇾 MALAYSIA" tvg-id="119" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/traveltaste.png", 132 TRAVEL & TASTE 🅷🅳
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH5_TRAVEL/dash.mpd?channel=travel&taste
+#EXTINF:-1 group-logo="" group-title="🇲🇾 MALAYSIA" tvg-id="119" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/traveltaste.png", 133 Travel & Taste 🅷🅳
+https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH5_TRAVEL/dash.mpd?channel=travel&taste
 
 #EXTINF:-1 tvg-id="AstroCh100.my" tvg-name="TV Ikim" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png" group-title="🇲🇾 MALAYSIA",134 TV Ikim 🅷🅳
 #https://asmfreeview.short.gy/tv_ikim_120.m3u8
