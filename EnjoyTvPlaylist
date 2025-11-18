@@ -378,6 +378,18 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 #=====🇲🇨 INDONESIA ===========================
 
+#EXTINF:-1 tvg-id=""  group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/vtv.png", VTV 🅵🅷🅳 
+http://103.172.71.153:9981/stream/channelid/1304595532?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/inews.png",iNEWS
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+
+#EXTINF:-1 tvg-id=""  group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/kompastv.png", KOMPAS TV 🅵🅷🅳
+http://103.46.11.106:9981/stream/channelid/1691704072?ticket=933C4850FCC4D9EE7E8D7D37D095694F55914124&profile=pass
+
+#EXTINF:-1 tvg-id="ext" group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/btv.png", BTV HD
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/allplay.png", ALLPLAY ENT
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
