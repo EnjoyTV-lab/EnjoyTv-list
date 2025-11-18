@@ -7,9 +7,7 @@ untuk kegunaan persendirian saje.. jangan dijual..
 
 #=====🇲🇨 INDONESIA ===========================
 
-#EXTINF:-1 tvg-id="VTV"  group-title="🇲🇨 INDONESIA"
-tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/vtv.png", VTV 🅵🅷🅳
-http://103.172.71.153:9981/stream/channelid/1304595532?profile=pass
+#EXTINF:-1 tvg-id=""  group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/vtv.png", VTV 🅵🅷🅳 http://103.172.71.153:9981/stream/channelid/1304595532?profile=pass
 
 
 #EXTINF:-1 tvg-id=""  group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/inews.png",iNEWS
@@ -83,7 +81,7 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8|Referer=http
 #EXTINF:-1 group-title="Indonesia" tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/trans7.png" group-title="🇲🇨 INDONESIA",TRANS7
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
 
-#EXTINF:-1 tvg-id="19" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/aaac4479a72f41e7f52ce35d3ad49e804c3b0631/file_000000004dc4622f848ecbc2a24a8ab6%20(1)%20(1).png" group-title="🇲🇨 INDONESIA", TVONE
+#EXTINF:-1 tvg-id="19" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/aaac4479a72f41e7f52ce35d3ad49e804c3b0631/file_000000004dc4622f848ecbc2a24a8ab6%20(1)%20(1).png" group-title="🇲🇨 INDONESIA", TVONE 🅵🅷🅳
 http://103.170.33.11:9981/stream/channelid/1752496345?profile=pass&channel=tvone
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/maxstream.png" group-title="🇲🇨 INDONESIA",Maxstream
