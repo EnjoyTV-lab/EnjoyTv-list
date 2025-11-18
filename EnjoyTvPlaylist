@@ -73,7 +73,6 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts?channel=awesome
 #EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-name=" 110 Al-Hijrah"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tvalhijrah.png" group-title="🇲🇾 MALAYSIA",110 TV Alhijrah 🅷🅳
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd?channel=alhijrah
 
 #EXTINF:-1 tvg-id="111 TV6" tvg-name=" 111 TV6" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv6.png" group-title="🇲🇾 MALAYSIA",111 TV6 🅷🅳
