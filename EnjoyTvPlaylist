@@ -1,9 +1,6 @@
 EnjoyTV@OFFICIAL
 not for sale.. free for all
 
-#EXTINF:-1 tvg-name="Video Test" group-title="YouTube", video test
-https://youtu.be/5hglZElrguE?si=TwPoAf9NU8Qvdf04
-
 #=======MALAYSIA======
 
 #EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv1.png",101 TV1 🅷🅳
