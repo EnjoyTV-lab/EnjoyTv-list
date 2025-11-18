@@ -6,6 +6,15 @@ hanya kumpul link2 tv indonesia yang aktif...
 
 #=====🇲🇨 INDONESIA ===========================
 
+#EXTINF:0 tvg-id="idtv" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/btv.png" group-title="🇮🇩 INDONESIA", BTV HD
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
+
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/hvideo-1920x1080.m3u8
+
+
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/haudio-eng.m3u8
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/allplay.png", ALLPLAY ENT
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
