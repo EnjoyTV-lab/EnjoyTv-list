@@ -6,6 +6,10 @@ hanya kumpul link2 tv indonesia yang aktif...
 
 #=====🇲🇨 INDONESIA ===========================
 
+
+#EXTINF:-1 tvg-id="ElevenSport3"  group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/kompastv.png", KOMPAS TV 🅵🅷🅳
+http://103.46.11.106:9981/stream/channelid/1691704072?ticket=933C4850FCC4D9EE7E8D7D37D095694F55914124&profile=pass
+
 #EXTINF:0 tvg-id="ext" group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/btv.png", BTV HD
 https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 
