@@ -5,10 +5,7 @@ not for sale.. free for all
 
 #=======MALAYSIA======
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="🚼 KIDS",Disney Jr
-##https://cempedak-live-cdn.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd?channel=disneyjr
-##http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70382
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disn.m3u8?channel=disneyjr
+
 
 
 #EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv1.png",101 TV1 🅷🅳
@@ -1115,7 +1112,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
-https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
+https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd?channel=disney
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="🚼 KIDS",Disney Jr
+##https://cempedak-live-cdn.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd?channel=disneyjr
+##http://familyrestream.com:2095/arabic7383/EJSG4MY9yMmyrestream/70382
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disn.m3u8?channel=disneyjr
 
 #EXTINF:-1 group-title="🚼 KIDS" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/disneyxd.png",214 Disney XD
 https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8?channel=disneyxd
