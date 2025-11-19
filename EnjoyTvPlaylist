@@ -814,7 +814,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2709.ts?channel=hbosig
 
 #EXTINF:-1 tvg-id="" tvg-name="152 Star Movies" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/starmoviehd.png" group-title="🍿 MOVIES",710 Star Movies
-https://get.perfecttv.net/stream.ts?username=vip_3klp0es8&password=wg3piwEs&channel=starmovies
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts?channel=starmovies
 
 #EXTINF:-1 tvg-id="" tvg-name="153 Star Movies Select" tvg-logo="https://get.perfecttv.net/logo/starmoviesselect.png" group-title="🍿 MOVIES",711 Star Movies Select
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/4602.ts?channel=starmovieselect
