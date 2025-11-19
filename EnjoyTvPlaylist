@@ -467,11 +467,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd?channel=ma
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/flik.png" group-title="🇲🇨 INDONESIA",FLIK
 EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
-http://iptvtree.net:8080/live/F28312/cc1dc138/165095.ts?channel=flik
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd?channel=flik
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/bioskopindo.png" group-title="🇲🇨 INDONESIA",BIOSKOP
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd?channel=bioskop
 
