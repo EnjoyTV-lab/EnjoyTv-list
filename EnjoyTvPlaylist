@@ -1313,9 +1313,10 @@ https://get.perfecttv.net/dash2.mpd?username=vip_99cc537p&password=9J0jteen&chan
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenabolafhd3.png",803 Arena Bola 🅵🅷🅳
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4VG7gUaKhCbWqxKGDTFKow", "kid":"SZqPNoBksRzAkrewE9sHEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://stream-mts.cdnmts.org/mtsstream/ArenaBola.mpd
+#https://linears2-playback.astro.com.my/vsg/41TtbJTK7pSeH5y-R1ssdp2Zsw0OEHDnCIYgO4gbASHv4=_bEq/dash-wv/jitp-dashisowm/5099/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenabolahd.png" group-title="⚽ SPORTS FHD",803b Arena Bola 🅷🅳
 #KODIPROP:inputstreamaddon=inputstream.adaptive
