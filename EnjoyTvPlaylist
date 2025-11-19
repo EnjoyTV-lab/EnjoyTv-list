@@ -1310,13 +1310,18 @@ https://get.perfecttv.net/dash2.mpd?username=vip_99cc537p&password=9J0jteen&chan
 #https://get.perfecttv.net/1080.mpd?username=vip_99cc537p&password=9J0jteen&channel=arena2fhd|authorization=Bearer 
 https://get.perfecttv.net/dash2.mpd?username=vip_99cc537p&password=9J0jteen&channel=arena2fhd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenabolafhd3.png",803 Arena Bola 🅵🅷🅳
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NjEyODE1NTYsImlzcyI6IlZSIiwiZXhwIjoxNzYxMzQ1MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYjY4MTE1MzAtYmI5OC00Y2JiLWFlZDEtMmIxZDY4OTY2YWYzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.Auc86By-MTlVqGj2txsp-q2v45yButZrk7Y9Ia7qlcY"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
-#https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd
-https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key={"57833c900c4c437f82daf6785eb6ef36":"7bf4663e43cdc277b4ae18219c81d2a1","fb06bb8266fb4a998e7c4e7e90461556":"52242587d8106c4b3ed596c7a56b4e28"}
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenabolafhd3.png",803 Arena Bola 🅵🅷🅳
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4VG7gUaKhCbWqxKGDTFKow", "kid":"SZqPNoBksRzAkrewE9sHEA" } ], "type":"temporary" }
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Linux; Android 10; UHD 4K Build/1.0)"}
+https://stream-mts.cdnmts.org/mtsstream/ArenaBola.mpd
+#https://linears2-playback.astro.com.my/vsg/41TtbJTK7pSeH5y-R1ssdp2Zsw0OEHDnCIYgO4gbASHv4=_bEq/dash-wv/jitp-dashisowm/5099/default_primary.mpd?channel=bola1fhd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenabolahd.png" group-title="⚽ SPORTS FHD",803b Arena Bola 🅷🅳
 #KODIPROP:inputstreamaddon=inputstream.adaptive
