@@ -1296,6 +1296,9 @@ http://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/mutv.png",800 MUTV
 https://get.perfecttv.net/mutv.mpd
 
+EXTINF:-1 tvg-logo="https://go4.pw/UK/PL4K.png" group-title="⚽ SPORTS FHD",701 ENGLISH PREMIER LEAGUE 4🅺
+http://www.alhaiba.com/6V1N24N/LE49Y1F/979907
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenafhd3.png",801 Arena 🅵🅷🅳
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1525,11 +1528,11 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/324814
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/hubb.png" group-title="⚽ SPORTS FHD",849 HUB PREMIER 10 🅵🅷🅳
 http://www.alhaiba.com/6V1N24N/LE49Y1F/324815
 
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/hubb.png" group-title=⚽ SPORTS FHD",850 HUB PREMIER 11 🅵🅷🅳
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/hubb.png" group-title="⚽ SPORTS FHD",850 HUB PREMIER 11 🅵🅷🅳
 http://www.alhaiba.com/6V1N24N/LE49Y1F/324816
 
 
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skypre.png" group-title="⚽ SPORTS FHD,851 SKY SPORTS PREMIER LEAGUE 🅵🅷🅳
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skypre.png" group-title="⚽ SPORTS FHD",851 SKY SPORTS PREMIER LEAGUE 🅵🅷🅳
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1015489
 
 EXTINF:-1 tvg-logo="https://go4.pw/UK/skyfoot.png" group-title="⚽ SPORTS FHD",852 SKY SPORTS FOOTBALL 🅵🅷🅳
@@ -1541,7 +1544,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/348305
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skyracingg.png" group-title="⚽ SPORTS FHD",854 SKY SPORTS RACING 🅵🅷🅳
 http://www.alhaiba.com/6V1N24N/LE49Y1F/304708
 
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="⚽ SPORTS FHD",855 SKY SPORTS TENNIS 🅵🅷🅳
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Sky_Sport_Tennis.svg" group-title="⚽ SPORTS FHD",855 SKY SPORTS TENNIS 🅵🅷🅳
 http://www.alhaiba.com/6V1N24N/LE49Y1F/664451
 
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skygolff.png" group-title="⚽ SPORTS FHD",856 SKY SPORTS GOLF 🅵🅷🅳
