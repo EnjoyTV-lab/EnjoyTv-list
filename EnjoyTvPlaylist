@@ -1532,8 +1532,11 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/324809
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hubp5.png" group-title="⚽ SPORTS FHD",844 HUB PREMIER 5 🅵🅷🅳
 http://www.alhaiba.com/6V1N24N/LE49Y1F/324810
 
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/hubb.png" group-title="⚽ SPORTS FHD",845 HUB PREMIER 6 🅵🅷🅳
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hubp6.png" group-title="⚽ SPORTS FHD",845 HUB PREMIER 6 🅵🅷🅳
 http://www.alhaiba.com/6V1N24N/LE49Y1F/324811
+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hubp7.png" group-title="⚽ SPORTS FHD",846 HUB PREMIER 7 🅵🅷🅳
+http://www.alhaiba.com/6V1N24N/LE49Y1F/324812
 
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skypre.png" group-title="⚽ SPORTS FHD",851 SKY SPORTS PREMIER LEAGUE 🅵🅷🅳
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1015489
