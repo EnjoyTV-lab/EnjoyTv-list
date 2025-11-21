@@ -25,8 +25,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
 
 #EXTINF:-1 tvg-id=""  group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/kompastv.png", KOMPAS TV 🅵🅷🅳
-http://103.46.11.106:9981/stream/channelid/1691704072?ticket=933C4850FCC4D9EE7E8D7D37D095694F55914124&profile=pass
-
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/btv.png", BTV HD
 https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
@@ -76,7 +75,7 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="10" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/rtv.png" group-title="🇲🇨 INDONESIA", RTV
-https://cdn08jtedge.indihometv.com/dassdvr/130/rtv/manifest.mpd?channel=rtv
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/RAJAWALI_TV/manifest.mpd?channel=rtv
 
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/transtv.png" group-title="🇲🇨 INDONESIA",TRANS TV
@@ -90,7 +89,12 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8|Referer=http
 
  
 #EXTINF:-1 group-title="Indonesia" tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/trans7.png" group-title="🇲🇨 INDONESIA",TRANS7
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+#EXTINF:-1 group-title="Local" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png",TransTV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="19" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/aaac4479a72f41e7f52ce35d3ad49e804c3b0631/file_000000004dc4622f848ecbc2a24a8ab6%20(1)%20(1).png" group-title="🇲🇨 INDONESIA", TVONE 🅵🅷🅳
 http://103.170.33.11:9981/stream/channelid/1752496345?profile=pass&channel=tvone
