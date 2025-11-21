@@ -1296,7 +1296,7 @@ http://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/mutv.png",800 MUTV
 https://get.perfecttv.net/mutv.mpd
 
-EXTINF:-1 tvg-logo="https://go4.pw/UK/PL4K.png" group-title="⚽ SPORTS FHD",701 ENGLISH PREMIER LEAGUE 4🅺
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/PL4K.png" group-title="⚽ SPORTS FHD",701 ENGLISH PREMIER LEAGUE 4🅺
 http://www.alhaiba.com/6V1N24N/LE49Y1F/979907
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenafhd3.png",801 Arena 🅵🅷🅳
@@ -1496,7 +1496,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
 
-
+==========================HUB=====================
 
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/hubb.png" group-title="⚽ SPORTS FHD",840 HUB PREMIER 01 🅵🅷🅳
 http://www.alhaiba.com/6V1N24N/LE49Y1F/324806
@@ -1535,7 +1535,7 @@ http://www.alhaiba.com/6V1N24N/LE49Y1F/324816
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skypre.png" group-title="⚽ SPORTS FHD",851 SKY SPORTS PREMIER LEAGUE 🅵🅷🅳
 http://www.alhaiba.com/6V1N24N/LE49Y1F/1015489
 
-EXTINF:-1 tvg-logo="https://go4.pw/UK/skyfoot.png" group-title="⚽ SPORTS FHD",852 SKY SPORTS FOOTBALL 🅵🅷🅳
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyfoot.png" group-title="⚽ SPORTS FHD",852 SKY SPORTS FOOTBALL 🅵🅷🅳
 http://www.alhaiba.com/6V1N24N/LE49Y1F/17288
 
 #EXTINF:-1 tvg-logo="https://go4.pw/UK/skyf1.png" group-title="⚽ SPORTS FHD",853 SKY SPORTS F1 🅵🅷🅳
