@@ -115,7 +115,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8?channel=zoomookids
  
 
-#EXTINF:-1 tvg-id="PBS Kids" tvg-name="PBS Kids" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/pbs%20kids.png" group-title="🚼 KIDS",23 PBS Kids
+#EXTINF:-1 tvg-id="PBS Kids" tvg-name="PBS Kids" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/pbs%20kids.png" group-title="🚼 KIDS",223 PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
 
