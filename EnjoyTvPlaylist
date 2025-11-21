@@ -1493,68 +1493,40 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/champions1.png",830 Champions 1 🅵🅷🅳
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
-https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=17938
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/champions2.png",831 Champions 2 🅵🅷🅳
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8810a06df6e5437aa378be1aef6a3d9:f9e0f84b886f7402738c2e201af9f4db
-https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=6686
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/champions3.png",832 Champions 3 🅵🅷🅳
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cac6ef6bc0cbe3fc48fccc8ddc02dc54:644eab662d05201dbdeaf9453bcdea20
-https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=19404
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/champions5.png",833 Champions 5 🅵🅷🅳
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
-https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9182
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/champions6.png",834 Champions 6 🅵🅷🅳
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
-https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=9183
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/hubb.png" group-title="⚽ SPORTS FHD",840 HUB PREMIER 01 FHD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/324806
 
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/hubb.png" group-title="⚽ SPORTS FHD",841 HUB PREMIER 02 FHD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/324807
 
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/hubb.png" group-title="⚽ SPORTS FHD",842 HUB PREMIER 03 FHD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/324808
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hub1.png", 840 Hub Premier1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hub1
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/hubb.png" group-title="⚽ SPORTS FHD",843 HUB PREMIER 04 FHD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/324809
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hub2.png", 841 Hub Premier2
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
-https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hub2
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/hubb.png" group-title="⚽ SPORTS FHD",844 HUB PREMIER 05 FHD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/324810
 
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/hubb.png" group-title="⚽ SPORTS FHD",845 HUB PREMIER 06 FHD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/324811
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hub3.png", 842 Hub Premier3
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
-https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hub3
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/hubb.png" group-title="⚽ SPORTS FHD",846 HUB PREMIER 07 FHD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/324812
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hub4.png", 843 Hub Premier4
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=624bceaf2e78422c8ee1b8f31c638fb4:5223fbfd77b228f2f01e20358972850b
-https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hub4
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/hubb.png" group-title="⚽ SPORTS FHD",847 HUB PREMIER 08 FHD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/324813
+
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/hubb.png" group-title="⚽ SPORTS FHD",848 HUB PREMIER 09 FHD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/324814
+
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/hubb.png" group-title="⚽ SPORTS FHD",849 HUB PREMIER 10 FHD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/324815
+
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/hubb.png" group-title=⚽ SPORTS FHD",850 HUB PREMIER 11 FHD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/324816
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hubsport1.png", 850 Hub Sport1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1569,7 +1541,32 @@ https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 #KODIPROP:inputstream.adaptive.license_key=fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d
 https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hubsport2
 
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skypre.png" group-title="⚽  SPORTS FHD,UK - SKY SPORTS PREMIER LEAGUE FHD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/1015489
 
+EXTINF:-1 tvg-logo="https://go4.pw/UK/skyfoot.png" group-title="⚽  SPORTS FHD",UK - SKY SPORTS FOOTBALL FHD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/17288
+
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyf1.png" group-title="⚽  SPORTS FHD",UK - SKY SPORTS F1 UHD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/348305
+
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyracingg.png" group-title="⚽  SPORTS FHD",UK - SKY SPORTS RACING FHD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/304708
+
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyspns.png" group-title="⚽  SPORTS FHD",UK - SKY SPORTS TENNIS FHD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/664451
+
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skygolff.png" group-title="⚽  SPORTS FHD",UK - SKY SPORTS GOLF FHD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/17287
+
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/skysportarena.png" group-title="SPORTS 2",UK - SKY SPORTS ARENA FHD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/17291
+
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skymix.png" group-title="SPORTS 2",UK - SKY SPORTS MIX FHD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/17284
+
+#EXTINF:-1 tvg-logo="https://go4.pw/UK/skyamainevent.png" group-title="SPORTS 2",UK - SKY SPORTS MAIN EVENT FHD
+http://www.alhaiba.com/6V1N24N/LE49Y1F/17286
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽  SPORTS FHD" group-logo="" tvg-logo="https://get.perfecttv.net/logo/hubsport3.png", 852 Hub Sport3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
