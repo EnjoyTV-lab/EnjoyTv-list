@@ -113,6 +113,8 @@ https://get.perfecttv.net/1080ceria.mpd?username=vip_3klp0es8&password=wg3piwEs&
 https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/riafhd3.png" ,119ba Astro Ria 🅵🅷🅳
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=21759e73f142452aa01acc6d08a86e50:fc9eaf659647c675315f65747c2553da
 http://linears2-playback.astro.com.my/vsg/41BANaRY9bLUZGYPgbM5FnKU0ytNquHYrHFM4vY_Nz8Ks=2W6S/dash-wv/jitp-linearwm/1004/default_ott.mpd
 User-Agent: Mozilla/5.0 (Linux; Android 15; V2250 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/142.0.7444.106 Mobile Safari/537.36
 
