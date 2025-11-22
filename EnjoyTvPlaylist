@@ -112,6 +112,17 @@ https://get.perfecttv.net/1080ceria.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd|authorization=Bearer 
 https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/riafhd3.png" ,119aa Astro Ria 🅵🅷🅳
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
+http://linears2-playback.astro.com.my/vsg/41BANaRY9bLUZGYPgbM5FnKU0ytNquHYrHFM4vY_Nz8Ks=2W6S/dash-wv/jitp-linearwm/1004/default_ott.mpd HTTP/1.1
+User-Agent: Mozilla/5.0 (Linux; Android 15; V2250 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/142.0.7444.106 Mobile Safari/537.36
+Host: linears2-playback.astro.com.my
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+
 
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/riahd.png" ,119a Astro Ria 🅷🅳
