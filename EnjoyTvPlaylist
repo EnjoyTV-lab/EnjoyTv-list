@@ -1,3 +1,5 @@
+https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600"
+
 EnjoyTV@OFFICIAL
 not for sale.. free for all
 
@@ -828,7 +830,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbofamily
 
-#EXTINF:-1 tvg-id="" tvg-name="143 HBO Signature" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hbosignature.png" group-title="🍿 MOVIES",709 HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hbosignature.png" group-title="🍿 MOVIES",709 HBO Signature
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2709.ts?channel=hbosig
 
 #EXTINF:-1 tvg-id="" tvg-name="152 Star Movies" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/starmoviehd.png" group-title="🍿 MOVIES",710 Star Movies 🅵🅷🅳
