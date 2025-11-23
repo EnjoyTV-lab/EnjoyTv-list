@@ -1329,8 +1329,6 @@ http://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/mutv.png",800 MUTV
 https://get.perfecttv.net/mutv.mpd
 
-#EXTINF:-1 tvg-logo="https://go4.pw/UK/PL4K.png" group-title="⚽ SPORTS FHD",701 ENGLISH PREMIER LEAGUE 4🅺
-http://www.alhaiba.com/6V1N24N/LE49Y1F/979907
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenafhd3.png",801 Arena 🅵🅷🅳
 #KODIPROP:inputstreamaddon=inputstream.adaptive
