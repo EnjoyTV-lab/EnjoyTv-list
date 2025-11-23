@@ -1659,7 +1659,7 @@ http://line.extraott-iptv.com:88/2755789541/1300714776/153701
 #https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysfor1
 #http://fortv.cc:8080/live/q8KuDU/354945/35244.ts
 
-#EXTINF:-1  tvg-logo="https://go4.pw/ITALY/skysportarena.png" group-title="⚽  SPORTS FHD",873 SKY SPORT ARENA 🅵🅷🅳
+#EXTINF:-1  tvg-logo=https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/ssarena.png" group-title="⚽  SPORTS FHD",873 SKY SPORT ARENA 🅵🅷🅳
 http://tv.8dott.xyz:80/live/samuel/samuel123456/35796.ts
 #http://fortv.cc:8080/live/q8KuDU/354945/35243.ts
 #http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/35238
