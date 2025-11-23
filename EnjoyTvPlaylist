@@ -119,7 +119,7 @@ https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/532.ts
 #https://wahyu1ptv.pages.dev/AstroRia-HD.m3u8
 #http://23.26.239.95:3599/xsj.php?id=astro-ria
-#http://jomtv.vip:2082/live/GM29/Glidermedia01/20.m3u8
+#http://jomtv.vip:2082/live/GM29/Glidermedia01/20.m3u8?channel=ria
 
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/riahd.png" ,119b Astro Ria 🅷🅳
@@ -143,7 +143,7 @@ https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/primahd.png" ,120a Astro Prima 🅷🅳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://zozotv.xyz:443/live/ZZA21216/zxe36880/33.ts
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/33.ts?channel=prima
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/primahd.png" ,120b Astro Prima 🅷🅳
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -159,7 +159,7 @@ https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/citra.png" ,121a Astro Citra 🅷🅳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://zozotv.xyz:443/live/ZZA21216/zxe36880/36.ts
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/36.ts?channel=citra
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/citra.png" ,121b Astro Citra 🅷🅳
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166 
@@ -1652,7 +1652,7 @@ https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/UK/skypre.png" group-title="⚽  SPORTS FHD", 870SKY SPORTS PREMIERE LEAGUE 🅵🅷🅳
 http://line.extraott-iptv.com:88/2755789541/1300714776/191686
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Pbd0tSD.jpg" group-title="⚽  SPORTS FHD", 871 SKY SPORTS FOOTBALL 🅵🅷🅳
+#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/UK/skyfoot.png" group-title="⚽  SPORTS FHD", 871 SKY SPORTS FOOTBALL 🅵🅷🅳
 http://tv.8dott.xyz:80/live/samuel/samuel123456/35798.ts
 
 
@@ -1661,7 +1661,7 @@ http://line.extraott-iptv.com:88/2755789541/1300714776/153701
 #https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysfor1
 #http://fortv.cc:8080/live/q8KuDU/354945/35244.ts
 
-#EXTINF:-1  tvg-logo=""https://go4.pw/ITALY/skysportarena.png" group-title="⚽  SPORTS FHD",873 SKY SPORT ARENA 🅵🅷🅳
+#EXTINF:-1  tvg-logo="https://go4.pw/ITALY/skysportarena.png" group-title="⚽  SPORTS FHD",873 SKY SPORT ARENA 🅵🅷🅳
 http://tv.8dott.xyz:80/live/samuel/samuel123456/35796.ts
 #http://fortv.cc:8080/live/q8KuDU/354945/35243.ts
 #http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/35238
