@@ -1561,22 +1561,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default_primary.mpd
 https://a1xs.vip/1100041
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hubp2.png" group-title="⚽ SPORTS FHD",841 HUB PREMIER 2 🅵🅷🅳
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
-https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hub2
+https://a1xs.vip/1100042?channel=hub2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hubp3.png" group-title="⚽ SPORTS FHD",842 HUB PREMIER 3 🅵🅷🅳
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
-https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hub3
+https://a1xs.vip/1100043?channel=hub3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hubp4.png" group-title="⚽ SPORTS FHD",843 HUB PREMIER 4 🅵🅷🅳
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=624bceaf2e78422c8ee1b8f31c638fb4:5223fbfd77b228f2f01e20358972850b
-https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hub4
+https://a1xs.vip/1100044?channel=hub4
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/champions1.png",850 Champions 1 A 🅵🅷🅳
 #KODIPROP:inputstreamaddon=inputstream.adaptive
