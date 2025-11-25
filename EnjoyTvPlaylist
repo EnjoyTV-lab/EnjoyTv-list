@@ -1377,7 +1377,8 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f166a88a7f1b40bba2e399bf2f972365:abf14067e089861730f4c6ff24b52dba
-https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2fhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2fhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenabola2hd.png" group-title="⚽ SPORTS FHD",804b Arena Bola 2 🅷🅳
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1664,7 +1665,7 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/35796.ts
 #http://fortv.cc:8080/live/q8KuDU/354945/35243.ts
 #http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/35238
 
-#EXTINF:-1  tvg-name="Sky Sports Main Event UHD" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="⚽  SPORTS FHD",873 SKY SPORTS MAIN EVENT U🅷🅳
+#EXTINF:-1  tvg-name="Sky Sports Main Event UHD" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="⚽  SPORTS FHD",873 SKY SPORTS MAIN EVENT 🆄🅷🅳
 https://a1xs.vip/2000015
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/ssgolf.png" group-title="⚽  SPORTS FHD",874 SKY SPORTS GOLF 🅵🅷🅳
