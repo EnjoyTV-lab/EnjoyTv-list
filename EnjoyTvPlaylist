@@ -1327,8 +1327,9 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/mutv.png",800 MUTV
-https://get.perfecttv.net/mutv.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/mutv.png",800 MUTV 🅷🅳
+http://tvmate.icu:8080/69NpyV/884735/53717
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenafhd3.png",801 Arena 🅵🅷🅳
