@@ -153,8 +153,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/musikindonesia.png" group-title="🇲🇨 INDONESIA",MUSIKINDO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/indosiar.png" group-title="🇲🇨 INDONESIA",Indosiar 🅵🅷🅳
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/indosiar/manifest.mpd
