@@ -1695,7 +1695,23 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a
 
 #======Movie Malay======
 
-#EXTINF:-1 tvg-id="" tvg-name="891-Magik Rompak (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbTPVx1TtYpSGkaMBa5fnQC3utV.jpg" group-title="▶ VOD MALAY",891-Magik Rompak (2025)
+#EXTINF:-1 tvg-id="" tvg-name="892-Telaga Suriram (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEJuc55kaaWjj3tABr6i78kM1Oz.jpg" group-title="▶ VOD MALAY",891-Telaga Suriram (2025)
+https://get.perfecttv.net/okayru.mpd?id=11100097284815
+
+#EXTINF:-1 tvg-id="" tvg-name="893-Indera (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thOWbqcgP7Z8YQWY98PtCbZkBgz.jpg" group-title="▶ VOD MALAY",892-Indera (2025)
+https://get.perfecttv.net/okayru.mpd?id=11100009204431
+
+#EXTINF:-1 tvg-id="" tvg-name="894-Gayong (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjJejZTEp6Qat5AxIBIG3Hdjl2d.jpg" group-title="▶ VOD MALAY",893-Gayong (2025)
+https://get.perfecttv.net/okayru.mpd?id=11094934751951
+
+#EXTINF:-1 tvg-id="tv1" tvg-name="First" group-title="▶ VOD MALAY" group-logo="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQC04vkAEkqzITmoa9DmIJwSCi7.jpg", 894-Keluang Man (2025)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0fb9b45a5f20604f3e97c537bcc2fa10:95862daf9ce6025197c132bc60900dd2
+https://vodejitp-asset-playback-b.astro.com.my/v5/default/cmaf-dash-wv/vode/83d08f64-0d44-52da-96ba-7189544ddf04/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="891-Magik Rompak (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbTPVx1TtYpSGkaMBa5fnQC3utV.jpg" group-title="▶ VOD MALAY",890-Magik Rompak (2025)
 https://get.perfecttv.net/okayru.mpd?id=11161037441743
 
 #EXTINF:-1 tvg-id="" tvg-name="895-Martabat: Misi Berdarah (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgrRrDelt5BRYfNi454rbRK8wsP.jpg" group-title="▶ VOD MALAY",895-Martabat: Misi Berdarah (2025)
@@ -1869,14 +1885,8 @@ http://83.142.30.171:8080/movie/vip_0new9imx/Wm75SsLs/2788.mp4
 #EXTINF:-1 tvg-id="" tvg-name="930-Imaginur (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GDAe9i6HiFtRB1O5nCbUcGH4j0.jpg" group-title="▶ VOD MALAY",930-Imaginur (2023)
 http://83.142.30.171:8080/movie/vip_0new9imx/Wm75SsLs/2792.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="892-Telaga Suriram (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEJuc55kaaWjj3tABr6i78kM1Oz.jpg" group-title="▶ VOD MALAY",892-Telaga Suriram (2025)
-https://get.perfecttv.net/okayru.mpd?id=11100097284815
 
-#EXTINF:-1 tvg-id="" tvg-name="893-Indera (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thOWbqcgP7Z8YQWY98PtCbZkBgz.jpg" group-title="▶ VOD MALAY",893-Indera (2025)
-https://get.perfecttv.net/okayru.mpd?id=11100009204431
 
-#EXTINF:-1 tvg-id="" tvg-name="894-Gayong (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjJejZTEp6Qat5AxIBIG3Hdjl2d.jpg" group-title="▶ VOD MALAY",894-Gayong (2025)
-https://get.perfecttv.net/okayru.mpd?id=11094934751951
 
 
 =========▶ P.RAMLEE============================
