@@ -158,12 +158,12 @@ https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/citra.png" ,121a Astro Citra 🅷🅳
-#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
-#Chrome/124.0.0.0 Safari/537.36
-https://get.perfecttv.net/citra.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrocitra
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
+https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/citra.png" ,121b Astro Citra 🅷🅳
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/citra.png" ,121b Astro Citra VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/36.ts?channel=citra
 
@@ -174,22 +174,18 @@ https://zozotv.xyz:443/live/ZZA21216/zxe36880/36.ts?channel=citra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd?channel=oasis
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Aura HD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/astroaura.png" group-title="🇲🇾 MALAYSIA", 124 Astro Aura 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
-#EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Aura HD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/astroaura.png" group-title="🇲🇾 MALAYSIA", 124 Astro Aura 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
+https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=aurahd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+
+#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Rania HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/rania.png",125 Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
-#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Rania HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/rania.png",125 Astro Rania
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
-
+https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=raniahd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
