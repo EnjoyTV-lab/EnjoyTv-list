@@ -891,6 +891,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd?channel=
 #EXTINF:-1 tvg-id="Cinema.World.id" tvg-name="Cinema World" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemaworld.jpg" group-title="🍿 MOVIES",715b CINEMAWORLD
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
 
+#EXTINF:-1 group-title="🍿 MOVIES" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cinemaworld.png",715c CINEMAWORLD
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/cinemaworld/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="🍿 MOVIES" group-logo="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hitmovies.png",716 HITS Movies
