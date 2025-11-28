@@ -801,9 +801,10 @@ https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=duniasenima
 
 #EXTINF:-1 group-logo="" group-title="🍿 MOVIES"" tvg-id="120.unifi" ch-number="120" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/degup.png" group-logo="" ,701 Degup
+#KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://widevine-proxy.api.tm.quickplay.com/getlicense?service=tm&version=1.0&kid=A1623B76-6E4B-48EB-88CE-A29E1C309CC7&ptoken=eyJjb250ZW50SWQiOiJBMTYyM0I3Ni02RTRCLTQ4RUItODhDRS1BMjlFMUMzMDlDQzciLCJsaWNlbnNlRXhwaXJ5VGltZSI6MTc2MDU1MzU4MTE2MSwiZW50aXRsZWRDb250ZW50SWRzIjoiUVRFMk1qTkNOell0TmtVMFFpMDBPRVZDTFRnNFEwVXRRVEk1UlRGRE16QTVRME0zIiwibWF4VXNlcyI6MSwic2lnbmF0dXJlIjoiM2Q1Zjg4NzY4ODA3ODZkMDY1ODFkOWRjOWFlNjIzMGMyZTA2OWUxN2YwODZkMDhkMWUyYWRmNGE5MzQ4M2RiNSIsInVuaXF1ZUlkIjoiMTU0YjI1NTEtYmVkYy00MDRhLTlkM2EtYTI1NzExZGMyNDQ4IiwiaXNzdWVyIjoiU0lHTktFWV9QVE9LRU5fQ09OU1VNRV9JU1NVRVIiLCJhcGlLZXkiOiJhcGlLZXkiLCJrZXlWZXJzaW9uIjoidmVyczAxIiwiZXhwaXJ5VGltZSI6MTc2MDUxMDQ0MTE2MSwiY3JlYXRlZFRpbWUiOjE3NjA1MTAzODExNjEsInRva2VuTW9kZWxWZXJzaW9uIjoiVjMifQ==
 #https://get.perfecttv.net/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=degup
-https://get.perfecttv.net/1080ceria.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=degup
+https://get.perfecttv.net/degup/degup.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=degup
 
 
 #EXTINF:-1 tvg-id="121" tvg-name="SIAR" group-title="🍿 MOVIES" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/siar.png",702 Siar 
