@@ -546,7 +546,8 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mp
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8?channel=garudatv
 
 #EXTINF:-1 tvg-id="MagnaChannel.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/magnachannel.png" group-title="🇲🇨 INDONESIA",MAGNA CHANNEL
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8?channel=magnachannel
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="CNBCINDONESIA.id" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/cnbcindo.png" group-title="🇲🇨 INDONESIA",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?channel=cnbcindonesia
