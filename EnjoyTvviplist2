@@ -518,12 +518,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/bioskopindonesia/manifest.mpd?channe
 https://cdn10jtedge.indihometv.com/atm/DASH/dunialain/manifest.mpd
 
 
-#EXTINF:0 tvg-id="davinciasia.de" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/davinci.png" group-title="🇲🇨 INDONESIA",DA VINCI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/chinesedrama.png" group-title="🇲🇨 INDONESIA",CHINESE DRAMA INDI
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -567,14 +561,6 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8?channel=bandungtv
 #EXTINF:-1 tvg-id="BantenTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/bantentv.png" group-title="🇲🇨 INDONESIA",BANTEN TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8?channel=bantentv
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/mentaritv.png" group-title="🇲🇨 INDONESIA",MENTARI TV INDI
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-MentariTV.m3u8
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd?channel=mentaritv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/citradangdut.png" group-title="🇲🇨 INDONESIA",CITRA DANGDUT
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1131,11 +1117,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd?cha
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/mentaritv.png" group-title="🚼 KIDS", 206 MENTARI TV INDI
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-MentariTV.m3u8
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd?channel=mentaritv
+http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
 
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
