@@ -902,25 +902,29 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=moviesnow
 
 
-#EXTINF:-1 tvg-id="" tvg-name="159 Studio Universal" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/studiouniversal.png" group-title="🍿 MOVIES",718 Studio Universal
+#EXTINF:-1 tvg-id="ts599" group-title="🍿 MOVIES" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/mnxhd.png",718 MNX
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-name="159 Studio Universal" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/studiouniversal.png" group-title="🍿 MOVIES",719 Studio Universal
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 https://get.perfecttv.net/dashVision2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=studiouniversal
 
-#EXTINF:-1 group-logo="" group-title="🍿 MOVIES" tvg-id="474.unifi" ch-number="474" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/rockaction.png",719 Rock Action
+#EXTINF:-1 group-logo="" group-title="🍿 MOVIES" tvg-id="474.unifi" ch-number="474" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/rockaction.png",720 Rock Action
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://get.perfecttv.net/mytv.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=rockaction.my|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 
 
-#EXTINF:-1 tvg-id="IMC.id" group-title="🍿 MOVIES" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/imc.png", 720 IMC
+#EXTINF:-1 tvg-id="IMC.id" group-title="🍿 MOVIES" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/imc.png", 721 IMC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd?channel=imc
 
 
-#EXTINF:-1 group-logo="" group-title="🍿 MOVIES" tvg-id="" ch-number="19" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/thrill.png",721 Thrill
+#EXTINF:-1 group-logo="" group-title="🍿 MOVIES" tvg-id="" ch-number="19" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/thrill.png",722 Thrill
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -928,13 +932,13 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd?channel=imc
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd?channel=thrill
 
 
-#EXTINF:-1 tvg-id="321" ch-number="321" tvg-name="Celestial Classic" group-title="🍿 MOVIES" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/ccm.png",722 Celestial Classic Movies
+#EXTINF:-1 tvg-id="321" ch-number="321" tvg-name="Celestial Classic" group-title="🍿 MOVIES" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/ccm.png",723 Celestial Classic Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ccm
 
-#EXTINF:-1 tvg-id="CelestialMovies" ch-number="309" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/celestialmovie.png" group-title="🍿 MOVIES",723 Celestial Movies
+#EXTINF:-1 tvg-id="CelestialMovies" ch-number="309" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/celestialmovie.png" group-title="🍿 MOVIES",724 Celestial Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
