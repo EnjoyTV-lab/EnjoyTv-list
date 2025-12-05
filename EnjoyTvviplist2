@@ -1614,13 +1614,19 @@ https://a1xs.vip/1100043?channel=hub3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hubp4.png" group-title="⚽ SPORTS FHD",843 HUB PREMIER 4 🅵🅷🅳
 https://a1xs.vip/1100044?channel=hub4
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/champions1.png",850 Champions 1 A 🅵🅷🅳
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/champions1.png",850 Champions 1 🅵🅷🅳
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=68d120b783a0420e63b17f44ef2a2af2:fcfad4cd945a66d489293b72f1eae8ac
 https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=6685
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/champions1.png",850a Champions 1 🅵🅷🅳
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=17938
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/champions2.png",851 Champions 2 🅵🅷🅳
 #KODIPROP:inputstreamaddon=inputstream.adaptive
