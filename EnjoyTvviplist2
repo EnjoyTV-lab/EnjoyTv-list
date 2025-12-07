@@ -1422,13 +1422,6 @@ https://load.perfecttv.net/rwt.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&chann
 #https://get.perfecttv.net/rwt.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=bola2hd
 https://load.perfecttv.net/rwt.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=bola2hd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenabola2hd.png" group-title="⚽ SPORTS FHD",804b Arena Bola 2 🅷🅳
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1314914fb4f94984b7a7572a03b69f93:7ec8c4186df69a58cf640291a7c9ac7c
-#https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2hd
-https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2hd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenabola2hd.png" group-title="⚽ SPORTS FHD",804c Arena Bola 2 🅷🅳
 #KODIPROP:inputstreamaddon=inputstream.adaptive
