@@ -1708,7 +1708,7 @@ https://get.perfecttv.net/hub.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 http://line.extraott-iptv.com:88/2755789541/1300714776/191686
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/UK/skyfoot.png" group-title="⚽  SPORTS FHD", 871 SKY SPORTS FOOTBALL 🅵🅷🅳
-http://tv.8dott.xyz:80/live/samuel/samuel123456/35798.ts
+http://line.extraott-iptv.com:88/2755789541/1300714776/191691 #http://tv.8dott.xyz:80/live/samuel/samuel123456/35798.ts
 
 
 #EXTINF:-1  tvg-logo="https://go4.pw/UK/skyf1.png" group-title="⚽  SPORTS FHD", 872 SKY SPORT F1 🅵🅷🅳
@@ -1722,10 +1722,10 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/35796.ts
 #http://fortv.cc:8080/live/q8KuDU/354945/35243.ts
 #http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/35238
 
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/ssarena.png" group-title="⚽  SPORTS FHD",874 SKY SPORT ARENA 🅵🅷🅳 http://line.extraott-iptv.com:88/2755789541/1300714776/153705 #http://tv.8dott.xyz:80/live/samuel/samuel123456/35796.ts #http://fortv.cc:8080/live/q8KuDU/354945/35243.ts #http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/35238
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/ssgolf.png" group-title="⚽  SPORTS FHD",874 SKY SPORTS GOLF 🅵🅷🅳
-http://tv.8dott.xyz:80/live/samuel/samuel123456/164498.ts
-#http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/35240
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/ssgolf.png" group-title="⚽  SPORTS FHD",875 SKY SPORTS GOLF 🅵🅷🅳
+http://line.extraott-iptv.com:88/2755789541/1300714776/191685 #http://tv.8dott.xyz:80/live/samuel/samuel123456/164498.ts #http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/35240
 
 #EXTINF:-1 channel-id="pluto-5a74b8e1e22a61737979c6bf" tvg-id="5a74b8e1e22a61737979c6bf" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" tvg-chno="2790" group-title="⚽ SPORTS FHD" , FOX Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54
