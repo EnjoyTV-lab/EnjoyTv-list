@@ -2,6 +2,11 @@
 EnjoyTV@OFFICIAL
 not for sale.. free for all
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD B
+#https://linears2-playback.astro.com.my/vsg/41d_j37rJGiC-7N9Kdwb7zOtDtIxACd8BxwtRlzsGAH0M=p__a/dash-wv/jitp-linearwm/5100/default_primary.mpd
 
 
 
