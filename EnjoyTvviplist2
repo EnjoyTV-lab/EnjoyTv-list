@@ -1203,6 +1203,9 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disn.m3u8?channel=dis
 #EXTINF:-1 group-title="🚼 KIDS" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/disneyxd.png",216 Disney XD
 https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8?channel=disneyxd
 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
 #EXTINF:-1 group-title="🚼 KIDS" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/cartoonito.png",217 Cartoonito
 https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoHD.mpd
 
