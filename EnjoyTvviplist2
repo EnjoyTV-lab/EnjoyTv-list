@@ -1204,8 +1204,7 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/disn.m3u8?channel=dis
 https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8?channel=disneyxd
 
 #EXTINF:-1 group-title="🚼 KIDS" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/cartoonito.png",217 Cartoonito
-https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd?channel=cartoonito
-
+https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoHD.mpd
 
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-name="Tiny POP" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/baby%20shark%20tv.png" group-title="🚼 KIDS",218 Baby Shark Tv
 https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
