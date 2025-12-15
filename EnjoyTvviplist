@@ -823,7 +823,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hboplus.png" group-title="🍿 MOVIES",706 HBO PLUS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
-https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd?channel=hbo+
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd?channel=hboplus
 
 #EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO Hits" group-title="🍿 MOVIES" group-logo="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hbohits.png",707 HBO HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -910,7 +910,10 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=galaxy
 
 #EXTINF:-1 tvg-id="" tvg-name="149 Galaxy Premium" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/galaxypremium.png" group-title="🍿 MOVIES", 720 Galaxy Premium
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2695.ts?channel=galaxypremium
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
+#https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=galaxypremium
 
 #EXTINF:-1 tvg-id="" tvg-name="159 Studio Universal" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/studiouniversal.png" group-title="🍿 MOVIES",721 Studio Universal
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
