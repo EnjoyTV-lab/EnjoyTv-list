@@ -2,11 +2,6 @@
 EnjoyTV@OFFICIAL
 not for sale.. free for all
 
-#EXTHTTP:{"X-Token":"3eb8a6733c126bc7bd40d3176ac0b1436d4e553472656541737a564d4d4e6343686c4751432f34717570734a314e624f77334939356853573050383d"} 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="Malaysia" tvg-logo="https://i.imgur.com/FQ6OzQz.png" group-logo="#https://rocket-tv.online/Gambar.webp" ch-number="108",108 Astro Citra
-http://stream.rocket-ott.shop/Stream/Citra/default_primary.mpd
 
 
 #=======MALAYSIA======
