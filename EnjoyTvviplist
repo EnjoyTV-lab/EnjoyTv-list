@@ -1067,10 +1067,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd?channel=history
 
 #EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US| Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/natgeo.png" group-title="📚 KNOWLEDGE",505 Nat Geo 
-https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/natgeo.m3u8
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40674.ts
 
 #EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US| Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/wild.png" group-title="📚 KNOWLEDGE",506 NAT GEO WILD HD
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8
+http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48380.ts
 
 #EXTINF:-1 tvg-id="501.unifi" tvg-name="BBC Earth" group-title="📚 KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/bbcearth.png" ch-number="501",507 BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
