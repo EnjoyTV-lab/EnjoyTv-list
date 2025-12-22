@@ -3,8 +3,13 @@ EnjoyTV@OFFICIAL
 not for sale.. free for all
 
 
-#EXTINF:-1 tvg-id="tv9" ch-number="149" tvg-name="TV9" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv9.png",TEST 🅷🅳
-http://156.239.254.7:5555/smt.ts?id=Sensasi
+#EXTM3U
+#EXTINF:-1 tvg-name="Sensasi" group-title="MY",Sensasi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; AndroidTV Build/1.0)
+#EXTVLCOPT:http-referrer=http://156.239.254.7:5555/
+#EXTVLCOPT:http-origin=http://156.239.254.7:5555
+#EXTVLCOPT:http-connection=keep-alive
+http://156.239.254.7:5555/smt.php?id=Sensasi
 
 
 #=======MALAYSIA======
