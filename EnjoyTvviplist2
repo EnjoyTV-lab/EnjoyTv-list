@@ -3,7 +3,11 @@ EnjoyTV@OFFICIAL
 not for sale.. free for all
 
 
-
+#EXTINF:-1 tvg-id="tv9" ch-number="149" tvg-name="TV9" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv9.png",TEST 🅷🅳
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=KID:KEY
+http://156.239.254.7:5555/smt.php?id=Sensasi
 
 
 #=======MALAYSIA======
