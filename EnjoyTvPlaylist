@@ -17,6 +17,9 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #EXTINF:-1 tvg-id="TV2.my" ch-number="102" tvg-name="TV2 HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv2.png", 102 TV2 🅷🅳
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?channel=tv2
 
+#EXTINF:-1 tvg-id="tv3.my" ch-number="103" tvg-name="TV3" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv3.png",103 TV3 🅷🅳
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/17.ts
+
 
 #EXTINF:-1 tvg-id="tv3.my" ch-number="103" tvg-name="TV3" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv3.png",103 TV3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -104,7 +107,7 @@ https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/riahd.png" ,119a Astro Ria 🅷🅳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://zozotv.xyz:443/live/ZZA21216/zxe36880/532.ts?channel=ria
+https://zozotv.xyz:443/live/ZZA21216/zxe36880/532.ts?channel=riafhd
  
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/riahd.png" ,119b Astro Ria 🅷🅳
 https://smart.946985.filegear-sg.me/smart.php?id=Ria
