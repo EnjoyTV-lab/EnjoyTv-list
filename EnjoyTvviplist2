@@ -914,10 +914,13 @@ https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwE
 #EXTINF:-1 tvg-id="" tvg-name="149 Galaxy Premium" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/galaxypremium.png" group-title="🍿 MOVIES", 720 Galaxy Premium
 http://216.132.70.171:8080/live/vip_3klp0es8/wg3piwEs/2695.ts?channel=galaxypremium
 
-#EXTINF:-1 tvg-id="" tvg-name="159 Studio Universal" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/studiouniversal.png" group-title="🍿 MOVIES",721 Studio Universal
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
-https://get.perfecttv.net/dashVision2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=studiouniversal
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-name="159 Studio Universal" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/studiouniversal.png" group-title="🍿 MOVIES",721 Studio Universal
+https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
 #EXTINF:-1 group-logo="" group-title="🍿 MOVIES" tvg-id="474.unifi" ch-number="474" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/rockaction.png",722 Rock Action
 #KODIPROP:inputstream.adaptive.manifest_type=dash
