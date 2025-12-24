@@ -142,13 +142,13 @@ https://zozotv.xyz:443/live/ZZA21216/zxe36880/33.ts?channel=primafhd
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/primahd.png" ,120b Astro Prima 🅷🅳
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
-https://get.perfecttv.net/dash2.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=astroprima
+#https://get.perfecttv.net/dash2.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=astroprima
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/primahd.png" ,120c Astro Prima 🅷🅳
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=21759e73f142452aa01acc6d08a86e50:fc9eaf659647c675315f65747c2553da
 #https://get.perfecttv.net/vod_jwt.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=primachd|authorization=Bearer 
-https://load.perfecttv.net/rwt.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=primahd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#https://load.perfecttv.net/rwt.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=primahd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
 
 
@@ -1427,7 +1427,7 @@ https://load.perfecttv.net/rwt.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&chann
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
-https://get.perfecttv.net/dash2.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=arenabola1
+#https://get.perfecttv.net/dash2.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=arenabola1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenabola2fhd3.png",804 Arena Bola 2 🅵🅷🅳
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1450,7 +1450,7 @@ https://load.perfecttv.net/rwt.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&chann
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
-https://get.perfecttv.net/dash2.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=arenabola2
+#https://get.perfecttv.net/dash2.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=arenabola2
 
 #EXTINF:-1 group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/sportuhd.png" tvg-id="AstroSuperSportUHD.my", 805 Sports UHD
 http://wtv8d.xyz/cWTY1YdWuB/dpH6zBZxR/696956
@@ -1472,7 +1472,7 @@ https://load.perfecttv.net/rwt.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&chann
 
 
 #EXTINF:-1 tvg-id="ASTRO GRANDSTAND" tvg-name="ASTR O GRANSTAND FHD" ch-number="810" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/grandstandhd.png" group-title="⚽ SPORTS FHD", 810b Grandstand 🅷🅳
-https://a1xs.vip/1100032
+#https://a1xs.vip/1100032
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/eplfhd3.png",811 Premier League 🅵🅷🅳
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1497,7 +1497,7 @@ https://load.perfecttv.net/rwt.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&chann
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f749ab71f227999bfb098f73359aac10:4f15413f7e4767b50c48e19b7f9a2fcc
-https://get.perfecttv.net/dash2.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=epl1
+#https://get.perfecttv.net/dash2.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=epl1
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro" group-title="⚽ SPORTS FHD"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/epl2fhd.png",812 Premier League 2 🅵🅷🅳
@@ -1523,7 +1523,7 @@ https://load.perfecttv.net/rwt.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&chann
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1dc92f0789f112503c0db3bde2f1210:ddfa6e8d549b4d5177a9cade7f9a0b23
-https://get.perfecttv.net/dash2.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=epl2
+#https://get.perfecttv.net/dash2.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=epl2
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/epl3fhd3.png",813 Premier League 3 🅵🅷🅳
 #KODIPROP:inputstreamaddon=inputstream.adaptive
