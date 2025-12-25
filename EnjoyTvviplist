@@ -112,7 +112,10 @@ https://load.perfecttv.net/rwt.mpd?username=vip_x8ey152u&password=erGbABOG&chann
 
 
 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/riahd.png" ,119a Astro Ria 🅷🅳
+#http://ktpremium.online:2095/live/akm33333/900820/912833.ts
+#https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/Astrria2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/532.ts
 #https://wahyu1ptv.pages.dev/AstroRia-HD.m3u8
