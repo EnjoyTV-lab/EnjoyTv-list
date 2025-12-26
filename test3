@@ -1,9 +1,49 @@
-#EXTINF:-1 tvg-name="Hub Premier 2" group-logo="http://qtvid.pw/glogo/starhub.png" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="🇸🇬 Starhub Sports",Hub Premier 2 UHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5d217f06033494f8c536322324231eb:b6c80055ee20cf222d792ce702b3644a
-http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubPremier2_4K/output/manifest.mpd&amp;token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjUxODgxMDQsImV4cCI6MTc2NTE5NzEwNCwiaXAiOiIxMDMuMTc5LjE4Mi4xMzciLCJ1YSI6IlJHRnNkbWxyTHpJdU1TNHdJQ2hNYVc1MWVEc2dWVHNnUVc1a2NtOXBaQ0F4TlRzZ01qUXdOa0ZRVGtaQlJ5QkNkV2xzWkM5QlVETkJMakkwTURrd05TNHdNVFV1UVRJcCIsImlzcyI6InF0dl9zZXJ2aWNlIn0.bGLj-QvggMkHxx10d_fGFKIg1U_4tCTIC6Vv16Vj6lA
+                                               Astro Sports
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://qtvid.pw/glogo/hubprem1.png" group-title="🇸🇬 Starhub Sports",Hub Premier 2
+#EXTINF:0 tvg-logo="https://bosstv.asia/logoaba/astropremierleague.jpg" group-title="ASTRO SPORTS" tvg-id="001" tvg-name="016-LABURATV",ASTRO PREMIER LEAGUE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv)
+#http://tv.8dott.xyz:80/live/samuel/samuel123456/709263.ts
+
+#EXTINF:-1 group-title="ASTRO SPORTS" tvg-id="" tvg-logo="https://bosstv.asia/logoaba/astropremierleague.jpg",Astro Premier League 2
+#http://tv.8dott.xyz:80/live/samuel/samuel123456/709261.ts
+
+#EXTINF:-1 tvg-country="" tvg-logo="https://bosstv.asia/logoaba/astropremierleague.jpg" group-title="ASTRO SPORTS" ,ASTRO PREMIER LEAGUE 2
+#http://103.127.99.190/live/xciokok/dulu/19330.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3" tvg-logo="https://bosstv.asia/logoaba/astrograndstand.jpg" group-title="ASTRO SPORTS",Astro Grandstand
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
-http://qtv.my.id/starhub/auto.mpd?path=bpk-tv/HubPremier12/output/manifest.mpd&amp;token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjUxODgxMDQsImV4cCI6MTc2NTE5NzEwNCwiaXAiOiIxMDMuMTc5LjE4Mi4xMzciLCJ1YSI6IlJHRnNkbWxyTHpJdU1TNHdJQ2hNYVc1MWVEc2dWVHNnUVc1a2NtOXBaQ0F4TlRzZ01qUXdOa0ZRVGtaQlJ5QkNkV2xzWkM5QlVETkJMakkwTURrd05TNHdNVFV1UVRJcCIsImlzcyI6InF0dl9zZXJ2aWNlIn0.bGLj-QvggMkHxx10d_fGFKIg1U_4tCTIC6Vv16Vj6lA
+#KODIPROP:inputstream.adaptive.license_key=5be66a6f88efee3d6e30f72a9c58e310:168f3fadfc730ba3dfc932f7c430e27d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv)
+#EXTVLCOPT:http-referrer=https://astro.com.my/
+#https://aged-cherry-fbb4.jasoncreak8.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_ott.mpd
+
+
+#EXTINF:-1 tvg-logo="https://bosstv.asia/logoaba/astrosportplus.jpg" group-title="ASTRO SPORTS",Astro Sports Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv)
+#EXTVLCOPT:http-referrer=https://astro.com.my/
+#https://aged-cherry-fbb4.jasoncreak8.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_ott.mpd
+
+
+
+
+#EXTINF:-1 tvg-id="815.astro" tvg-logo="https://bosstv.asia/logoaba/astrobadminton.jpg" group-title="ASTRO SPORTS",Astro Badminton 1
+#http://stream1.amtv.my.id:1999/stream/hub/astrobadminton/master.m3u8?u=admin&amp;p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&amp;token=zlf0S5yPiag2YnEJHQ2HQnDgVWGkeHmd
+
+#EXTINF:-1 tvg-id="816.astro" tvg-logo="https://bosstv.asia/logoaba/astrobadminton.jpg" group-title=" ASTRO SPORTS",Astro Badminton 2
+#http://stream1.amtv.my.id:1999/stream/hub/astroarena/master.m3u8?u=admin&amp;p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35&amp;token=zlf0S5yPiag2YnEJHQ2HQnDgVWGkeHmd
+
+#EXTINF:-1 tvg-logo="https://bosstv.asia/logoaba/astroarena.jpg" group-title="ASTRO SPORTS",Astro Arena
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv)
+#EXTVLCOPT:http-referrer=https://astro.com.my/
+#https://aged-cherry-fbb4.jasoncreak8.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://bosstv.asia/logoaba/astroarena.jpg" group-title="ASTRO SPORTS",Astro Arena 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv)
+#EXTVLCOPT:http-referrer=https://astro.com.my/
+#https://aged-cherry-fbb4.jasoncreak8.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
