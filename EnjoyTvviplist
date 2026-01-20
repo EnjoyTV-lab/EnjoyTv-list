@@ -42,12 +42,7 @@ https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8?channel
 https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd?channel=8tv
 
 #EXTINF:-1 tvg-id="tv9" ch-number="149" tvg-name="TV9" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv9.png",106 TV9 🅷🅳
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=1dfa8a645af41e83c520bddf913934ca:65f6af8750d24b230d91b984237ac1e4
-#KODIPROP:inputstream.adaptive.license_key=27828727f0a3a0b4fbc668378ccf8c10:958e9cb7389e20948de5a542d2729ecf
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv9
+https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8?channel=tv9
 
 #EXTINF:-1 tvg-id="tvs" ch-number="122" tvg-name="TVS" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tvs.png",107 TVS 🅷🅳
 #KODIPROP:inputstream.adaptive.license_type=clearkey
