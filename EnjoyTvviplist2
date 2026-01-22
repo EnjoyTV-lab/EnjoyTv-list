@@ -1055,7 +1055,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd?channel=history
 
 #EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US| Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/natgeo.png" group-title="📚 KNOWLEDGE",505 Nat Geo 
-http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40674.ts
+http://supersonictv.live:8080/611366/682256/22123
 
 #EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US| Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/wild.png" group-title="📚 KNOWLEDGE",506 NAT GEO WILD HD
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/48380.ts
