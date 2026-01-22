@@ -39,7 +39,7 @@ https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 
 
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="🇲🇾 MALAYSIA"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/8tv.png",105 8TV 🅷🅳
-http://103.209.159.198:8278/TV8/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=00b4c592927a6544f7a9d511add1d1df?channel=8tv
+http://103.209.159.198:8278/TV8/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=00b4c592927a6544f7a9d511add1d1df&channel=8tv
 
 
 #EXTINF:-1 tvg-id="tv9" ch-number="149" tvg-name="TV9" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv9.png",106 TV9 🅷🅳
