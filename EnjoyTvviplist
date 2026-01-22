@@ -1041,7 +1041,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd?channel=discoveryasia
 
 #EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US| Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/sci.png" group-title="📚 KNOWLEDGE",502 Discovery Science
-https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/discovery%20science.m3u8
+http://supersonictv.live:8080/611366/682256/22077
 
 #EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="📚 KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/animalplanet.png",503 Animal Planet
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
