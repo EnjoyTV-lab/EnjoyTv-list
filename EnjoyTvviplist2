@@ -17,7 +17,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd?
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?channel=tv2
 
 #EXTINF:-1 tvg-id="TV3.my" ch-number="103" tvg-name="TV3" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv3.png",103 TV3 🅵🅷🅳
-https://smart.pendy.dpdns.org/Smart.php?id=TV3&channel=tv3
+https://smart.pendy.dpdns.org/Smart.php?id=tv3
 
 #EXTINF:-1 tvg-id="TV3.my" ch-number="103" tvg-name="TV3" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv3.png",103a TV3 🅷🅳
 #KODIPROP:inputstream=inputstream.adaptive
