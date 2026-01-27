@@ -30,10 +30,9 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #EXTINF:-1 tvg-id="147.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/didiktv7.png" group-title="🇲🇾 MALAYSIA",104 Didik TV 🅷🅳
 https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8?channel=ntv7
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a9c619074ed38c20e25ad36c3c57c10c:056e1e49573d2caee5cb4fe78f8c4f3d
+
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="🇲🇾 MALAYSIA"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/8tv.png",105 8TV 🅷🅳
-http://103.209.159.198:8278/TV8/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=00b4c592927a6544f7a9d511add1d1df&channel=8tv
+https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8&channel=8tv
 
 #EXTINF:-1 tvg-id="tv9" ch-number="149" tvg-name="TV9" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv9.png",106 TV9 🅷🅳
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8?channel=tv9
