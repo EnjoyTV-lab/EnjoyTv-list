@@ -7,13 +7,7 @@ not for sale.. free for all
 #=======MALAYSIA======
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVub0Xiv52seABZ7gJRxmw_xtKNzmMQ-p3ilfkZ93B4fDJZ1CS0DIQvlS9Nc3zMmmfh44IkXaUbuaFtTdovSLekSRn-kfWSbOUF1fXKBKSqIYThbuM-T_6axpGfmZOWjzGFgZHfGrYYAtehvuhb7FvUXn7AKNX3MaEwRZYCY5FUIAMrV1V3bKNy74Zcfzp/s700/ASTRO%20CITRA.png" group-title="MALAYSIA TV",ASTRO CITRA IP #EXT-X-VERSION:4 #EXT-X-INDEPENDENT-SEGMENTS #EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,CODECS="avc1.64002A,mp4a.40.2" http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1052391.m3u8 
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroCitra.m3u8 
-http://www.geocities.ws/wahyuiptv/AstroCitra.m3u8 
-https://link.zozotv.xyz:443/live/usez37/zxy921/37.m3u8
-https://wahyu1ptv.pages.dev/AstroCitra.m3u8 
-http://opplex.tv:8080/mohsin655/4969292/388746 
-https://wahyu1ptv.pages.dev/AstroCitra-HD.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVub0Xiv52seABZ7gJRxmw_xtKNzmMQ-p3ilfkZ93B4fDJZ1CS0DIQvlS9Nc3zMmmfh44IkXaUbuaFtTdovSLekSRn-kfWSbOUF1fXKBKSqIYThbuM-T_6axpGfmZOWjzGFgZHfGrYYAtehvuhb7FvUXn7AKNX3MaEwRZYCY5FUIAMrV1V3bKNy74Zcfzp/s700/ASTRO%20CITRA.png" group-title="MALAYSIA TV",ASTRO CITRA IP #EXT-X-VERSION:4 #EXT-X-INDEPENDENT-SEGMENTS #EXT-X-STREAM-INF:BANDWIDTH=7373146,AVERAGE-BANDWIDTH=6191434,CODECS="avc1.64002A,mp4a.40.2" http://bestp55.xyz:80/live/A7FC77529786/519C32219872/1052391.m3u8 #https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroCitra.m3u8 #http://www.geocities.ws/wahyuiptv/AstroCitra.m3u8 #https://link.zozotv.xyz:443/live/usez37/zxy921/37.m3u8 #https://wahyu1ptv.pages.dev/AstroCitra.m3u8 #http://opplex.tv:8080/mohsin655/4969292/388746 #https://wahyu1ptv.pages.dev/AstroCitra-HD.m3u8
 
 #EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv1.png",101 TV1 🅷🅳
 #KODIPROP:inputstream.adaptive.license_type=clearkey
