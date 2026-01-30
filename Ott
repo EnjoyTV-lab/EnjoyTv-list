@@ -46,15 +46,20 @@ https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8?channel=8tv
 #EXTINF:-1 tvg-id="tv9" ch-number="149" tvg-name="TV9" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv9.png",TV9
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8?channel=tv9
 
+============KIDS======≠=========
+
+
+
+
+
+================🇲🇨 INDONESIA===============
+
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/visionprime.png" group-title="🇲🇨 INDONESIA", Vision Prime
 EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
-
-
-===================🇲🇨 INDONESIA==================
 
 #EXTINF:-1 tvg-id=""  group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/vtv.png", VTV
 http://103.172.71.153:9981/stream/channelid/1304595532?profile=pass
