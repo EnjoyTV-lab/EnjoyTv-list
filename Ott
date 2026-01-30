@@ -1,4 +1,5 @@
-#EXTM3U 
+##EXTM3U 
+url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml" 
 
 #EXTINF:-1 tvg-id="103.astro" ch-number="103" tvg-name="TV3" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv3.png",103 TV3
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8?channel=tv3
