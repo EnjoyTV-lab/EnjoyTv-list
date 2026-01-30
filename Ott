@@ -257,3 +257,29 @@ https://cdn10jtedge.indihometv.com/atm/DASH/rodjatv/manifest.mpd?channel=rodjatv
 
 #EXTINF:-1 group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/metrotv.png",Metro TV 
 https://flv.intechmedia.net/live/ch101.m3u8|user-agent=Mozilla/5.0
+
+=================SPORTS======≠==================
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/skysportspremierleague.png" group-title="SPORTS", 825 SKY SPORTS PREMIERE LEAGUE
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/186604
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/skysportsfootball.png" group-title="SPORTS", 826 SKY SPORTS FOOTBALL
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/186612
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/skysportsf1.png" group-title="SPORTS", 827 SKY SPORT F1
+https://a1xs.vip/2000016
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/skysportsmainevent.png" group-title="SPORTS", 828 SKY SPORTS MAIN EVENT
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/186597
+
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/skysportsmix.png"" group-title="SPORTS", 829 SKY SPORTS MIX 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/186622
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/ssarena.png" group-title="SPORTS",830 SKY SPORT ARENA http://line.extraott-iptv.com:88/2755789541/1300714776/153705 http://tv.8dott.xyz:80/live/samuel/samuel123456/35796.ts http://fortv.cc:8080/live/q8KuDU/354945/35243.ts http://fortv.cc:8080/longcalvin42@yahoo.com/C3129344075L/35238
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/skysportsgolf.png" group-title="SPORTS",831 SKY SPORTS GOLF 
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/186614
+
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/skysportsnews.png" group-title="SPORTS", 832 SKY SPORTS NEWS
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/186624
