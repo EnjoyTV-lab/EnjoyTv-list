@@ -385,7 +385,7 @@ http://103.172.71.153:9981/stream/channelid/1304595532?profile=pass
 #EXTINF:-1 tvg-id=""  group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/inews.png",iNEWS
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
-#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/btv.png" group-title="🇲🇨 INDONESIA",KOMPAS TV
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/kompastv.png" group-title="🇲🇨 INDONESIA",KOMPAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd?channel=kompasTV
 
