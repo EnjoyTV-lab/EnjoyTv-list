@@ -20,7 +20,7 @@ url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd?channel=tv1
 
-#EXTINF:-1 tvg-id="102.astro" ch-number="102" tvg-name="TV2 HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv2.png", 102 TV2 🅷🅳
+#EXTINF:-1 tvg-id="102.astro" ch-number="102" tvg-name="TV2" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv2.png", 102 TV2 🅷🅳
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?channel=tv2
 
 #EXTINF:-1 tvg-id="103.astro" ch-number="103" tvg-name="TV3" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv3.png",103 TV3 🅵🅷🅳
@@ -41,8 +41,8 @@ https://get.perfecttv.net/get_tonton_live.m3u8?username=vip_9gsc2yu3&password=Rh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd?channel=tv3
 
-#EXTINF:-1 tvg-id="147.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/didiktv7.png" group-title="🇲🇾 MALAYSIA",104 Didik TV 🅷🅳
-https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+#EXTINF:-1 tvg-id="DidikTVKPM" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/didiktv7.png" group-title="🇲🇾 MALAYSIA",104 Didik TV 🅷🅳
+https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8?channel=DidikTVKPM
 
 
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="🇲🇾 MALAYSIA"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/8tv.png",105 8TV 🅷🅳
