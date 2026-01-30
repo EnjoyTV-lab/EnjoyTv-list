@@ -1,5 +1,5 @@
 ##EXTM3U 
-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml" 
+url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" 
 
 #EXTINF:-1 tvg-id="103.astro" ch-number="103" tvg-name="TV3" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv3.png",103 TV3
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8?channel=tv3
@@ -25,7 +25,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd?channel=kompa
 
 
 
-#EXTINF:-1 tvg-id="ext" group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/btv.png", BTV HD
+#EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" group-title="🇲🇨 INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/btv.png", BTV
 https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 
 
@@ -42,7 +42,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd?channel=mnctv
 
 
-#EXTINF:-1 tvg-id="RCTI - [Channel 1].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/rcti.png" group-title="🇲🇨 INDONESIA",RCTI HD
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/rcti.png" group-title="🇲🇨 INDONESIA",RCTI
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd?channel=rcti
 
 
