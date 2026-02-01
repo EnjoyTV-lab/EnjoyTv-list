@@ -2,48 +2,48 @@
 url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" 
 
 ############# RTM KLIK BARU ####################
-#EXTINF:-1 tvg-id="rtm_snap" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/snap.png" group-title="🇲🇾 MALAYSIA",RTM Snap
+#EXTINF:-1 tvg-id="rtm_snap" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/snap.png" group-title="MALAYSIAN",RTM Snap
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/playlist.m3u8?id=24099
 
-#EXTINF:-1 tvg-id="rtm_lead" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/lead.png" group-title="🇲🇾 MALAYSIA",RTM Lead
+#EXTINF:-1 tvg-id="rtm_lead" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/lead.png" group-title="MALAYSIAN",RTM Lead
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/playlist.m3u8?id=24101
 
-#EXTINF:-1 tvg-id="rtm_apetito" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/apetito.png" group-title="🇲🇾 MALAYSIA",RTM Apetito
+#EXTINF:-1 tvg-id="rtm_apetito" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/apetito.png" group-title="MALAYSIAN",RTM Apetito
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/playlist.m3u8?id=24100
 
-#EXTINF:-1 tvg-id="rtm_fitrah" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/fitrah.png" group-title="🇲🇾 MALAYSIA",RTM Fitrah
+#EXTINF:-1 tvg-id="rtm_fitrah" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/fitrah.png" group-title="MALAYSIAN",RTM Fitrah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/playlist.m3u8?id=24103
 
-#EXTINF:-1 tvg-id="rtm_junior" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/jr.png" group-title="🇲🇾 MALAYSIA",RTM Junior
+#EXTINF:-1 tvg-id="rtm_junior" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/jr.png" group-title="MALAYSIAN",RTM Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/playlist.m3u8?id=24104
 
-#EXTINF:-1 tvg-id="rtm_roll" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/roll.png" group-title="🇲🇾 MALAYSIA",RTM Roll
+#EXTINF:-1 tvg-id="rtm_roll" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/roll.png" group-title="MALAYSIAN",RTM Roll
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/playlist.m3u8?id=24095
 
-#EXTINF:-1 tvg-id="rtm_borak" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/aura.png" group-title="🇲🇾 MALAYSIA",RTM Aura
+#EXTINF:-1 tvg-id="rtm_borak" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/aura.png" group-title="MALAYSIAN",RTM Aura
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/playlist.m3u8?id=24102
 
 ===============🇲🇾 MALAYSIA====≠=================
 
-#EXTINF:-1 tvg-id="103.astro" ch-number="103" tvg-name="TV3" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv3.png",TV3
+#EXTINF:-1 tvg-id="103.astro" ch-number="103" tvg-name="TV3" group-title="MALAYSIAN" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv3.png",TV3
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8?channel=tv3
 
-#EXTINF:-1 tvg-id="DidikTVKPM" tvg-name="DidikTV KPM" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/didiktv7.png" group-title="🇲🇾 MALAYSIA",DidikTV KPM
+#EXTINF:-1 tvg-id="DidikTVKPM" tvg-name="DidikTV KPM" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/didiktv7.png" group-title="MALAYSIAN",DidikTV KPM
 https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8?channel=DidikTVKPM
 
 
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="🇲🇾 MALAYSIA"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/8tv.png",8TV
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="MALAYSIAN"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/8tv.png",8TV
 https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8?channel=8tv
 
 
-#EXTINF:-1 tvg-id="tv9" ch-number="149" tvg-name="TV9" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv9.png",TV9
+#EXTINF:-1 tvg-id="tv9" ch-number="149" tvg-name="TV9" group-title="MALAYSIAN" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv9.png",TV9
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8?channel=tv9
 
 
