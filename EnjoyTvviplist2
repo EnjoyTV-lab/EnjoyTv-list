@@ -8,8 +8,7 @@ not for sale.. free for all
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-title="MYTV",Degup
-https://get.perfecttv.net/degup/degup.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=degup
-
+https://sh-bks400-11.starhubgo.com/bpk-token/1ab@hpddf3cznmuu1n0iraexhggk0nz1yijxh1f0wlba/bpk-tv/Astro_warna_new/output/manifest.mpd?bkm-query
 
 #=======MALAYSIA======
 
