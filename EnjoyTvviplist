@@ -19,13 +19,11 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?channel=tv2
 
 #EXTINF:-1 tvg-id="TV3.my" ch-number="103" tvg-name="TV3" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv3.png",103 TV3 🅵🅷🅳
-https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8?channel=tv3
-
-#EXTINF:-1 tvg-id="TV3.my" ch-number="103" tvg-name="TV3" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv3.png",103a TV3 🅷🅳
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 https://get.perfecttv.net/get_tonton_live.m3u8?username=vip_x8ey152u&password=erGbABOG&episode_id=6420323&channel=tv3
+
 
 #EXTINF:-1 tvg-id="tv3.my" ch-number="103" tvg-name="TV3" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv3.png",103b TV3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
