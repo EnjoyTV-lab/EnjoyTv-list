@@ -17,24 +17,25 @@ https://mimipipi22.github.io/logo/offline.m3u8
 url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
 
 
-
+TV1
 #EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-name="TV1" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv1.png",101 TV1 🅷🅳
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd?channel=tv1
 
+
+TV2
 #EXTINF:-1 tvg-id="102.astro" ch-number="102" tvg-name="TV2" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv2.png", 102 TV2 🅷🅳
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?channel=tv2
 
 
+TV3
 #EXTINF:-1 tvg-id="TV3.my" ch-number="103" tvg-name="TV3" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv3.png",103 TV3 🅵🅷🅳
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-https://get.perfecttv.net/get_tonton_live.m3u8?username=vip_9gsc2yu3&password=RhHpfmLk&episode_id=6420323&channel=tv3
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8?channel=tv3
 
 
+TV3
 #EXTINF:-1 tvg-id="tv3.my" ch-number="103" tvg-name="TV3" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv3.png",103b TV3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -45,11 +46,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd?c
 
 
 DIDIKTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SamsungTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead7210:1726083509d570b5de4730ab9f338cc3
 #EXTINF:-1 tvg-id=147.astro" tvg-name="DidikTV KPM" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/didiktv7.png" group-title="🇲🇾 MALAYSIA",104 DidikTV
-http://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_primary.mpd
+https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8?channel=DidikTVKPM
 
 
 8TV
