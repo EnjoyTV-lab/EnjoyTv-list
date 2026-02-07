@@ -43,42 +43,62 @@ https://get.perfecttv.net/get_tonton_live.m3u8?username=vip_9gsc2yu3&password=Rh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd?channel=tv3
 
-#EXTINF:-1 tvg-id=147.astro" tvg-name="DidikTV KPM" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/didiktv7.png" group-title="🇲🇾 MALAYSIA",104 Didik TV 🅷🅳
-https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8?channel=DidikTVKPM
+
+DIDIKTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SamsungTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead7210:1726083509d570b5de4730ab9f338cc3
+#EXTINF:-1 tvg-id=147.astro" tvg-name="DidikTV KPM" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/didiktv7.png" group-title="🇲🇾 MALAYSIA",104 DidikTV
+http://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_primary.mpd
 
 
+8TV
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="🇲🇾 MALAYSIA"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/8tv.png",105 8TV 🅷🅳
 https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8?channel=8tv
 
 
+TV9
 #EXTINF:-1 tvg-id="tv9" ch-number="149" tvg-name="TV9" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv9.png",106 TV9 🅷🅳
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8?channel=tv9
 
+
+TVS
 #EXTINF:-1 tvg-id="tvs" ch-number="122" tvg-name="TVS" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tvs.png",107 TVS 🅷🅳
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
 https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tvs
 
+
+OKEY
 #EXTINF:-1 tvg-id="okey" ch-number="146" tvg-name="TV Okey" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/okeytv.png", 108 Okey 🅷🅳
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=okey
 
+
+AWESOMETV
 #EXTINF:-1 tvg-id="awesome" tvg-name="109 Awesome TV" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/awesometv.png" group-title="🇲🇾 MALAYSIA",109 Awesome TV
 http://216.132.70.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts?channel=awesome
 
+
+TV ALHIJRAH
 #EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-name="Al-Hijrah"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tvalhijrah.png" group-title="🇲🇾 MALAYSIA",110 TV Alhijrah 🅷🅳
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=alhijrah
 
+
+TV6
 #EXTINF:-1 tvg-id="111 TV6" tvg-name=" 111 TV6" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv6.png" group-title="🇲🇾 MALAYSIA",111 TV6 🅷🅳
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=1
 
+
+TV5
 #EXTINF:-1 tvg-id="okey" ch-number="" tvg-name="Enjoy TV5" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/enjoytv5.png", 112 Enjoy TV5 🅷🅳
 https://get.perfecttv.net/mytv.m3u8?channel=tv5
 
 
+SALAMHD
 #EXTINF:-1 group-logo="" group-title="🇲🇾 MALAYSIA" tvg-id="112.unifi" ch-number="112" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/salamhd.png" group-logo="",113 Salam 🅷🅳
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cd0f33db5a826c850e0ef6ca9331a82:207f3ac36c8d5c85395c147154d41581
@@ -86,7 +106,7 @@ https://get.perfecttv.net/mytv.m3u8?channel=tv5
 https://unifi-live32.secureswiftcontent.com/UnifiHD/live32.mpd?channel=salamhd
 
 
-
+INSPIRASI
 #EXTINF:-1 group-logo="" channel-id="118" tvg-name=" 114 Inspirasi" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/inspirasi.png" group-title="🇲🇾 MALAYSIA",114 Inspirasi 🅷🅳
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -95,6 +115,8 @@ https://unifi-live32.secureswiftcontent.com/UnifiHD/live32.mpd?channel=salamhd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=inspirasi
 
+
+SENSASI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -103,6 +125,7 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 https://get.perfecttv.net/1080ceria.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sensasi
 
 
+ASTRO RIA
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/riafhd3.png" ,119 Astro Ria 🅵🅷🅳
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -110,13 +133,15 @@ https://get.perfecttv.net/1080ceria.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #https://get.perfecttv.net/1080.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=riafhd|authorization=Bearer 
 https://load.perfecttv.net/rwt.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=riafhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
-#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
+ASTRO RIA
+KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/riahd.png" ,119b Astro Ria 🅷🅳
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://get.perfecttv.net/dash2.mpd?channel=astroria&username=vip_level7&password=vip_level7
 
-#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/riahd.png" ,119c Astro Ria 🅷🅳
+ASTRO RIA
+EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/riahd.png" ,119c Astro Ria 🅷🅳
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
