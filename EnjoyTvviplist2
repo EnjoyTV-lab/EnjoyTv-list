@@ -5,11 +5,12 @@
 EnjoyTV@OFFICIAL
 not for sale.. free for all
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MY 🇲🇾",TV3
-##https://ast.livecricketsl.live/proxy/sg.php/https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv3
-http://103.209.159.198:8278/TV3/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=28323e9b01c4b9940893f37f44d9f086
-https://mimipipi22.github.io/logo/offline.m3u8
+#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" tvg-id="113.unifi" group-logo="" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-title="Unifi TV",Salam HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"l0g5/Vg5Ok4WsH1wJ7BYaA","kid":"MrLnF2GvRkGQD4ffA8SMsg"}],"type":"temporary"}
+https://unifi.whacat.tech/Salam
 
 #=======MALAYSIA======
 
