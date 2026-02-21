@@ -6,14 +6,15 @@ EnjoyTV@OFFICIAL
 not for sale.. free for all
 
 
-#EXTINF:-1 tvg-id="113.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/1CE8DFF2-DF3E-4EFD-8D01-3D261D0890DD/0-16x9.png?width=530" group-title="MY 🇲🇾",Salam HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MY 🇲🇾",TV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
-https://sghost.mobileads.uno/uni5/uni5.mpd
-https://service.samproject.my.id/unifi/Salam.mpd
+#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=TV3
+http://103.209.159.198:8278/TV3/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=28323e9b01c4b9940893f37f44d9f086
+https://restream-bay.vercel.app/&id=352112&e=.m3u8
+https://mimipipi22.github.io/logo/offline.m3u8
 
 
 #=======MALAYSIA======
