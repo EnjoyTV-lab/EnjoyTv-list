@@ -7,20 +7,18 @@ not for sale.. free for all
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MY 🇲🇾",TV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
-https://sghost.mobileads.uno/uni5/uni5.mpd?id=TV3
-http://103.209.159.198:8278/TV3/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=28323e9b01c4b9940893f37f44d9f086
-https://restream-bay.vercel.app/&id=352112&e=.m3u8
-https://mimipipi22.github.io/logo/offline.m3u8
-
 
 #=======MALAYSIA======
 
 #EXTM3U 
 url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
+
+#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/sensasisg.png" ,121 Sensasi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
+#https://get.perfecttv.net/vod_jwt.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=warnasg
+https://get.perfecttv.net/dash2.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=sensasisg
 
 
 TV1
@@ -105,9 +103,8 @@ https://get.perfecttv.net/mytv.m3u8?channel=tv5
 SALAMHD
 #EXTINF:-1 group-logo="" group-title="🇲🇾 MALAYSIA" tvg-id="112.unifi" ch-number="112" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/salamhd.png" group-logo="",113 Salam 🅷🅳
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cd0f33db5a826c850e0ef6ca9331a82:207f3ac36c8d5c85395c147154d41581
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
-https://unifi-live32.secureswiftcontent.com/UnifiHD/live32.mpd?channel=salamhd
+#KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
+https://get.perfecttv.net/myunifi.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=Salam&kid=32b2e717-61af-4641-900f-87df03c48cb2
 
 
 INSPIRASI
@@ -115,18 +112,18 @@ INSPIRASI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1900d0fd8dfd2357ca2685c66628bf07:9c105cc68caa9cf65315e06ef50860ab
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=inspirasi
+#KODIPROP:inputstream.adaptive.license_key=94bfaa51ce3c4acfb8a8d5a7229316b6:1bc4bd67943da9eae142af71e31727af
+https://get.perfecttv.net/myunifi.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=Inspirasi&kid=94bfaa51-ce3c-4acf-b8a8-d5a7229316b6
 
 
 SENSASI
+#EXTINF:-1 group-logo="" channel-id="118" tvg-name=" 115 Sensasi"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/sensasi2.png" group-title="🇲🇾 MALAYSIA",115 Sensasi 🅷🅳
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTI3ZjZiMWQtNDJhZi0zNDU4LTliODAtNTRiZDcwZWQyMjY0
-#EXTINF:-1 group-logo="" channel-id="118" tvg-name=" 115 Sensasi"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/sensasi2.png" group-title="🇲🇾 MALAYSIA",115 Sensasi 🅷🅳
-https://get.perfecttv.net/1080ceria.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sensasi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ba270026f0a4b29956ace51335fb1ac:edb6adbe31609226e737e515ba813169
+##https://get.perfecttv.net/xsensasi/xsensasi.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=sensasi
+https://get.perfecttv.net/myunifi.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=Sensasi&kid=6ba27002-6f0a-4b29-956a-ce51335fb1ac
 
 
 ASTRO RIA
