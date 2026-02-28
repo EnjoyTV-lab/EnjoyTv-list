@@ -830,19 +830,23 @@ https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66
 =======🍿 MOVIES ==============================
 
 
+DUNIA SINEMA
 #EXTINF:-1 group-logo="" group-title="🍿 MOVIES"  ch-number="128" tvg-id="128" ch-number="128" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/duniasinema.png",700 Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=204b138b4cd494236687a016cf20a5a1:5f06d6e71333355eb4b891b4d5f50975
+#KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=duniasenima
+#https://get.perfecttv.net/myunifi.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=duniasenima
+https://get.perfecttv.net/myunifi.mpd?channel=DuniaSin&kid=01a17625-701e-4734-b02a-a22c8657bd6f
 
+
+DEGUP
 #EXTINF:-1 group-logo="" group-title="🍿 MOVIES"" tvg-id="120.unifi" ch-number="120" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/degup.png" group-logo="" ,701 Degup
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTI3ZjZiMWQtNDJhZi0zNDU4LTliODAtNTRiZDcwZWQyMjY0
 https://get.perfecttv.net/degup/degup.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=degup
 
 
+SIAR
 #EXTINF:-1 tvg-id="121" tvg-name="SIAR" group-title="🍿 MOVIES" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/siar.png",702 Siar 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
