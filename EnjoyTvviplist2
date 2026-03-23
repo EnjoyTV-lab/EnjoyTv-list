@@ -932,7 +932,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 
 
 #EXTINF:-1 tvg-id="" tvg-name="152 Star Movies" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/starmoviehd.png" group-title="🍿 MOVIES",710 Star Movies 🅵🅷🅳
-http://216.132.70.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts?channel=starmovies
+http://103.107.198.46:8080/live/vip_3klp0es8/wg3piwEs/2687.ts?channel=starmovies
 
 #EXTINF:-1 tvg-id="" tvg-name="153 Star Movies Select" tvg-logo="https://get.perfecttv.net/logo/starmoviesselect.png" group-title="🍿 MOVIES",711 Star Movies Select
 http://216.132.70.171:8080/live/vip_x8ey152u/erGbABOG/4602.ts?channel=starmovieselect
