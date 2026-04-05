@@ -12,13 +12,6 @@ not for sale.. free for all
 #EXTM3U 
 url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml"
 
-#EXTINF:-1 group-logo="" group-title="MALAYSIA" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/sensasisg.png" ,121 Sensasi
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
-#https://get.perfecttv.net/vod_jwt.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=warnasg
-https://get.perfecttv.net/dash2.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=sensasisg
-
 
 TV1
 #EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-name="TV1" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv1.png",101 TV1 🅷🅳
