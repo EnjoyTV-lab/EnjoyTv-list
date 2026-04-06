@@ -35,16 +35,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:aura/playlist.m3u8?id=24102
 #EXTINF:-1 tvg-id="103.astro" ch-number="103" tvg-name="TV3" group-title="MALAYSIAN" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv3.png",TV3
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8?channel=tv3
 
-#EXTINF:-1 tvg-id="DidikTVKPM" tvg-name="DidikTV KPM" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/didiktv7.png" group-title="MALAYSIAN",DidikTV KPM
-https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8?channel=DidikTVKPM
 
-
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="MALAYSIAN"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/8tv.png",8TV
-https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8?channel=8tv
-
-
-#EXTINF:-1 tvg-id="tv9" ch-number="149" tvg-name="TV9" group-title="MALAYSIAN" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv9.png",TV9
-https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8?channel=tv9
 
 
 ============MOVIES=================
@@ -57,35 +48,13 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hboplus.png" group-title="MOVIES",HBO PLUS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
-https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd?channel=hboplus
-
-#EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="120.unifi" ch-number="120" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/degup.png" group-logo="" , Degup
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTI3ZjZiMWQtNDJhZi0zNDU4LTliODAtNTRiZDcwZWQyMjY0
-https://get.perfecttv.net/degup/degup.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=degup
-
+https://canaiss.fazoeli.co.za/fontes/smart/hboplus.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="152 Star Movies" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/starmoviehd.png" group-title="MOVIES",Star Movies
 http://216.132.70.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts?channel=starmovies
 
 #EXTINF:-1 tvg-id="" tvg-name="153 Star Movies Select" tvg-logo="https://get.perfecttv.net/logo/starmoviesselect.png" group-title="MOVIES",Star Movies Select
 http://216.132.70.171:8080/live/vip_x8ey152u/erGbABOG/4602.ts?channel=starmovieselect
-
-#EXTINF:-1 tvg-id="" tvg-name="148 Galaxy" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/galaxy.png" group-title="MOVIES",Galaxy
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
-https://get.perfecttv.net/dashVision3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=galaxy
-
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
-#EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="474.unifi" ch-number="474" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/rockaction.png", Rock Action
-https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mediampd/RockExtremeHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -94,6 +63,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mediampd/RockExtrem
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="159 Studio Universal" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/studiouniversal.png" group-title="MOVIES",Studio Universal
 https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+
+
 ============KIDS======≠=========
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/disneyxd.png", Disney XD
@@ -147,15 +118,8 @@ https://c.mjh.nz/abc-me.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
 
-#EXTINF:-1, group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/derpytv.png", Derpy TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/derpytv.png" group-title="KIDS", Derpy TV
 https://streamer.derpy.tv/stream.m3u8
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
-#EXTINF:-1, group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/animax.png",Animax
-#https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
