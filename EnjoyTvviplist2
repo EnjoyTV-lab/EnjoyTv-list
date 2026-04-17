@@ -149,11 +149,13 @@ ASTRO PRIMA
 #https://get.perfecttv.net/1080.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=primafhd|authorization=Bearer 
 https://load.perfecttv.net/rwt.m3u8?username=vip_9gsc2yu3&password=RhHpfmLk&channel=prima
 
+ASTRO PRIMA
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/primahd.png" ,120b Astro Prima 🅷🅳
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 https://get.perfecttv.net/dash2.mpd?channel=astroprima&username=vip_level7&password=vip_level7
 
+ASTRO PRIMA
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/primahd.png" ,120c Astro Prima 🅷🅳
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=fe86583eede147d784f898ef566f4dfe:e135c61feb580aec04e916a9ab5af6f9
@@ -162,17 +164,20 @@ https://get.perfecttv.net/dash2.mpd?channel=astroprima&username=vip_level7&passw
 https://load.perfecttv.net/rwt.m3u8?username=vip_9gsc2yu3&password=RhHpfmLk&channel=prima
 
 
-
+ASTRO CITRA
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/citra.png" ,121a Astro Citra 🅷🅳
-#Citra KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-https://get.perfecttv.net/citra/citra.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrocitra
+https://load.perfecttv.net/rwt.m3u8?username=vip_9gsc2yu3&password=RhHpfmLk&channel=citra
 
 
+ASTRO CITRA VOD
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🇲🇾 MALAYSIA" tvg-id="105.astro" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/citra.png" ,121b Astro Citra VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://zozotv.xyz:443/live/ZZA21216/zxe36880/36.ts
 
+
+ASTRO OASIS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
@@ -182,17 +187,21 @@ https://zozotv.xyz:443/live/ZZA21216/zxe36880/36.ts
 https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=oasis
 
 
+ASTRO URA
 #EXTINF:-1 tvg-id="AstroAura.my" tvg-name="Astro Aura HD" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/astroaura.png" group-title="🇲🇾 MALAYSIA", 124 Astro Aura 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://load.perfecttv.net/rwt.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=aurahd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
 
+ASTRO RANIA
 #EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Rania HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/rania.png",125 Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=75cefb063f754b52bf2e695e8ec8eb29:f5c0bc7625e6c067e84a9b2a76689cb5
 https://load.perfecttv.net/rwt.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=raniahd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 
+
+DRAMA CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 #EXTINF:-1 tvg-id="496.mytv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/DramaChannel.png" group-title="🇲🇾 MALAYSIA",126 Drama Channel
@@ -870,26 +879,26 @@ https://get.perfecttv.net/myunifi.mpd?channel=DuniaSin&kid=01a17625-701e-4734-b0
 
 DEGUP
 #EXTINF:-1 group-logo="" group-title="🍿 MOVIES"" tvg-id="120.unifi" ch-number="120" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/degup.png" group-logo="" ,701 Degup
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=NTI3ZjZiMWQtNDJhZi0zNDU4LTliODAtNTRiZDcwZWQyMjY0
-https://get.perfecttv.net/degup/degup.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=degup
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
+https://get.perfecttv.net/myunifi.mpd?channel=DEGUP&kid=a1623b76-6e4b-48eb-88ce-a29e1c309cc7
 
 
 SIAR
 #EXTINF:-1 tvg-id="121" tvg-name="SIAR" group-title="🍿 MOVIES" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/siar.png",702 Siar 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://get.perfecttv.net/xsiar/xsiar.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=siar
+#KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
+https://get.perfecttv.net/myunifi.mpd?channel=SIAR&kid=5489f58c-64ad-40db-a471-c8b1c2693e2a
 
 
+HBOHD
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" group-title="🍿 MOVIES" group-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hbohd.png" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hbohd.png",705 HBO HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SIMPLE Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" group-title="🍿 MOVIES" group-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hbohd.png" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hbohd.png",705 HBO HD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd?channel=hbo
+#KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
+https://get.perfecttv.net/myunifi.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=HBO&kid=7ad888ee-5dd6-496a-8c2c-77a6284ff936
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hboplus.png" group-title="🍿 MOVIES",706 HBO PLUS
