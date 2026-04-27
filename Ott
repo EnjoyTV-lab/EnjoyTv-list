@@ -33,7 +33,11 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:aura/playlist.m3u8?id=24102
 ===============🇲🇾 MALAYSIA====≠=================
 
 #EXTINF:-1 tvg-id="103.astro" ch-number="103" tvg-name="TV3" group-title="MALAYSIAN" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv3.png",TV3
-https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8?channel=tv3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
+https://get.perfecttv.net/myunifi.mpd?username=vip_9gsc2yu3&password=RhHpfmLk&channel=TV3&kid=ce43641a-061a-44fb-9d95-d986cfc9a68f
 
 
 
