@@ -32,7 +32,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:aura/playlist.m3u8?id=24102
 
 ===============🇲🇾 MALAYSIA====≠=================
 
-#EXTINF:-1 tvg-id="103.astro" ch-number="103" tvg-name="TV3" group-title="MALAYSIAN" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv3.png",TV3
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="TV3" group-title="MALAYSIAN" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv3.png",TV3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
