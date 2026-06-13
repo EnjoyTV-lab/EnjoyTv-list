@@ -1,1 +1,63 @@
 Ott2
+
+Unifi TV
+
+TV1
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 HD" group-title="Unifi TV" group-logo="" tvg-logo="https://get.perfecttv.net/logo/tv1.png", 101 TV1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
+https://get.perfecttv.net/dash2.mpd?username=vip_x8ey152u&password=erGbABOG&channel=tv1
+
+TV2
+#EXTINF:-1 tvg-id="TV2.my" ch-number="102" tvg-name="TV2 HD" group-title="Unifi TV" tvg-logo="https://get.perfecttv.net/logo/tv2.png", 102 TV2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f885481fe053e544096532c1dcb9710:24a9b17859862887f28f63c7c29bcaa5
+https://get.perfecttv.net/dash2.mpd?username=vip_x8ey152u&password=erGbABOG&channel=tv2
+
+
+DIDIKTV
+#EXTINF:-1 tvg-id="NTV7" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/didiktv7.png" group-logo="" group-title="Unifi TV",104 DIDIKTV7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f9bd00304a34972a80e5ff79aff982f:95a9dfd543b897f8edebf6db32877d79
+https://get.perfecttv.net/myunifi.mpd?username=vip_x8ey152u&password=erGbABOG&channel=Didik&kid=6f9bd003-04a3-4972-a80e-5ff79aff982f
+
+8TV
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="Unifi TV"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/8tv.png",105 8TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
+https://get.perfecttv.net/myunifi.mpd?username=vip_x8ey152u&password=erGbABOG&channel=8TV&kid=da1cb24f-55db-4ae1-b323-19c365920539
+
+TV9
+#EXTINF:-1 tvg-id="tv9" ch-number="149" tvg-name="TV9" group-title="Unifi TV" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv9.png",106 TV9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=27828727f0a3a0b4fbc668378ccf8c10:958e9cb7389e20948de5a542d2729ecf
+#https://get.perfecttv.net/dash2.mpd?username=vip_x8ey152u&password=erGbABOG&channel=tv9
+#KODIPROP:inputstream.adaptive.license_key=eea0828c38d74407a5c384ad730d7224:250605c3d9734f7777e9c46fe5a6b176
+https://get.perfecttv.net/myunifi.mpd?username=vip_x8ey152u&password=erGbABOG&channel=TV9&kid=eea0828c-38d7-4407-a5c3-84ad730d7224
+
+TVS
+#EXTINF:-1 tvg-id="tvs" ch-number="122" tvg-name="TVS" group-title="Unifi TV" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tvs.png",107 TVS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
+
+
+OKEY
+#EXTINF:-1 tvg-id="TV Okey" ch-number="146" tvg-name="TV Okey" group-title="Unifi TV" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/okeytv.png", 108 Okey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
+https://get.perfecttv.net/dash2.mpd?username=vip_x8ey152u&password=erGbABOG&channel=okey
+
+TV ALHIJRAH
+#EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-name="Al-Hijrah"  tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tvalhijrah.png" group-title="Unifi TV",110 TV Alhijrah
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=alhijrah
+https://get.perfecttv.net/astro_10802.mpd?username=vip_x8ey152u&password=erGbABOG&channel=tvs
