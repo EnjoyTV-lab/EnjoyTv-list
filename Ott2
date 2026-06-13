@@ -143,3 +143,12 @@ ANIPLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/AniPlus/index.mpd
+
+================MOVIES==========================
+
+FAM TIME
+#EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="FAMTIME" tvg-logo="https://get.perfecttv.net/logo/FamTime.png" , FAM Time
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=07fa6a9f7fe7806bba9b0e97d0ac5b10:c336fd7c8bb18d17bf63c9e46032a8ed
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
