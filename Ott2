@@ -73,6 +73,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1113/default_ott.mpd
 
 ============KIDS TV======≠========================
 
+
+#EXTINF:-1 group-title="RAKYAT TV" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/638aac7d62c9d_H6H5-480x320.jpg", ASTRO CERIA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=ceria
+
 DREAMWORKS
 #EXTINF:-1 player-buffer="6" group-logo="" group-title="KIDS TV" tvg-id="555.unifi" ch-number="555" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/dreamworks2.png" group-logo="", 206 Dreamworks
 #KODIPROP:inputstream.adaptive.license_type=clearkey
