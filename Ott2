@@ -21,7 +21,8 @@ https://get.perfecttv.net/fifawc.mpd?username=vip_x8ey152u&password=erGbABOG&cha
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=60a3773de4054a9680d6ca2277870a97:0ed58cdb97aaa8efba47b865ea7e8958
+#KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://get.perfecttv.net/fifawc.mpd?username=vip_x8ey152u&password=erGbABOG&channel=fifa2&kid=60a3773d-e405-4a96-80d6-ca2277870a97
 
 #EXTINF:-1 tvg-id="fifa3" tvg-name="" group-title="SPORTS FHD" group-logo="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.jpg?width=176&updatedTime=undefined&dt=Web", 698 Unifi FIFA3
