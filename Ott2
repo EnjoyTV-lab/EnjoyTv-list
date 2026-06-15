@@ -4,8 +4,6 @@ Ott2
 
 ===============Unifi TV==========================
 
-TV1
-
 
 TV1
 #EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-name="TV1" group-title="Unifi TV" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/tv1.png", TV1
