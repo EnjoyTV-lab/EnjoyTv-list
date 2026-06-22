@@ -152,6 +152,13 @@ https://slive.mana2.my/AniPlus/index.mpd
 
 ==================Documentary=====================
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOCUMENTARY",Animal Planet
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"k+SzQxHk96mVDxhIWV9Wiw","kid":"DgvwlWWPp8zkDExnE2ueIw"}],"type":"temporary"}
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/out/v1/b394624dc26a4628a6c78317f09ff4e9/cenc.mpd
+
 
 #EXTINF:0 channel-id="naturescape" channel-number="3590" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" tvc-guide-title="Naturescape" tvc-guide-description="Naturescape offers you an escape to a world of stunning nature scenes, all set to peaceful soundtracks. Relax to a crackling fireplace, soar over a tropical paradise, or get inspired by a sparkling night sky, all from the comfort of home." group-title="DOCUMENTARY", Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
