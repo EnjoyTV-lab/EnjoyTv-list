@@ -152,7 +152,7 @@ https://slive.mana2.my/AniPlus/index.mpd
 
 ==================Documentary=====================
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOCUMENTARY",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/animalplanet.png" group-title="DOCUMENTARY",Animal Planet
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
