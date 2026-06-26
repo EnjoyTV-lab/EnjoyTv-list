@@ -444,7 +444,7 @@ UNIFI FIFA4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://ptv2026.com/fifawc4.mpd?username=vip_x8ey152u&password=erGbABOG&channel=fifa4&kid=44698807-b328-44cd-aa45-9f51970a57b8
 
-#EXTINF:-1 tvg-id="rtmsukan" tvg-name="" group-title="Sports" group-logo="" tvg-logo="https://ptv2026.com/logo/sukanrtm.png", RTM Sukan
+#EXTINF:-1 tvg-id="rtmsukan" tvg-name="" group-title="Sports" group-logo="" tvg-logo="https://ptv2026.com/logo/sukanrtm.png", Sukan+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
