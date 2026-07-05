@@ -88,11 +88,30 @@ ARENA BOLA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 http://uutvs.cc/46b9gmvm/8225
 
-
 ARENA BOLA 2
 #EXTINF:-1 group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenabola2hd.png", Astro Arena Bola 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 http://uutvs.cc/46b9gmvm/8263
+
+FOOTBALL
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/footballhd.png", Astro Football
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+http://uutvs.cc/46b9gmvm/8271
+
+Premier League
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/eplhd.png", Astro Premier League
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+http://uutvs.cc/46b9gmvm/8302
+
+Premier League
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/epl2hd.png", Astro Premier League 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+http://uutvs.cc/46b9gmvm/8285
+
+Sports Plus
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/epl2hd.png", Astro Sports Plus
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+http://uutvs.cc/46b9gmvm/8310
 
 ============KIDS TV======≠========================
 
