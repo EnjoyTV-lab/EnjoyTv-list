@@ -67,8 +67,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1113/default_ott.mpd
 
 
 RIA
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/riahd.png", Astro Ria
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1 http://uutvs.cc/46b9gmvm/8295
+#EXTINF:-1 group-title="KIDS TV" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/riahd.png", Astro Ria
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+http://uutvs.cc/46b9gmvm/8295
+
+
 
 ============KIDS TV======≠========================
 
