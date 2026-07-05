@@ -65,10 +65,12 @@ TV ALHIJRAH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; 23129RA5FL Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.39 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1113/default_ott.mpd
 
-ASTRO RIA
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/riahd.png" tvg-name="AstroRia" group-title="Malaysia",Astro Ria http://uutvs.cc/46b9gmvm/8295
 
 
+RIA
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/riahd.png", Astro Ria
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+Ria http://uutvs.cc/46b9gmvm/8295
 
 ============KIDS TV======≠========================
 
