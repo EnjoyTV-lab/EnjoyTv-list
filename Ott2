@@ -83,6 +83,17 @@ CITRA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 http://uutvs.cc/46b9gmvm/8272
 
+ARENA BOLA
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenabolahd.png", Astro Arena Bola
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+http://uutvs.cc/46b9gmvm/8225
+
+
+ARENA BOLA 2
+#EXTINF:-1 group-title="ASTRO" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/arenabola2hd.png", Astro Arena Bola 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+http://uutvs.cc/46b9gmvm/8263
+
 ============KIDS TV======≠========================
 
 CERIA
