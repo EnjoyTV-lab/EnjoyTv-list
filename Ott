@@ -72,6 +72,12 @@ https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index
 
 ============KIDS======≠=========
 
+DREAMWORKS
+#EXTINF:-1 player-buffer="6" group-logo="" group-title="KIDS TV" tvg-id="555.unifi" ch-number="555" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/dreamworks2.png" group-logo="", 206 Dreamworks
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8ce35ed8bc34772abedd63383aa11b7:1d2d76741e825e5c7babf597374b016e
+https://get.perfecttv.net/myunifi.mpd?username=vip_x8ey152u&password=erGbABOG&channel=Dreamworks&kid=e8ce35ed-8bc3-4772-abed-d63383aa11b7
+
 DISNEY XD
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/disneyxd.png", Disney XD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
