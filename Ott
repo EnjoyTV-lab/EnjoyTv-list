@@ -385,7 +385,7 @@ TVONE
 #KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/aaac4479a72f41e7f52ce35d3ad49e804c3b0631/file_000000004dc4622f848ecbc2a24a8ab6%20(1)%20(1).png" group-title="INDONESIAN" x-source="Apple TV update" tvg-id="TVOne.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" , TVONE V+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/aaac4479a72f41e7f52ce35d3ad49e804c3b0631/file_000000004dc4622f848ecbc2a24a8ab6%20(1)%20(1).png" group-title="INDONESIAN" x-source="Apple TV update" tvg-id="TVOne.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" , TVONE V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
