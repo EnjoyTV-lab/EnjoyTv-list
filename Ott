@@ -205,8 +205,12 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/in
 
 
 BANTEN TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="BantenTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/bantentv.png" group-title="INDONESIAN",BANTEN TV
-https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8?channel=bantentv
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+
 
 
 BIOSKOP
@@ -221,57 +225,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/bioskopindonesia/manifest.mpd?channe
 
 BTV
 #EXTINF:-1 tvg-id="ext" group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/btv.png", BTV HD
-https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
-
-
-CHINESE DRAMA
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/chinesedrama.png" group-title="INDONESIAN",CHINESE DRAMA INDI
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-ChineseDrama.m3u8
-#https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/playlist.m3u8
-https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
-
-
-CITRA BIOSKOP
-#EXTINF:-1 group-title="INDONESIAN" tvg-logo="https://i.imgur.com/KK1ipNk.png",Citra Bioskop
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBioskopHD.mpd?channel=citrabioskop
-
-
-CITRA DANGDUT
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/citradangdut.png" group-title="INDONESIAN",CITRA DANGDUT
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd?channel=citradangdut
-
-
-CITRA DRAMA
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/citradrama.png" group-title="INDONESIAN",CITRA DRAMA
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mediampd/CitraDramaHD.mpd
-
-
-CITRA ENTERTAINMENT
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/citraenter.png" group-title="INDONESIAN",CITRA ENTERTAINMENT
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd?channel=citraentertainment
-
-
-CITRA MUSLIM
-#EXTINF:-1 group-title="INDONESIAN" tvg-name="Citra Dangdut" tvg-country="ID" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/citramuslim.png",CITRA MUSLIM
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd?channel=citramuslim
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://cdnbal1.indihometv.com/atm/DASH/beritasatu/beritasatu.mpd
 
 
 DAAITV
@@ -310,7 +265,6 @@ GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-
 
 
 
@@ -405,13 +359,6 @@ TVONE
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="19" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/aaac4479a72f41e7f52ce35d3ad49e804c3b0631/file_000000004dc4622f848ecbc2a24a8ab6%20(1)%20(1).png" group-title="INDONESIAN", TVONE
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/aaac4479a72f41e7f52ce35d3ad49e804c3b0631/file_000000004dc4622f848ecbc2a24a8ab6%20(1)%20(1).png" group-title="INDONESIAN" x-source="Apple TV update" tvg-id="TVOne.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" , TVONE V+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 
 TRANS7
