@@ -307,7 +307,7 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
 
 MNCTV
-#EXTINF:-1 tvg-logo="tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/mnctv.png"" group-title=INDONESIAN",MNCTV
+#EXTINF:-1 tvg-logo="tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/mnctv.png"" group-title="INDONESIAN",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
