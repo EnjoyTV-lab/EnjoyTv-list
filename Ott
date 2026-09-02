@@ -452,3 +452,12 @@ EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
+
+======≠=======================================
+
+
+#EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjTXnuE5gqsfpx7qatVfRrh9ir9_Y2GzlUoq7QDnOfyfi6EJwBaF2sIvZ4PiuPnCOIpzKDruNEJehZJp4nMYj3cJxm8J87941lMfL2eap9Q1mbGtgFU39vQWXYkXqU2aUOMHFPHouvQrm5BeRx8GfgRDgUo2sCXJtSA7UzJ_lWgXoKCwK_WkQ3giaYug34r" group-title=" DOCUMENTARY", OUTDOOR CHANNEL
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title=" DOCUMENTARY" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh8tjZVYdm03wbsDhTsMWmCn5vJ7hKfqy8_Dkj0KKuMwzU7wkT_bzmYxbSmVw71vTWy4Qi40wNNPKh6wJdBnf4BoyG8SUya6JPx466chv0q2BCe28o9aAl9BjlHgBnXnAr6JNWaRKeEaXyEPGPO7gWsKTIDEUujac53AgSZZwbuJypTzWbOz5U9LIE2cLmU", TRAVELXP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
