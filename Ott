@@ -123,43 +123,9 @@ MIRAMAX FILM
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://art.pixilart.com/afe9e5311aad7d6.png",Miramax Film
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/out/v1/13282695f8bb45ae9912e9321bba21b8/cenc.mpd
 
-GALAXY
-#EXTINF:-1 tvg-id="galaxy" tvg-name="148 Galaxy" tvg-logo="https://ptv2026.com/logo/galaxy.png" group-title="MOVIES", Galaxy
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
-
-ORIGINALS
-#EXTINF:-1 tvg-id="originals" tvg-name="159 Originals" tvg-logo="https://ptv2026.com/logo/originals.png" group-title="MOVIES", Originals
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
+cf023e30
 #https://ptv2026.com/dashVision3.mpd?username=vip_x8ey152u&password=erGbABOG&channel=originals
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
-
-
-CINEEDGE
-#EXTINF:-1 tvg-id="cineedge" tvg-name="160 Cineedge" tvg-logo="https://ptv2026.com/logo/cineedge.png" group-title="MOVIES", Cineedge
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
-#https://ptv2026.com/dashVision3.mpd?username=vip_x8ey152u&password=erGbABOG&channel=cineedge
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
-
-
-SUPERRIX
-#EXTINF:-1 tvg-id="superrix" tvg-name="161 Superrix" tvg-logo="https://ptv2026.com/logo/superrix.png" group-title="MOVIES", Superrix
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
-#https://ptv2026.com/dashVision3.mpd?username=vip_x8ey152u&password=erGbABOG&channel=superrix
-https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
-
-
-UNIQUE
-#EXTINF:-1 tvg-id="uniques" tvg-name="162 Uniques" tvg-logo="https://ptv2026.com/logo/uniques.png" group-title="MOVIES", Uniques
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
-#https://ptv2026.com/dashVision3.mpd?username=vip_x8ey152u&password=erGbABOG&channel=uniques
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
 HBOSIGNATURE
 ##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hbosignature.png" group-title="MOVIES",HBO Signature
