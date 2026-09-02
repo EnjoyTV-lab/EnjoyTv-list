@@ -96,6 +96,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5211/default_primary.mpd
 ============MOVIES=================
 
 
+FAMTIMEHD
+#EXTINF:-1 tvg-id="AstroFAMTime" group-logo="https://iili.io/CN3tDy7.png" group-title="MOVIES" tvg-logo="https://i.ibb.co/1cqDdLn/Astro-FAM-Time-2026.png",ASTRO FAM TIME HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wzb9fIuxjRe_Y8nkYDKo7Q","kid":"B_pqn3_ngGu6mw6X0KxbEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0.2171.93 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd
+
+
+
 MN+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
