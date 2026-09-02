@@ -123,20 +123,68 @@ MIRAMAX FILM
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://art.pixilart.com/afe9e5311aad7d6.png",Miramax Film
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/out/v1/13282695f8bb45ae9912e9321bba21b8/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hbosignature.png" group-title="MOVIES",HBO Signature
+GALAXY
+#EXTINF:-1 tvg-id="galaxy" tvg-name="148 Galaxy" tvg-logo="https://ptv2026.com/logo/galaxy.png" group-title="MOVIES", Galaxy
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+
+ORIGINALS
+#EXTINF:-1 tvg-id="originals" tvg-name="159 Originals" tvg-logo="https://ptv2026.com/logo/originals.png" group-title="MOVIES", Originals
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
+#https://ptv2026.com/dashVision3.mpd?username=vip_x8ey152u&password=erGbABOG&channel=originals
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
+
+
+CINEEDGE
+#EXTINF:-1 tvg-id="cineedge" tvg-name="160 Cineedge" tvg-logo="https://ptv2026.com/logo/cineedge.png" group-title="MOVIES", Cineedge
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
+#https://ptv2026.com/dashVision3.mpd?username=vip_x8ey152u&password=erGbABOG&channel=cineedge
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
+
+
+SUPERRIX
+#EXTINF:-1 tvg-id="superrix" tvg-name="161 Superrix" tvg-logo="https://ptv2026.com/logo/superrix.png" group-title="MOVIES", Superrix
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
+#https://ptv2026.com/dashVision3.mpd?username=vip_x8ey152u&password=erGbABOG&channel=superrix
+https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
+
+
+UNIQUE
+#EXTINF:-1 tvg-id="uniques" tvg-name="162 Uniques" tvg-logo="https://ptv2026.com/logo/uniques.png" group-title="MOVIES", Uniques
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
+#https://ptv2026.com/dashVision3.mpd?username=vip_x8ey152u&password=erGbABOG&channel=uniques
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
+
+HBOSIGNATURE
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hbosignature.png" group-title="MOVIES",HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
 
+MOVIESPHERE
+#EXTINF:-1 tvg-id="moviesphere" tvg-logo="https://ptv2026.com/logo/moviesphere.png" group-title="MOVIES",MovieSphere FHD
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hboplus.png" group-title="MOVIES",HBO PLUS
+
+OUTERSPHERE
+#EXTINF:-1 tvg-id="outersphere" tvg-logo="https://ptv2026.com/logo/outersphere.png" group-title="MOVIES",OuterSphere
+https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
+
+
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/hboplus.png" group-title="MOVIES",HBO PLUS
 https://canaiss.fazoeli.co.za/fontes/smart/hboplus.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="152 Star Movies" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/starmoviehd.png" group-title="MOVIES",Star Movies
+##EXTINF:-1 tvg-id="" tvg-name="152 Star Movies" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/starmoviehd.png" group-title="MOVIES",Star Movies
 http://216.132.70.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts?channel=starmovies
 
-#EXTINF:-1 tvg-id="" tvg-name="153 Star Movies Select" tvg-logo="https://get.perfecttv.net/logo/starmoviesselect.png" group-title="MOVIES",Star Movies Select
+##EXTINF:-1 tvg-id="" tvg-name="153 Star Movies Select" tvg-logo="https://get.perfecttv.net/logo/starmoviesselect.png" group-title="MOVIES",Star Movies Select
 http://216.132.70.171:8080/live/vip_x8ey152u/erGbABOG/4602.ts?channel=starmovieselect
 
 
@@ -144,7 +192,7 @@ http://216.132.70.171:8080/live/vip_x8ey152u/erGbABOG/4602.ts?channel=starmovies
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="159 Studio Universal" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/studiouniversal.png" group-title="MOVIES",Studio Universal
+##EXTINF:-1 tvg-id="" tvg-name="159 Studio Universal" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/studiouniversal.png" group-title="MOVIES",Studio Universal
 https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
 
