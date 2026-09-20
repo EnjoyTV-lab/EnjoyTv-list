@@ -3,7 +3,7 @@
 ####################Unifi2.0###################
 
 DUNIASINEMA
-#EXTINF:-1 group-logo="" group-title="MOVIES"  ch-number="128" tvg-id="duniasinemahd" ch-number="128" tvg-logo="https://ptv2026.com/logo/duniasenima.png", Dunia Sinema
+#EXTINF:-1 group-logo="" group-title="UNIFI 2.0"  ch-number="128" tvg-id="duniasinemahd" ch-number="128" tvg-logo="https://ptv2026.com/logo/duniasenima.png", Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
