@@ -3,11 +3,51 @@
 ####################Unifi2.0###################
 
 DUNIASINEMA
-#EXTINF:-1 group-logo="" group-title="UNIFI 2.0"  ch-number="128" tvg-id="duniasinemahd" ch-number="128" tvg-logo="https://ptv2026.com/logo/duniasenima.png", Dunia Sinema
+#EXTINF:-1 group-logo="" group-title="UNIFI 2.0"  ch-number="128" tvg-id="duniasinemahd" ch-number="128" tvg-logo="https://raw.githubusercontent.com/EnjoyTV-lab/EnjoyTV-logo/main/duniasinema.png", Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
 https://ptv2026.com/myunifi.mpd?username=vip_x8ey152u&password=erGbABOG&channel=DuniaSin&kid=01a17625-701e-4734-b02a-a22c8657bd6f
+
+SALAMHD
+#EXTINF:-1 group-logo="" tvg-id="salamhd" group-title="UNIFI 2.0" ch-number="113" tvg-logo="https://ptv2026.com/logo/salamhd.png" group-logo="", Salam HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
+https://ptv2026.com/myunifi.mpd?username=vip_x8ey152u&password=erGbABOG&channel=Salam&kid=32b2e717-61af-4641-900f-87df03c48cb2
+
+
+INSPIRASI
+#EXTINF:-1 group-logo="" tvg-id="Inspirasi" channel-id="118" tvg-name="Inspirasi" tvg-logo="https://ptv2026.com/logo/inspirasi.png" group-title="UNIFI 2.0", Inspirasi 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=94bfaa51ce3c4acfb8a8d5a7229316b6:1bc4bd67943da9eae142af71e31727af
+https://ptv2026.com/myunifi.mpd?username=vip_x8ey152u&password=erGbABOG&channel=Inspirasi&kid=94bfaa51-ce3c-4acf-b8a8-d5a7229316b6
+
+
+SIAR
+#EXTINF:-1 tvg-id="SIAR" tvg-name="SIAR" group-title="UNIFI 2.0" tvg-logo="https://ptv2026.com/logo/siar.png",Siar 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
+https://ptv2026.com/myunifi.mpd?username=vip_x8ey152u&password=erGbABOG&channel=SIAR&kid=5489f58c-64ad-40db-a471-c8b1c2693e2a
+
+SENSASI
+#EXTINF:-1 tvg-id="" tvg-id="sensasi" ch-number="103" tvg-name="" group-title="UNIFI 2.0" tvg-logo="https://ptv2026.com/logo/sensasi.png", Sensasi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ba270026f0a4b29956ace51335fb1ac:edb6adbe31609226e737e515ba813169
+##https://ptv2026.com/xsensasi/xsensasi.mpd?username=vip_x8ey152u&password=erGbABOG&channel=sensasi
+https://ptv2026.com/myunifi.mpd?username=vip_x8ey152u&password=erGbABOG&channel=Sensasi&kid=6ba27002-6f0a-4b29-956a-ce51335fb1ac
+
+
+PESONAHD
+#EXTINF:-1 tvg-id="" tvg-id="pesonahd" ch-number="103" tvg-name="" group-title="MALAYSIA" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=430", Pesona HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6a2211cff9545979f6f1a09851fa495:804119b128f5fe51dba371d18b3c70c5
+https://ptv2026.com/myunifi.mpd?username=vip_x8ey152u&password=erGbABOG&channel=Pesona&kid=d6a2211c-ff95-4597-9f6f-1a09851fa495
 
 
 #############MALAYSIAN#########################
